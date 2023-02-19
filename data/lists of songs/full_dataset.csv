@@ -1,0 +1,967 @@
+,songs,artist_x,title,artist_y,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,year,country
+0,Drip Too Hard,"Lil Baby, Gunna",Top Songs of 2019: USA,"Lil Baby, Gunna",0.897,0.662,1.0,-6.903,0.0,0.292,0.0852,0.0,0.534,0.389,112.511,2019,USA
+4,MIDDLE CHILD,J. Cole,Top Songs of 2019: USA,J. Cole,0.837,0.364,8.0,-11.713,1.0,0.276,0.149,0.0,0.271,0.463,123.984,2019,USA
+7,SICKO MODE,Travis Scott,Top Songs of 2019: USA,Travis Scott,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,2019,USA
+13,Suge,DaBaby,Top Songs of 2019: USA,DaBaby,0.876,0.662,2.0,-6.482,0.0,0.426,0.0608,0.0,0.127,0.844,75.445,2019,USA
+15,7 rings,Ariana Grande,Top Songs of 2019: USA,Ariana Grande,0.778,0.317,1.0,-10.732,0.0,0.334,0.592,0.0,0.0881,0.327,140.048,2019,USA
+18,Wow.,Post Malone,Top Songs of 2019: USA,Post Malone,0.829,0.539,11.0,-7.359,0.0,0.208,0.136,1.78e-06,0.103,0.388,99.96,2019,USA
+21,No Guidance (feat. Drake),Chris Brown,Top Songs of 2019: USA,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2019,USA
+29,Truth Hurts,Lizzo,Top Songs of 2019: USA,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2019,USA
+35,Envy Me,Calboy,Top Songs of 2019: USA,Calboy,0.74,0.488,1.0,-7.664,0.0,0.27,0.234,0.0,0.241,0.584,149.042,2019,USA
+36,Murder on My Mind,YNW Melly,Top Songs of 2019: USA,YNW Melly,0.759,0.73,0.0,-7.985,0.0,0.0516,0.145,3.06e-06,0.11,0.74,115.007,2019,USA
+37,Money,Cardi B,Top Songs of 2019: USA,Cardi B,0.95,0.59,8.0,-6.508,0.0,0.29,0.00534,0.0,0.11,0.219,130.003,2019,USA
+39,Better,Khalid,Top Songs of 2019: USA,Khalid,0.596,0.552,0.0,-10.278,0.0,0.097,0.0765,0.334,0.104,0.112,97.949,2019,USA
+43,bad guy,Billie Eilish,Top Songs of 2019: USA,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2019,USA
+53,Talk,Khalid,Top Songs of 2019: USA,Khalid,0.9,0.4,0.0,-8.575,1.0,0.127,0.0516,0.0,0.0599,0.346,135.984,2019,USA
+56,a lot,21 Savage,Top Songs of 2019: USA,21 Savage,0.837,0.636,1.0,-7.643,1.0,0.086,0.0395,0.00125,0.342,0.274,145.972,2019,USA
+57,Money In The Grave (feat. Rick Ross),Drake,Top Songs of 2019: USA,,,,,,,,,,,,,2019,USA
+58,Pure Cocaine,Lil Baby,Top Songs of 2019: USA,Lil Baby,0.964,0.487,10.0,-6.071,0.0,0.421,0.00127,6.57e-06,0.115,0.107,127.05,2019,USA
+59,Look Back at It,A Boogie wit da Hoodie,Top Songs of 2019: USA,A Boogie wit da Hoodie,0.791,0.587,3.0,-5.075,0.0,0.0413,0.407,0.0,0.148,0.536,96.057,2019,USA
+60,Thotiana,Blueface,Top Songs of 2019: USA,Blueface,0.906,0.382,10.0,-12.89,0.0,0.269,0.18,0.0,0.113,0.391,104.025,2019,USA
+61,Act Up,City Girls,Top Songs of 2019: USA,City Girls,0.938,0.638,8.0,-4.713,1.0,0.189,0.0167,0.0,0.111,0.313,97.075,2019,USA
+62,Mo Bamba,Sheck Wes,Top Songs of 2019: USA,Sheck Wes,0.729,0.625,4.0,-5.266,1.0,0.0315,0.194,0.00986,0.248,0.261,146.034,2019,USA
+63,Yes Indeed,"Lil Baby, Drake",Top Songs of 2019: USA,"Lil Baby, Drake",0.963,0.346,5.0,-9.309,0.0,0.53,0.0355,0.0,0.108,0.562,119.957,2019,USA
+66,when the party's over,Billie Eilish,Top Songs of 2019: USA,Billie Eilish,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,2019,USA
+72,Slime Belief,YoungBoy Never Broke Again,Top Songs of 2019: USA,YoungBoy Never Broke Again,0.748,0.578,9.0,-5.72,1.0,0.194,0.257,0.0,0.13,0.166,140.016,2019,USA
+73,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2019: USA,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2019,USA
+82,Ransom,Lil Tecca,Top Songs of 2019: USA,Lil Tecca,0.745,0.642,7.0,-6.257,0.0,0.287,0.0204,0.0,0.0658,0.226,179.974,2019,USA
+83,"break up with your girlfriend, i'm bored",Ariana Grande,Top Songs of 2019: USA,Ariana Grande,0.726,0.554,5.0,-5.29,0.0,0.0917,0.0421,0.0,0.106,0.335,169.999,2019,USA
+86,Close Friends,Lil Baby,Top Songs of 2019: USA,Lil Baby,0.676,0.578,10.0,-4.669,0.0,0.375,0.0509,0.0,0.0796,0.698,158.896,2019,USA
+87,Nonstop,Drake,Top Songs of 2019: USA,Drake,0.912,0.412,7.0,-8.074,1.0,0.123,0.0165,0.0126,0.104,0.423,154.983,2019,USA
+89,Sanguine Paradise,Lil Uzi Vert,Top Songs of 2019: USA,Lil Uzi Vert,0.729,0.603,6.0,-6.736,0.0,0.0666,0.0948,0.0,0.113,0.207,134.972,2019,USA
+90,Happier,"Marshmello, Bastille",Top Songs of 2019: USA,"Marshmello, Bastille",0.687,0.792,5.0,-2.749,1.0,0.0452,0.191,0.0,0.167,0.671,100.015,2019,USA
+95,Calling My Spirit,Kodak Black,Top Songs of 2019: USA,Kodak Black,0.91,0.366,1.0,-9.954,1.0,0.0941,0.0996,0.0,0.261,0.74,119.985,2019,USA
+96,Pure Water,"Mustard, Migos",Top Songs of 2019: USA,"Mustard, Migos",0.682,0.559,0.0,-5.545,1.0,0.127,0.174,0.0,0.344,0.137,202.015,2019,USA
+97,Wake Up in the Sky,"Gucci Mane, Bruno Mars, Kodak Black",Top Songs of 2019: USA,"Gucci Mane, Bruno Mars, Kodak Black",0.8,0.578,4.0,-5.144,0.0,0.0485,0.00381,0.0,0.359,0.367,143.01,2019,USA
+98,Lucid Dreams,Juice WRLD,Top Songs of 2019: USA,Juice WRLD,0.511,0.566,6.0,-7.23,0.0,0.2,0.349,0.0,0.34,0.218,83.903,2019,USA
+100,Worth It,YK Osiris,Top Songs of 2019: USA,YK Osiris,0.749,0.535,5.0,-4.054,0.0,0.0638,0.517,0.0,0.0942,0.459,124.008,2019,USA
+101,Baby,"Quality Control, Lil Baby, DaBaby",Top Songs of 2019: USA,"Quality Control, Lil Baby, DaBaby",0.97,0.463,10.0,-7.259,1.0,0.366,0.0957,0.0,0.151,0.46,108.003,2019,USA
+103,Speechless,Dan + Shay,Top Songs of 2019: USA,Dan + Shay,0.616,0.438,1.0,-5.968,1.0,0.0298,0.356,0.0,0.24,0.386,135.929,2019,USA
+104,Die Young,Roddy Ricch,Top Songs of 2019: USA,Roddy Ricch,0.687,0.656,4.0,-5.541,0.0,0.276,0.218,0.0,0.115,0.365,160.416,2019,USA
+105,Trip,Ella Mai,Top Songs of 2019: USA,Ella Mai,0.477,0.61,11.0,-5.628,0.0,0.144,0.225,0.0,0.107,0.358,79.882,2019,USA
+106,I Like It,"Cardi B, Bad Bunny, J Balvin",Top Songs of 2019: USA,"Cardi B, Bad Bunny, J Balvin",0.816,0.726,5.0,-3.998,0.0,0.129,0.099,0.0,0.372,0.65,136.048,2019,USA
+109,Señorita,"Shawn Mendes, Camila Cabello",Top Songs of 2019: USA,"Shawn Mendes, Camila Cabello",0.759,0.548,9.0,-6.049,0.0,0.029,0.0392,0.0,0.0828,0.749,116.967,2019,USA
+114,Someone You Loved,Lewis Capaldi,Top Songs of 2019: USA,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2019,USA
+124,Please Me,"Cardi B, Bruno Mars",Top Songs of 2019: USA,"Cardi B, Bruno Mars",0.747,0.57,1.0,-6.711,1.0,0.081,0.0642,0.0,0.0832,0.65,133.992,2019,USA
+126,Sucker,Jonas Brothers,Top Songs of 2019: USA,Jonas Brothers,0.842,0.734,1.0,-5.065,0.0,0.0588,0.0427,0.0,0.106,0.952,137.958,2019,USA
+130,Beautiful Crazy,Luke Combs,Top Songs of 2019: USA,Luke Combs,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,2019,USA
+134,Tap (feat. Meek Mill),NAV,Top Songs of 2019: USA,NAV,0.901,0.676,2.0,-7.033,1.0,0.251,0.0646,0.0,0.0863,0.452,85.018,2019,USA
+135,YOSEMITE,Travis Scott,Top Songs of 2019: USA,Travis Scott,0.785,0.554,0.0,-6.571,1.0,0.0409,0.283,3.4e-06,0.116,0.144,128.047,2019,USA
+136,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2019: USA,,,,,,,,,,,,,2019,USA
+137,Never Recover,"Lil Baby, Gunna, Drake",Top Songs of 2019: USA,"Lil Baby, Gunna, Drake",0.753,0.686,1.0,-5.415,0.0,0.284,0.0677,0.0,0.193,0.886,132.055,2019,USA
+138,Leave Me Alone,Flipp Dinero,Top Songs of 2019: USA,Flipp Dinero,0.792,0.743,7.0,-2.806,1.0,0.0851,0.107,0.0,0.183,0.742,150.024,2019,USA
+139,Armed and Dangerous,Juice WRLD,Top Songs of 2019: USA,Juice WRLD,0.736,0.67,10.0,-6.702,1.0,0.311,0.186,0.0,0.114,0.845,130.032,2019,USA
+141,Every Season,Roddy Ricch,Top Songs of 2019: USA,Roddy Ricch,0.936,0.704,5.0,-5.47,0.0,0.457,0.0632,0.0,0.104,0.566,130.022,2019,USA
+142,Better Now,Post Malone,Top Songs of 2019: USA,Post Malone,0.68,0.578,10.0,-5.804,1.0,0.04,0.331,0.0,0.135,0.341,145.038,2019,USA
+145,Dancing With A Stranger,"Sam Smith, Normani",Top Songs of 2019: USA,"Sam Smith, Normani",0.741,0.52,8.0,-7.513,1.0,0.0656,0.45,1.97e-06,0.222,0.347,102.998,2019,USA
+149,Robbery,Juice WRLD,Top Songs of 2019: USA,Juice WRLD,0.623,0.692,2.0,-5.122,1.0,0.0504,0.328,0.0,0.153,0.566,79.899,2019,USA
+151,lovely,"Billie Eilish, Khalid",Top Songs of 2019: USA,"Billie Eilish, Khalid",0.351,0.296,4.0,-10.109,0.0,0.0333,0.934,0.0,0.095,0.12,115.284,2019,USA
+155,Panini,Lil Nas X,Top Songs of 2019: USA,Lil Nas X,0.703,0.594,5.0,-6.146,0.0,0.0752,0.342,0.0,0.123,0.475,153.848,2019,USA
+156,Racks in the Middle (feat. Roddy Ricch and Hit-Boy),Nipsey Hussle,Top Songs of 2019: USA,Nipsey Hussle,0.671,0.833,5.0,-5.152,0.0,0.395,0.0825,0.0,0.0726,0.702,79.351,2019,USA
+157,Backin' It Up (feat. Cardi B),Pardison Fontaine,Top Songs of 2019: USA,Pardison Fontaine,0.796,0.68,10.0,-4.853,0.0,0.353,0.0886,0.0,0.268,0.565,164.932,2019,USA
+158,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2019: USA,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2019,USA
+167,ocean eyes,Billie Eilish,Top Songs of 2019: USA,Billie Eilish,0.511,0.363,4.0,-7.65,0.0,0.041,0.816,0.0317,0.084,0.169,144.892,2019,USA
+171,Nice For What,Drake,Top Songs of 2019: USA,Drake,0.585,0.909,8.0,-6.474,1.0,0.0707,0.0891,9.7e-05,0.119,0.758,93.372,2019,USA
+172,Startender (feat. Offset and Tyga),A Boogie wit da Hoodie,Top Songs of 2019: USA,A Boogie wit da Hoodie,0.736,0.622,6.0,-4.653,0.0,0.133,0.0235,0.0,0.151,0.506,191.971,2019,USA
+173,Taste (feat. Offset),Tyga,Top Songs of 2019: USA,Tyga,0.884,0.559,0.0,-7.442,1.0,0.12,0.0236,0.0,0.101,0.342,97.994,2019,USA
+176,Moonlight,XXXTENTACION,Top Songs of 2019: USA,XXXTENTACION,0.921,0.537,9.0,-5.723,0.0,0.0804,0.556,0.00404,0.102,0.711,128.009,2019,USA
+177,rockstar (feat. 21 Savage),Post Malone,Top Songs of 2019: USA,Post Malone,0.585,0.52,5.0,-6.136,0.0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,2019,USA
+180,Ballin’,"Mustard, Roddy Ricch",Top Songs of 2019: USA,"Mustard, Roddy Ricch",0.809,0.545,7.0,-6.678,1.0,0.0735,0.392,0.0,0.151,0.244,97.008,2019,USA
+183,Whiskey Glasses,Morgan Wallen,Top Songs of 2019: USA,Morgan Wallen,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,2019,USA
+187,Fine China,"Future, Juice WRLD",Top Songs of 2019: USA,"Future, Juice WRLD",0.656,0.542,7.0,-7.358,1.0,0.323,0.0484,0.0,0.126,0.551,166.111,2019,USA
+188,EARFQUAKE,"Tyler, The Creator",Top Songs of 2019: USA,"Tyler, The Creator",0.554,0.498,9.0,-8.866,1.0,0.0685,0.23,5.98e-06,0.795,0.413,79.635,2019,USA
+189,can't leave without it,21 Savage,Top Songs of 2019: USA,21 Savage,0.872,0.591,6.0,-6.952,0.0,0.359,0.111,0.0,0.144,0.696,131.982,2019,USA
+190,I Fall Apart,Post Malone,Top Songs of 2019: USA,Post Malone,0.556,0.538,8.0,-5.408,0.0,0.0382,0.0689,0.0,0.196,0.291,143.95,2019,USA
+193,God's Plan,Drake,Top Songs of 2019: USA,Drake,0.754,0.449,7.0,-9.211,1.0,0.109,0.0332,8.29e-05,0.552,0.357,77.169,2019,USA
+195,The Box,Roddy Ricch,Top Songs of 2020: USA,Roddy Ricch,0.896,0.586,10.0,-6.687,0.0,0.0559,0.104,0.0,0.79,0.642,116.971,2020,USA
+199,Woah,Lil Baby,Top Songs of 2020: USA,Lil Baby,0.882,0.602,11.0,-5.554,1.0,0.245,0.0177,0.0,0.178,0.43,142.959,2020,USA
+201,Ballin’,"Mustard, Roddy Ricch",Top Songs of 2020: USA,"Mustard, Roddy Ricch",0.809,0.545,7.0,-6.678,1.0,0.0735,0.392,0.0,0.151,0.244,97.008,2020,USA
+204,Blinding Lights,The Weeknd,Top Songs of 2020: USA,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2020,USA
+213,Sum 2 Prove,Lil Baby,Top Songs of 2020: USA,Lil Baby,0.827,0.552,4.0,-7.571,0.0,0.274,0.0169,0.0,0.122,0.408,124.011,2020,USA
+216,BOP,DaBaby,Top Songs of 2020: USA,DaBaby,0.769,0.787,11.0,-3.909,1.0,0.367,0.189,0.0,0.129,0.836,126.77,2020,USA
+217,Bandit,"Juice WRLD, YoungBoy Never Broke Again",Top Songs of 2020: USA,"Juice WRLD, YoungBoy Never Broke Again",0.474,0.631,5.0,-5.884,0.0,0.343,0.0687,0.0,0.132,0.425,180.051,2020,USA
+218,Circles,Post Malone,Top Songs of 2020: USA,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2020,USA
+226,No Guidance (feat. Drake),Chris Brown,Top Songs of 2020: USA,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2020,USA
+234,HIGHEST IN THE ROOM,Travis Scott,Top Songs of 2020: USA,Travis Scott,0.598,0.427,7.0,-8.764,0.0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,2020,USA
+237,We Paid,"Lil Baby, 42 Dugg",Top Songs of 2020: USA,"Lil Baby, 42 Dugg",0.926,0.542,1.0,-5.064,1.0,0.293,0.135,0.0,0.0877,0.564,135.14,2020,USA
+239,ROXANNE,Arizona Zervas,Top Songs of 2020: USA,Arizona Zervas,0.621,0.601,6.0,-5.616,0.0,0.148,0.0522,0.0,0.46,0.457,116.735,2020,USA
+242,Baby,"Quality Control, Lil Baby, DaBaby",Top Songs of 2020: USA,"Quality Control, Lil Baby, DaBaby",0.97,0.463,10.0,-7.259,1.0,0.366,0.0957,0.0,0.151,0.46,108.003,2020,USA
+244,VIBEZ,DaBaby,Top Songs of 2020: USA,DaBaby,0.768,0.652,1.0,-2.708,0.0,0.307,0.113,0.0,0.107,0.777,154.187,2020,USA
+245,everything i wanted,Billie Eilish,Top Songs of 2020: USA,Billie Eilish,0.704,0.225,6.0,-14.454,0.0,0.0994,0.902,0.657,0.106,0.243,120.006,2020,USA
+248,Toosie Slide,Drake,Top Songs of 2020: USA,Drake,0.834,0.454,1.0,-9.75,0.0,0.201,0.321,6.15e-06,0.114,0.837,81.618,2020,USA
+251,Emotionally Scarred,Lil Baby,Top Songs of 2020: USA,Lil Baby,0.585,0.641,6.0,-4.269,0.0,0.133,0.0286,0.0,0.316,0.266,88.284,2020,USA
+253,OUT WEST (feat. Young Thug),"JACKBOYS, Travis Scott",Top Songs of 2020: USA,"JACKBOYS, Travis Scott",0.802,0.591,8.0,-4.895,1.0,0.225,0.0104,0.0,0.196,0.309,139.864,2020,USA
+254,Make No Sense,YoungBoy Never Broke Again,Top Songs of 2020: USA,YoungBoy Never Broke Again,0.876,0.733,10.0,-4.478,0.0,0.333,0.0208,0.0,0.0999,0.962,154.904,2020,USA
+255,Don't Start Now,Dua Lipa,Top Songs of 2020: USA,,,,,,,,,,,,,2020,USA
+256,Someone You Loved,Lewis Capaldi,Top Songs of 2020: USA,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2020,USA
+266,Blueberry Faygo,Lil Mosey,Top Songs of 2020: USA,Lil Mosey,0.774,0.554,0.0,-7.909,1.0,0.0383,0.207,0.0,0.132,0.349,99.034,2020,USA
+268,Heartless,The Weeknd,Top Songs of 2020: USA,The Weeknd,0.538,0.751,10.0,-5.487,0.0,0.128,0.0194,1.42e-06,0.145,0.244,169.985,2020,USA
+269,Adore You,Harry Styles,Top Songs of 2020: USA,Harry Styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,2020,USA
+274,Heartless (feat. Morgan Wallen),Diplo,Top Songs of 2020: USA,Diplo,0.765,0.556,11.0,-6.417,1.0,0.0512,0.275,0.0,0.0824,0.274,111.033,2020,USA
+276,P*$$Y Fairy (OTW),Jhené Aiko,Top Songs of 2020: USA,Jhené Aiko,0.572,0.519,2.0,-7.092,0.0,0.212,0.536,0.0,0.102,0.35,128.331,2020,USA
+277,Falling,Trevor Daniel,Top Songs of 2020: USA,Trevor Daniel,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,2020,USA
+278,Falling,Trevor Daniel,Top Songs of 2020: USA,Harry Styles,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,2020,USA
+282,Watermelon Sugar,Harry Styles,Top Songs of 2020: USA,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2020,USA
+289,Playing Games (Extended Version),"Summer Walker, Bryson Tiller",Top Songs of 2020: USA,"Summer Walker, Bryson Tiller",0.726,0.408,11.0,-6.606,0.0,0.0614,0.603,0.0,0.225,0.459,115.918,2020,USA
+290,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2020: USA,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2020,USA
+296,Heart on Ice,Rod Wave,Top Songs of 2020: USA,Rod Wave,0.732,0.387,10.0,-8.47,0.0,0.0741,0.0493,0.0,0.141,0.242,157.875,2020,USA
+297,Suicidal,YNW Melly,Top Songs of 2020: USA,YNW Melly,0.735,0.369,9.0,-9.682,0.0,0.0688,0.334,0.0,0.126,0.235,140.004,2020,USA
+298,Grace,"Lil Baby, 42 Dugg",Top Songs of 2020: USA,"Lil Baby, 42 Dugg",0.817,0.513,10.0,-6.263,0.0,0.394,0.38,0.0,0.109,0.177,123.029,2020,USA
+299,hot girl bummer,blackbear,Top Songs of 2020: USA,blackbear,0.782,0.559,6.0,-7.106,0.0,0.0767,0.125,0.0,0.385,0.685,129.992,2020,USA
+302,Come Thru,"Summer Walker, Usher",Top Songs of 2020: USA,"Summer Walker, Usher",0.679,0.728,5.0,-3.092,0.0,0.154,0.159,0.0,0.107,0.46,152.001,2020,USA
+303,Vete,Bad Bunny,Top Songs of 2020: USA,Bad Bunny,0.886,0.672,1.0,-4.394,1.0,0.188,0.0363,8.78e-06,0.101,0.526,91.976,2020,USA
+304,"10,000 Hours","Dan + Shay, Justin Bieber",Top Songs of 2020: USA,"Dan + Shay, Justin Bieber",0.654,0.63,10.0,-4.644,1.0,0.0259,0.153,0.0,0.111,0.43,89.991,2020,USA
+307,No Idea,Don Toliver,Top Songs of 2020: USA,Don Toliver,0.652,0.631,6.0,-5.718,0.0,0.0893,0.524,0.000579,0.165,0.35,127.998,2020,USA
+308,I Hope,Gabby Barrett,Top Songs of 2020: USA,Gabby Barrett,0.466,0.536,6.0,-6.227,1.0,0.0429,0.0951,0.0,0.114,0.377,75.998,2020,USA
+309,Chasin' You,Morgan Wallen,Top Songs of 2020: USA,Morgan Wallen,0.631,0.591,7.0,-5.785,1.0,0.0277,0.657,0.0,0.11,0.489,97.074,2020,USA
+311,Hot Now,YoungBoy Never Broke Again,Top Songs of 2020: USA,YoungBoy Never Broke Again,0.739,0.637,4.0,-5.79,0.0,0.44,0.232,0.0,0.634,0.513,164.91,2020,USA
+312,Futsal Shuffle 2020,Lil Uzi Vert,Top Songs of 2020: USA,Lil Uzi Vert,0.881,0.457,7.0,-8.191,0.0,0.156,0.0327,0.0,0.231,0.296,136.97,2020,USA
+313,The Bigger Picture,Lil Baby,Top Songs of 2020: USA,Lil Baby,0.59,0.618,1.0,-5.756,1.0,0.334,0.0127,0.0,0.244,0.153,96.459,2020,USA
+314,Chicago Freestyle,"Drake, GIVĒON",Top Songs of 2020: USA,"Drake, GIVĒON",0.735,0.449,10.0,-7.507,1.0,0.347,0.629,0.0,0.113,0.0397,122.947,2020,USA
+315,Suge,DaBaby,Top Songs of 2020: USA,DaBaby,0.876,0.662,2.0,-6.482,0.0,0.426,0.0608,0.0,0.127,0.844,75.445,2020,USA
+317,Money In The Grave (feat. Rick Ross),Drake,Top Songs of 2020: USA,,,,,,,,,,,,,2020,USA
+318,Drip Too Hard,"Lil Baby, Gunna",Top Songs of 2020: USA,"Lil Baby, Gunna",0.897,0.662,1.0,-6.903,0.0,0.292,0.0852,0.0,0.534,0.389,112.511,2020,USA
+322,Lucid Dreams,Juice WRLD,Top Songs of 2020: USA,Juice WRLD,0.511,0.566,6.0,-7.23,0.0,0.2,0.349,0.0,0.34,0.218,83.903,2020,USA
+324,Body,Summer Walker,Top Songs of 2020: USA,Summer Walker,0.555,0.507,11.0,-6.099,0.0,0.167,0.25,0.0,0.283,0.339,137.875,2020,USA
+325,Body,Summer Walker,Top Songs of 2020: USA,Megan Thee Stallion,0.914,0.732,8.0,-6.1,0.0,0.241,0.0166,0.0,0.107,0.469,94.066,2020,USA
+326,Savage Remix (feat. Beyoncé),Megan Thee Stallion,Top Songs of 2020: USA,Megan Thee Stallion,0.822,0.743,10.0,-4.772,0.0,0.28,0.016,0.0,0.127,0.636,84.459,2020,USA
+327,SICKO MODE,Travis Scott,Top Songs of 2020: USA,Travis Scott,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,2020,USA
+333,Heatin Up,"Lil Baby, Gunna",Top Songs of 2020: USA,"Lil Baby, Gunna",0.788,0.436,1.0,-9.435,1.0,0.364,0.0611,0.0,0.0979,0.341,129.847,2020,USA
+334,Sunday Best,Surfaces,Top Songs of 2020: USA,Surfaces,0.878,0.525,5.0,-6.832,1.0,0.0578,0.183,0.0,0.0714,0.694,112.022,2020,USA
+337,Robbery,Juice WRLD,Top Songs of 2020: USA,Juice WRLD,0.623,0.692,2.0,-5.122,1.0,0.0504,0.328,0.0,0.153,0.566,79.899,2020,USA
+339,Lonely Child,YoungBoy Never Broke Again,Top Songs of 2020: USA,YoungBoy Never Broke Again,0.584,0.688,6.0,-4.427,0.0,0.431,0.294,0.0,0.097,0.628,94.971,2020,USA
+340,bad guy,Billie Eilish,Top Songs of 2020: USA,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2020,USA
+350,Whiskey Glasses,Morgan Wallen,Top Songs of 2020: USA,Morgan Wallen,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,2020,USA
+354,Say So,Doja Cat,Top Songs of 2020: USA,Doja Cat,0.787,0.673,11.0,-4.583,0.0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,2020,USA
+357,Memories,Maroon 5,Top Songs of 2020: USA,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2020,USA
+364,If the World Was Ending (feat. Julia Michaels),JP Saxe,Top Songs of 2020: USA,JP Saxe,0.464,0.473,1.0,-10.086,1.0,0.129,0.866,0.0,0.109,0.604,75.801,2020,USA
+367,Before You Go,Lewis Capaldi,Top Songs of 2020: USA,Lewis Capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,2020,USA
+372,F.N,Lil Tjay,Top Songs of 2020: USA,Lil Tjay,0.567,0.515,6.0,-10.265,0.0,0.247,0.354,0.0,0.078,0.321,120.1,2020,USA
+373,Yes Indeed,"Lil Baby, Drake",Top Songs of 2020: USA,"Lil Baby, Drake",0.963,0.346,5.0,-9.309,0.0,0.53,0.0355,0.0,0.108,0.562,119.957,2020,USA
+376,Party Girl,StaySolidRocky,Top Songs of 2020: USA,StaySolidRocky,0.728,0.431,6.0,-9.966,0.0,0.0622,0.749,0.0,0.0996,0.629,130.022,2020,USA
+377,Big Stepper,Roddy Ricch,Top Songs of 2020: USA,Roddy Ricch,0.753,0.597,8.0,-8.469,1.0,0.292,0.0477,0.0,0.197,0.616,76.997,2020,USA
+378,THE SCOTTS,"THE SCOTTS, Travis Scott, Kid Cudi",Top Songs of 2020: USA,"THE SCOTTS, Travis Scott, Kid Cudi",0.716,0.537,0.0,-7.648,0.0,0.0514,0.233,0.0,0.157,0.28,129.979,2020,USA
+379,Jerry Sprunger,"Tory Lanez, T-Pain",Top Songs of 2020: USA,"Tory Lanez, T-Pain",0.76,0.746,0.0,-5.331,0.0,0.227,0.137,0.0,0.0905,0.449,100.011,2020,USA
+380,Truth Hurts,Lizzo,Top Songs of 2020: USA,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2020,USA
+386,Savage,Megan Thee Stallion,Top Songs of 2020: USA,Megan Thee Stallion,0.843,0.741,11.0,-5.609,1.0,0.334,0.0252,0.0,0.096,0.68,168.983,2020,USA
+387,Wants and Needs (feat. Lil Baby),Drake,Top Songs of 2021: USA,Drake,0.578,0.449,1.0,-6.349,1.0,0.286,0.0618,2.17e-06,0.119,0.1,136.006,2021,USA
+389,Back in Blood (feat. Lil Durk),Pooh Shiesty,Top Songs of 2021: USA,Pooh Shiesty,0.759,0.538,8.0,-8.256,0.0,0.384,0.151,0.0,0.126,0.831,146.933,2021,USA
+391,drivers license,Olivia Rodrigo,Top Songs of 2021: USA,Olivia Rodrigo,0.561,0.431,10.0,-8.81,1.0,0.0578,0.768,1.42e-05,0.106,0.137,143.875,2021,USA
+394,On Me,Lil Baby,Top Songs of 2021: USA,Lil Baby,0.856,0.564,6.0,-6.295,0.0,0.392,0.00327,0.0,0.134,0.483,77.972,2021,USA
+395,RAPSTAR,Polo G,Top Songs of 2021: USA,Polo G,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,2021,USA
+398,good 4 u,Olivia Rodrigo,Top Songs of 2021: USA,Olivia Rodrigo,0.563,0.664,9.0,-5.044,1.0,0.154,0.335,0.0,0.0849,0.688,166.928,2021,USA
+404,Good Days,SZA,Top Songs of 2021: USA,SZA,0.436,0.655,1.0,-8.37,0.0,0.0583,0.499,8.1e-06,0.688,0.412,121.002,2021,USA
+406,Calling My Phone,"Lil Tjay, 6LACK",Top Songs of 2021: USA,"Lil Tjay, 6LACK",0.907,0.393,4.0,-7.636,0.0,0.0539,0.451,1.35e-06,0.135,0.202,104.949,2021,USA
+408,Save Your Tears,The Weeknd,Top Songs of 2021: USA,The Weeknd,0.685,0.816,0.0,-5.496,1.0,0.0308,0.0216,2.05e-05,0.439,0.619,118.065,2021,USA
+411,positions,Ariana Grande,Top Songs of 2021: USA,Ariana Grande,0.737,0.802,0.0,-4.771,1.0,0.0878,0.468,0.0,0.0931,0.682,144.015,2021,USA
+414,Drankin N Smokin,"Future, Lil Uzi Vert",Top Songs of 2021: USA,"Future, Lil Uzi Vert",0.752,0.658,0.0,-6.297,1.0,0.342,0.0421,0.0,0.0927,0.387,151.951,2021,USA
+415,You're Mines Still,Yung Bleu,Top Songs of 2021: USA,Yung Bleu,0.613,0.615,5.0,-4.859,0.0,0.107,0.308,0.0,0.107,0.342,86.782,2021,USA
+416,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2021: USA,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2021,USA
+422,What You Know Bout Love,Pop Smoke,Top Songs of 2021: USA,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,2021,USA
+426,HEARTBREAK ANNIVERSARY,GIVĒON,Top Songs of 2021: USA,GIVĒON,0.449,0.465,0.0,-8.964,1.0,0.0791,0.524,1.02e-06,0.303,0.543,89.087,2021,USA
+428,Time Today,Moneybagg Yo,Top Songs of 2021: USA,Moneybagg Yo,0.912,0.608,1.0,-7.686,1.0,0.397,0.0458,0.0,0.248,0.327,136.994,2021,USA
+429,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2021: USA,Dua Lipa,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,2021,USA
+434,Wockesha,Moneybagg Yo,Top Songs of 2021: USA,Moneybagg Yo,0.582,0.537,0.0,-9.229,1.0,0.619,0.129,0.0,0.0749,0.771,82.103,2021,USA
+435,Up,Cardi B,Top Songs of 2021: USA,Cardi B,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,2021,USA
+438,Forever After All,Luke Combs,Top Songs of 2021: USA,Luke Combs,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,2021,USA
+440,Blinding Lights,The Weeknd,Top Songs of 2021: USA,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2021,USA
+449,Whoopty,CJ,Top Songs of 2021: USA,CJ,0.719,0.648,3.0,-7.6,0.0,0.125,0.2,0.0,0.127,0.66,140.201,2021,USA
+452,deja vu,Olivia Rodrigo,Top Songs of 2021: USA,Olivia Rodrigo,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,2021,USA
+455,Martin & Gina,Polo G,Top Songs of 2021: USA,Polo G,0.832,0.534,1.0,-7.813,0.0,0.253,0.345,0.0,0.165,0.116,93.924,2021,USA
+457,Streets,Doja Cat,Top Songs of 2021: USA,Doja Cat,0.749,0.463,11.0,-8.433,1.0,0.0842,0.21,0.0382,0.338,0.189,90.035,2021,USA
+460,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2021: USA,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2021,USA
+466,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2021: USA,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2021,USA
+472,Kacey Talk,YoungBoy Never Broke Again,Top Songs of 2021: USA,YoungBoy Never Broke Again,0.877,0.607,10.0,-7.818,0.0,0.15,0.535,0.0,0.138,0.773,127.055,2021,USA
+474,Street Runner,Rod Wave,Top Songs of 2021: USA,Rod Wave,0.599,0.61,5.0,-8.633,0.0,0.24,0.213,0.000414,0.151,0.434,159.933,2021,USA
+475,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",Top Songs of 2021: USA,"Bruno Mars, Anderson .Paak, Silk Sonic",0.586,0.616,5.0,-7.964,1.0,0.0324,0.182,0.0,0.0927,0.719,148.088,2021,USA
+478,Wasted On You,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.505,0.657,11.0,-5.24,0.0,0.0318,0.373,0.00107,0.126,0.252,196.0,2021,USA
+480,Damage,H.E.R.,Top Songs of 2021: USA,H.E.R.,0.646,0.696,1.0,-6.505,1.0,0.065,0.113,0.0,0.115,0.18,81.336,2021,USA
+481,Astronaut In The Ocean,Masked Wolf,Top Songs of 2021: USA,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,2021,USA
+483,Body,Megan Thee Stallion,Top Songs of 2021: USA,Summer Walker,0.555,0.507,11.0,-6.099,0.0,0.167,0.25,0.0,0.283,0.339,137.875,2021,USA
+484,Body,Megan Thee Stallion,Top Songs of 2021: USA,Megan Thee Stallion,0.914,0.732,8.0,-6.1,0.0,0.241,0.0166,0.0,0.107,0.469,94.066,2021,USA
+485,What’s Next,Drake,Top Songs of 2021: USA,Drake,0.781,0.594,0.0,-6.959,0.0,0.0485,0.0136,0.0,0.162,0.0628,129.895,2021,USA
+486,my ex's best friend,"Machine Gun Kelly, blackbear",Top Songs of 2021: USA,"Machine Gun Kelly, blackbear",0.731,0.675,5.0,-5.134,0.0,0.0434,0.00473,0.0,0.141,0.298,124.939,2021,USA
+488,We Paid,"Lil Baby, 42 Dugg",Top Songs of 2021: USA,"Lil Baby, 42 Dugg",0.926,0.542,1.0,-5.064,1.0,0.293,0.135,0.0,0.0877,0.564,135.14,2021,USA
+490,Way 2 Sexy (feat. Future & Young Thug),Drake,Top Songs of 2021: USA,,,,,,,,,,,,,2021,USA
+491,Tombstone,Rod Wave,Top Songs of 2021: USA,Rod Wave,0.55,0.637,8.0,-5.212,1.0,0.163,0.597,0.0,0.129,0.535,84.448,2021,USA
+492,The Box,Roddy Ricch,Top Songs of 2021: USA,Roddy Ricch,0.896,0.586,10.0,-6.687,0.0,0.0559,0.104,0.0,0.79,0.642,116.971,2021,USA
+496,Yes Indeed,"Lil Baby, Drake",Top Songs of 2021: USA,"Lil Baby, Drake",0.963,0.346,5.0,-9.309,0.0,0.53,0.0355,0.0,0.108,0.562,119.957,2021,USA
+499,WITHOUT YOU,The Kid LAROI,Top Songs of 2021: USA,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,2021,USA
+503,No Guidance (feat. Drake),Chris Brown,Top Songs of 2021: USA,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2021,USA
+511,7 Summers,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.466,0.786,0.0,-5.13,1.0,0.0328,0.417,6.1e-05,0.125,0.571,203.903,2021,USA
+512,Somebody’s Problem,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.658,0.538,5.0,-7.676,1.0,0.0289,0.657,0.0,0.123,0.62,136.967,2021,USA
+513,Heat Waves,Glass Animals,Top Songs of 2021: USA,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,2021,USA
+519,More Than My Hometown,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.62,0.869,6.0,-5.479,1.0,0.0462,0.615,0.0,0.131,0.597,126.019,2021,USA
+521,Tyler Herro,Jack Harlow,Top Songs of 2021: USA,Jack Harlow,0.792,0.793,5.0,-6.185,0.0,0.0841,0.0872,0.0,0.22,0.775,123.031,2021,USA
+522,Cover Me Up,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.549,0.44,7.0,-8.192,1.0,0.0264,0.232,7.37e-06,0.107,0.214,128.01,2021,USA
+524,Sum 2 Prove,Lil Baby,Top Songs of 2021: USA,Lil Baby,0.827,0.552,4.0,-7.571,0.0,0.274,0.0169,0.0,0.122,0.408,124.011,2021,USA
+527,Dior,Pop Smoke,Top Songs of 2021: USA,Pop Smoke,0.548,0.805,7.0,-5.732,1.0,0.351,0.212,0.000389,0.408,0.648,142.094,2021,USA
+529,Took Her to the O,King Von,Top Songs of 2021: USA,King Von,0.82,0.592,1.0,-7.002,1.0,0.29,0.0149,4.71e-06,0.121,0.4,159.98,2021,USA
+530,traitor,Olivia Rodrigo,Top Songs of 2021: USA,Olivia Rodrigo,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,2021,USA
+533,Still Trappin',"Lil Durk, King Von",Top Songs of 2021: USA,"Lil Durk, King Von",0.877,0.679,5.0,-4.969,0.0,0.355,0.0458,0.0,0.0987,0.624,144.93,2021,USA
+534,Hellcats & Trackhawks,"Only The Family, Lil Durk",Top Songs of 2021: USA,"Only The Family, Lil Durk",0.841,0.672,1.0,-5.557,0.0,0.371,0.0122,0.0,0.321,0.599,157.026,2021,USA
+535,Knife Talk (feat. 21 Savage & Project Pat),Drake,Top Songs of 2021: USA,,,,,,,,,,,,,2021,USA
+536,Sand In My Boots,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.403,0.537,3.0,-6.628,1.0,0.031,0.59,0.0,0.112,0.414,69.877,2021,USA
+538,Hats Off,"Lil Baby, Lil Durk, Travis Scott",Top Songs of 2021: USA,"Lil Baby, Lil Durk, Travis Scott",0.596,0.65,9.0,-5.167,1.0,0.337,0.138,0.0,0.14,0.188,133.997,2021,USA
+540,Track Star,Mooski,Top Songs of 2021: USA,Mooski,0.641,0.598,7.0,-5.7,0.0,0.324,0.381,0.0,0.0921,0.285,131.459,2021,USA
+541,Emotionally Scarred,Lil Baby,Top Songs of 2021: USA,Lil Baby,0.585,0.641,6.0,-4.269,0.0,0.133,0.0286,0.0,0.316,0.266,88.284,2021,USA
+543,Best Friend (feat. Doja Cat),Saweetie,Top Songs of 2021: USA,Saweetie,0.84,0.766,4.0,-4.12,1.0,0.136,0.00302,3.61e-06,0.0684,0.402,94.018,2021,USA
+544,Whiskey Glasses,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,2021,USA
+548,Girls Want Girls (feat. Lil Baby),Drake,Top Songs of 2021: USA,,,,,,,,,,,,,2021,USA
+549,Ski,"Young Stoner Life, Young Thug, Gunna",Top Songs of 2021: USA,"Young Stoner Life, Young Thug, Gunna",0.953,0.621,8.0,-7.638,0.0,0.221,0.017,0.0,0.0398,0.883,123.016,2021,USA
+550,Drip Too Hard,"Lil Baby, Gunna",Top Songs of 2021: USA,"Lil Baby, Gunna",0.897,0.662,1.0,-6.903,0.0,0.292,0.0852,0.0,0.534,0.389,112.511,2021,USA
+554,Real As It Gets (feat. EST Gee),Lil Baby,Top Songs of 2021: USA,Lil Baby,0.779,0.705,6.0,-5.891,0.0,0.163,0.00471,0.0,0.0971,0.196,140.005,2021,USA
+555,m y . l i f e,"J. Cole, 21 Savage, Morray",Top Songs of 2021: USA,"J. Cole, 21 Savage, Morray",0.597,0.587,7.0,-7.026,0.0,0.137,0.0622,0.0,0.214,0.0753,140.021,2021,USA
+556,Hard for the Next,"Moneybagg Yo, Future",Top Songs of 2021: USA,"Moneybagg Yo, Future",0.639,0.564,1.0,-7.326,1.0,0.389,0.0329,0.0,0.228,0.375,175.053,2021,USA
+557,Need To Know,Doja Cat,Top Songs of 2021: USA,Doja Cat,0.664,0.609,1.0,-6.509,1.0,0.0707,0.304,0.0,0.0926,0.194,130.041,2021,USA
+561,Still Goin' Down,Morgan Wallen,Top Songs of 2021: USA,Morgan Wallen,0.58,0.752,7.0,-5.078,1.0,0.0267,0.49,0.0,0.277,0.72,148.108,2021,USA
+562,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: USA,"Justin Bieber, benny blanco",0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,2021,USA
+564,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: USA,"Diplo, Jonas Brothers",0.739,0.717,1.0,-5.123,1.0,0.0565,0.0611,0.0,0.206,0.529,98.047,2021,USA
+566,Beautiful Crazy,Luke Combs,Top Songs of 2021: USA,Luke Combs,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,2021,USA
+570,late at night,Roddy Ricch,Top Songs of 2021: USA,Roddy Ricch,0.621,0.405,1.0,-11.26,0.0,0.437,0.382,0.0,0.152,0.141,98.427,2021,USA
+571,pov,Ariana Grande,Top Songs of 2021: USA,Ariana Grande,0.487,0.534,0.0,-5.664,0.0,0.0555,0.36,0.0,0.1,0.173,131.798,2021,USA
+572,WAIT FOR U (feat. Drake & Tems),Future,Top Songs of 2022: USA,Future,0.463,0.642,1.0,-4.474,1.0,0.34,0.314,0.0,0.0686,0.339,83.389,2022,USA
+574,Super Gremlin,Kodak Black,Top Songs of 2022: USA,Kodak Black,0.825,0.414,2.0,-6.634,1.0,0.144,0.00265,0.0,0.357,0.106,72.993,2022,USA
+575,Me Porto Bonito,"Bad Bunny, Chencho Corleone",Top Songs of 2022: USA,"Bad Bunny, Chencho Corleone",0.911,0.712,1.0,-5.105,0.0,0.0817,0.0901,2.68e-05,0.0933,0.425,92.005,2022,USA
+576,pushin P (feat. Young Thug),"Gunna, Future",Top Songs of 2022: USA,"Gunna, Future",0.773,0.422,1.0,-4.572,0.0,0.187,0.00783,0.00693,0.129,0.488,77.502,2022,USA
+577,As It Was,Harry Styles,Top Songs of 2022: USA,Harry Styles,0.52,0.731,6.0,-5.338,0.0,0.0557,0.342,0.00101,0.311,0.662,173.93,2022,USA
+580,Tití Me Preguntó,Bad Bunny,Top Songs of 2022: USA,Bad Bunny,0.65,0.715,5.0,-5.198,0.0,0.253,0.0993,0.000291,0.126,0.187,106.672,2022,USA
+581,First Class,Jack Harlow,Top Songs of 2022: USA,Jack Harlow,0.902,0.582,5.0,-5.902,0.0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2022,USA
+584,In A Minute,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.626,0.583,4.0,-6.102,0.0,0.334,0.0279,0.0,0.112,0.133,113.42,2022,USA
+585,Knife Talk (feat. 21 Savage & Project Pat),Drake,Top Songs of 2022: USA,,,,,,,,,,,,,2022,USA
+586,Easy On Me,Adele,Top Songs of 2022: USA,Adele,0.604,0.366,5.0,-7.519,1.0,0.0282,0.578,0.0,0.133,0.13,141.981,2022,USA
+589,Jimmy Cooks (feat. 21 Savage),Drake,Top Songs of 2022: USA,Drake,0.529,0.673,0.0,-4.711,1.0,0.175,0.000307,2.41e-06,0.093,0.366,165.921,2022,USA
+590,Hrs & Hrs,Muni Long,Top Songs of 2022: USA,Muni Long,0.52,0.546,8.0,-4.991,0.0,0.213,0.579,0.0,0.112,0.634,137.419,2022,USA
+592,I Hate U,SZA,Top Songs of 2022: USA,SZA,0.533,0.417,7.0,-8.665,0.0,0.148,0.514,0.0,0.114,0.376,106.534,2022,USA
+594,Heat Waves,Glass Animals,Top Songs of 2022: USA,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,2022,USA
+600,PUFFIN ON ZOOTIEZ,Future,Top Songs of 2022: USA,Future,0.883,0.657,8.0,-5.748,1.0,0.305,0.0603,0.0,0.128,0.284,124.992,2022,USA
+601,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2022: USA,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2022,USA
+607,Moscow Mule,Bad Bunny,Top Songs of 2022: USA,Bad Bunny,0.804,0.674,5.0,-5.453,0.0,0.0333,0.294,1.18e-06,0.115,0.292,99.968,2022,USA
+608,Freestyle,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.877,0.517,2.0,-5.426,0.0,0.0706,0.217,0.0,0.143,0.255,119.996,2022,USA
+609,By Your Side,Rod Wave,Top Songs of 2022: USA,Rod Wave,0.649,0.508,8.0,-10.232,1.0,0.0959,0.0345,3.59e-05,0.0736,0.405,157.975,2022,USA
+610,Wants and Needs (feat. Lil Baby),Drake,Top Songs of 2022: USA,Drake,0.578,0.449,1.0,-6.349,1.0,0.286,0.0618,2.17e-06,0.119,0.1,136.006,2022,USA
+612,Way 2 Sexy (feat. Future & Young Thug),Drake,Top Songs of 2022: USA,,,,,,,,,,,,,2022,USA
+613,You Proof,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.731,0.85,9.0,-4.913,1.0,0.0336,0.252,0.0,0.605,0.644,119.706,2022,USA
+614,Wasted On You,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.505,0.657,11.0,-5.24,0.0,0.0318,0.373,0.00107,0.126,0.252,196.0,2022,USA
+616,Girls Want Girls (feat. Lil Baby),Drake,Top Songs of 2022: USA,,,,,,,,,,,,,2022,USA
+617,INDUSTRY BABY,"Lil Nas X, Jack Harlow",Top Songs of 2022: USA,"Lil Nas X, Jack Harlow",0.736,0.704,3.0,-7.409,0.0,0.0615,0.0203,0.0,0.0501,0.894,149.995,2022,USA
+621,Efecto,Bad Bunny,Top Songs of 2022: USA,Bad Bunny,0.801,0.475,7.0,-8.797,0.0,0.0516,0.141,1.73e-05,0.0639,0.234,98.047,2022,USA
+622,Party,"Bad Bunny, Rauw Alejandro",Top Songs of 2022: USA,"Bad Bunny, Rauw Alejandro",0.829,0.799,9.0,-5.389,1.0,0.0897,0.0151,0.000543,0.242,0.471,97.013,2022,USA
+623,Die For You,The Weeknd,Top Songs of 2022: USA,The Weeknd,0.582,0.525,1.0,-7.163,0.0,0.0627,0.111,0.0,0.134,0.51,133.249,2022,USA
+624,Need To Know,Doja Cat,Top Songs of 2022: USA,Doja Cat,0.664,0.609,1.0,-6.509,1.0,0.0707,0.304,0.0,0.0926,0.194,130.041,2022,USA
+628,P power (feat. Drake),Gunna,Top Songs of 2022: USA,Gunna,0.828,0.591,1.0,-6.217,1.0,0.109,0.0199,0.000323,0.361,0.202,119.251,2022,USA
+629,Bad Habit,Steve Lacy,Top Songs of 2022: USA,Steve Lacy,0.686,0.507,1.0,-7.097,1.0,0.0357,0.626,7.51e-05,0.383,0.69,168.955,2022,USA
+630,AHHH HA,Lil Durk,Top Songs of 2022: USA,Lil Durk,0.676,0.61,1.0,-9.185,1.0,0.273,0.000114,1.73e-06,0.191,0.519,156.005,2022,USA
+631,Whiskey Glasses,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,2022,USA
+635,Martin & Gina,Polo G,Top Songs of 2022: USA,Polo G,0.832,0.534,1.0,-7.813,0.0,0.253,0.345,0.0,0.165,0.116,93.924,2022,USA
+637,Under the Influence,Chris Brown,Top Songs of 2022: USA,Chris Brown,0.733,0.69,9.0,-5.529,0.0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,2022,USA
+640,No Love,"Summer Walker, SZA",Top Songs of 2022: USA,"Summer Walker, SZA",0.707,0.618,1.0,-5.825,0.0,0.19,0.17,0.0,0.293,0.517,133.876,2022,USA
+641,Chasin' You,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.631,0.591,7.0,-5.785,1.0,0.0277,0.657,0.0,0.11,0.489,97.074,2022,USA
+643,Right On,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.535,0.618,2.0,-5.668,1.0,0.382,0.0245,0.0,0.103,0.211,165.991,2022,USA
+644,abcdefu,GAYLE,Top Songs of 2022: USA,GAYLE,0.695,0.54,4.0,-5.692,1.0,0.0493,0.299,0.0,0.367,0.415,121.932,2022,USA
+647,Después de la Playa,Bad Bunny,Top Songs of 2022: USA,Bad Bunny,0.564,0.903,5.0,-3.221,1.0,0.307,0.356,0.0,0.175,0.607,78.293,2022,USA
+648,Best I Ever Had,Drake,Top Songs of 2022: USA,Drake,0.395,0.922,1.0,-2.176,1.0,0.375,0.19,0.0,0.134,0.558,162.361,2022,USA
+649,Sum 2 Prove,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.827,0.552,4.0,-7.571,0.0,0.274,0.0169,0.0,0.122,0.408,124.011,2022,USA
+652,goosebumps,Travis Scott,Top Songs of 2022: USA,Travis Scott,0.841,0.728,7.0,-3.37,1.0,0.0484,0.0847,0.0,0.149,0.43,130.049,2022,USA
+654,Armed and Dangerous,Juice WRLD,Top Songs of 2022: USA,Juice WRLD,0.736,0.67,10.0,-6.702,1.0,0.311,0.186,0.0,0.114,0.845,130.032,2022,USA
+656,Started From the Bottom,Drake,Top Songs of 2022: USA,Drake,0.793,0.524,8.0,-7.827,1.0,0.156,0.0319,0.0,0.156,0.579,86.325,2022,USA
+657,No Guidance (feat. Drake),Chris Brown,Top Songs of 2022: USA,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2022,USA
+665,Stick Talk,Future,Top Songs of 2022: USA,Future,0.729,0.672,7.0,-6.749,1.0,0.282,0.0265,0.0,0.244,0.595,159.903,2022,USA
+666,Kacey Talk,YoungBoy Never Broke Again,Top Songs of 2022: USA,YoungBoy Never Broke Again,0.877,0.607,10.0,-7.818,0.0,0.15,0.535,0.0,0.138,0.773,127.055,2022,USA
+668,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2022: USA,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2022,USA
+674,Sand In My Boots,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.403,0.537,3.0,-6.628,1.0,0.031,0.59,0.0,0.112,0.414,69.877,2022,USA
+676,No Flockin,Kodak Black,Top Songs of 2022: USA,Kodak Black,0.943,0.595,5.0,-8.372,0.0,0.191,0.0673,0.0,0.0839,0.815,117.532,2022,USA
+677,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",Top Songs of 2022: USA,"Bruno Mars, Anderson .Paak, Silk Sonic",0.627,0.618,2.0,-8.529,1.0,0.0437,0.0558,0.0,0.351,0.848,82.03,2022,USA
+679,Blinding Lights,The Weeknd,Top Songs of 2022: USA,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2022,USA
+688,Fair Trade (feat. Travis Scott),Drake,Top Songs of 2022: USA,,,,,,,,,,,,,2022,USA
+689,Beautiful Crazy,Luke Combs,Top Songs of 2022: USA,Luke Combs,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,2022,USA
+693,RAPSTAR,Polo G,Top Songs of 2022: USA,Polo G,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,2022,USA
+696,Free Mind,Tems,Top Songs of 2022: USA,Tems,0.562,0.463,6.0,-7.478,1.0,0.0787,0.442,0.000145,0.157,0.416,125.15,2022,USA
+697,Back in Blood (feat. Lil Durk),Pooh Shiesty,Top Songs of 2022: USA,Pooh Shiesty,0.759,0.538,8.0,-8.256,0.0,0.384,0.151,0.0,0.126,0.831,146.933,2022,USA
+699,Ojitos Lindos,"Bad Bunny, Bomba Estéreo",Top Songs of 2022: USA,"Bad Bunny, Bomba Estéreo",0.647,0.686,3.0,-5.745,0.0,0.0413,0.08,1.34e-06,0.528,0.268,79.928,2022,USA
+700,Callaita,"Bad Bunny, Tainy",Top Songs of 2022: USA,"Bad Bunny, Tainy",0.61,0.624,2.0,-4.773,1.0,0.309,0.6,2.12e-06,0.243,0.244,176.169,2022,USA
+701,Running Up That Hill (A Deal with God),Kate Bush,Top Songs of 2022: USA,Kate Bush,0.625,0.533,10.0,-11.903,0.0,0.0596,0.659,0.00266,0.0546,0.139,108.296,2022,USA
+704,Nonstop,Drake,Top Songs of 2022: USA,Drake,0.912,0.412,7.0,-8.074,1.0,0.123,0.0165,0.0126,0.104,0.423,154.983,2022,USA
+706,Woah,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.882,0.602,11.0,-5.554,1.0,0.245,0.0177,0.0,0.178,0.43,142.959,2022,USA
+708,Cover Me Up,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.549,0.44,7.0,-8.192,1.0,0.0264,0.232,7.37e-06,0.107,0.214,128.01,2022,USA
+710,Un Ratito,Bad Bunny,Top Songs of 2022: USA,Bad Bunny,0.787,0.546,0.0,-7.094,0.0,0.0532,0.305,4.55e-05,0.122,0.222,93.05,2022,USA
+711,Tennessee Whiskey,Chris Stapleton,Top Songs of 2022: USA,Chris Stapleton,0.392,0.37,9.0,-10.888,1.0,0.0298,0.205,0.0096,0.0821,0.512,48.718,2022,USA
+712,What You Know Bout Love,Pop Smoke,Top Songs of 2022: USA,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,2022,USA
+716,God's Plan,Drake,Top Songs of 2022: USA,Drake,0.754,0.449,7.0,-9.211,1.0,0.109,0.0332,8.29e-05,0.552,0.357,77.169,2022,USA
+718,Don't,Bryson Tiller,Top Songs of 2022: USA,Bryson Tiller,0.765,0.356,11.0,-5.556,0.0,0.195,0.223,0.0,0.0963,0.189,96.991,2022,USA
+719,Something in the Orange,Zach Bryan,Top Songs of 2022: USA,Zach Bryan,0.369,0.192,4.0,-12.151,0.0,0.04,0.555,8.35e-06,0.0954,0.148,175.212,2022,USA
+720,Lost,Frank Ocean,Top Songs of 2022: USA,Frank Ocean,0.913,0.603,8.0,-4.892,1.0,0.226,0.0272,0.000503,0.167,0.497,123.061,2022,USA
+723,More Than My Hometown,Morgan Wallen,Top Songs of 2022: USA,Morgan Wallen,0.62,0.869,6.0,-5.479,1.0,0.0462,0.615,0.0,0.131,0.597,126.019,2022,USA
+725,Hats Off,"Lil Baby, Lil Durk, Travis Scott",Top Songs of 2022: USA,"Lil Baby, Lil Durk, Travis Scott",0.596,0.65,9.0,-5.167,1.0,0.337,0.138,0.0,0.14,0.188,133.997,2022,USA
+727,Sweater Weather,The Neighbourhood,Top Songs of 2022: USA,The Neighbourhood,0.612,0.807,10.0,-2.81,1.0,0.0336,0.0495,0.0177,0.101,0.398,124.053,2022,USA
+728,LOVE YOU BETTER,Future,Top Songs of 2022: USA,Future,0.709,0.357,5.0,-9.289,1.0,0.214,0.478,0.000294,0.112,0.544,75.494,2022,USA
+729,MAMIII,"Becky G., KAROL G",Top Songs of 2022: USA,"Becky G., KAROL G",0.843,0.7,4.0,-3.563,0.0,0.0803,0.0934,0.0,0.14,0.899,93.991,2022,USA
+730,Check,Young Thug,Top Songs of 2022: USA,Young Thug,0.667,0.581,0.0,-5.164,0.0,0.323,0.0428,0.0,0.183,0.368,110.953,2022,USA
+731,Ghost,Justin Bieber,Top Songs of 2022: USA,Justin Bieber,0.601,0.741,2.0,-5.569,1.0,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2022,USA
+734,Pepas,Farruko,Top Songs of 2022: USA,Farruko,0.762,0.766,7.0,-3.955,1.0,0.0343,0.00776,6.98e-05,0.128,0.442,130.001,2022,USA
+735,Low Down,Lil Baby,Top Songs of 2022: USA,Lil Baby,0.962,0.619,10.0,-5.562,0.0,0.405,0.0354,0.0,0.083,0.154,127.958,2022,USA
+736,traitor,Olivia Rodrigo,Top Songs of 2022: USA,Olivia Rodrigo,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,2022,USA
+739,Headlines,Drake,Top Songs of 2022: USA,Drake,0.636,0.566,6.0,-7.16,0.0,0.106,0.365,0.000353,0.0917,0.425,151.894,2022,USA
+740,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2019: New Zealand,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2019,New Zealand
+749,"thank u, next",Ariana Grande,Top Songs of 2019: New Zealand,Ariana Grande,0.717,0.653,1.0,-5.634,1.0,0.0658,0.229,0.0,0.101,0.412,106.966,2019,New Zealand
+752,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2019: New Zealand,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2019,New Zealand
+761,bad guy,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2019,New Zealand
+771,Without Me,Halsey,Top Songs of 2019: New Zealand,Halsey,0.752,0.488,6.0,-7.05,1.0,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,2019,New Zealand
+774,Without Me,Halsey,Top Songs of 2019: New Zealand,Eminem,0.908,0.669,7.0,-2.827,1.0,0.0738,0.00286,0.0,0.237,0.662,112.238,2019,New Zealand
+775,Shotgun,George Ezra,Top Songs of 2019: New Zealand,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2019,New Zealand
+781,Better,Khalid,Top Songs of 2019: New Zealand,Khalid,0.596,0.552,0.0,-10.278,0.0,0.097,0.0765,0.334,0.104,0.112,97.949,2019,New Zealand
+785,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2019: New Zealand,,,,,,,,,,,,,2019,New Zealand
+786,Body (feat. Brando),Loud Luxury,Top Songs of 2019: New Zealand,Loud Luxury,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,2019,New Zealand
+787,Happier,"Marshmello, Bastille",Top Songs of 2019: New Zealand,"Marshmello, Bastille",0.687,0.792,5.0,-2.749,1.0,0.0452,0.191,0.0,0.167,0.671,100.015,2019,New Zealand
+792,Wow.,Post Malone,Top Songs of 2019: New Zealand,Post Malone,0.829,0.539,11.0,-7.359,0.0,0.208,0.136,1.78e-06,0.103,0.388,99.96,2019,New Zealand
+795,Dancing With A Stranger,"Sam Smith, Normani",Top Songs of 2019: New Zealand,"Sam Smith, Normani",0.741,0.52,8.0,-7.513,1.0,0.0656,0.45,1.97e-06,0.222,0.347,102.998,2019,New Zealand
+799,Talk,Khalid,Top Songs of 2019: New Zealand,Khalid,0.9,0.4,0.0,-8.575,1.0,0.127,0.0516,0.0,0.0599,0.346,135.984,2019,New Zealand
+802,Someone You Loved,Lewis Capaldi,Top Songs of 2019: New Zealand,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2019,New Zealand
+812,Sucker,Jonas Brothers,Top Songs of 2019: New Zealand,Jonas Brothers,0.842,0.734,1.0,-5.065,0.0,0.0588,0.0427,0.0,0.106,0.952,137.958,2019,New Zealand
+816,Saturday Nights,Khalid,Top Songs of 2019: New Zealand,Khalid,0.551,0.44,10.0,-8.559,1.0,0.0985,0.606,3.02e-05,0.11,0.341,167.923,2019,New Zealand
+818,Always Remember Us This Way,Lady Gaga,Top Songs of 2019: New Zealand,Lady Gaga,0.553,0.502,0.0,-5.972,1.0,0.0409,0.299,0.0,0.764,0.296,129.976,2019,New Zealand
+820,3 Nights,Dominic Fike,Top Songs of 2019: New Zealand,Dominic Fike,0.815,0.518,7.0,-6.594,0.0,0.0897,0.223,0.0,0.104,0.877,151.891,2019,New Zealand
+824,bury a friend,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.905,0.389,8.0,-14.505,1.0,0.332,0.74,0.162,0.106,0.196,120.046,2019,New Zealand
+827,Vibes,SIX60,Top Songs of 2019: New Zealand,SIX60,0.825,0.44,5.0,-8.465,0.0,0.0349,0.0375,1.84e-05,0.0946,0.692,103.0,2019,New Zealand
+830,"break up with your girlfriend, i'm bored",Ariana Grande,Top Songs of 2019: New Zealand,Ariana Grande,0.726,0.554,5.0,-5.29,0.0,0.0917,0.0421,0.0,0.106,0.335,169.999,2019,New Zealand
+833,Soaked,BENEE,Top Songs of 2019: New Zealand,BENEE,0.793,0.588,9.0,-5.248,0.0,0.0353,0.464,0.0,0.105,0.601,93.004,2019,New Zealand
+835,Promises,"Calvin Harris, Sam Smith",Top Songs of 2019: New Zealand,"Calvin Harris, Sam Smith",0.781,0.768,11.0,-5.991,1.0,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,2019,New Zealand
+837,Youngblood,5 Seconds of Summer,Top Songs of 2019: New Zealand,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2019,New Zealand
+844,Bad Liar,Imagine Dragons,Top Songs of 2019: New Zealand,Imagine Dragons,0.383,0.637,3.0,-6.993,1.0,0.0703,0.0722,0.0,0.368,0.0827,177.913,2019,New Zealand
+846,Let You Love Me,Rita Ora,Top Songs of 2019: New Zealand,Rita Ora,0.474,0.846,10.0,-3.344,1.0,0.287,0.277,0.0,0.0824,0.452,96.335,2019,New Zealand
+848,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2019: New Zealand,Ed Sheeran,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,2019,New Zealand
+852,Be Alright,Dean Lewis,Top Songs of 2019: New Zealand,Dean Lewis,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,2019,New Zealand
+857,No Guidance (feat. Drake),Chris Brown,Top Songs of 2019: New Zealand,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2019,New Zealand
+865,Truth Hurts,Lizzo,Top Songs of 2019: New Zealand,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2019,New Zealand
+871,I Like It,"Cardi B, Bad Bunny, J Balvin",Top Songs of 2019: New Zealand,"Cardi B, Bad Bunny, J Balvin",0.816,0.726,5.0,-3.998,0.0,0.129,0.099,0.0,0.372,0.65,136.048,2019,New Zealand
+874,lovely,"Billie Eilish, Khalid",Top Songs of 2019: New Zealand,"Billie Eilish, Khalid",0.351,0.296,4.0,-10.109,0.0,0.0333,0.934,0.0,0.095,0.12,115.284,2019,New Zealand
+878,Shape of You,Ed Sheeran,Top Songs of 2019: New Zealand,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2019,New Zealand
+886,Dance Monkey,Tones And I,Top Songs of 2019: New Zealand,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2019,New Zealand
+895,Giant,"Calvin Harris, Rag'n'Bone Man",Top Songs of 2019: New Zealand,"Calvin Harris, Rag'n'Bone Man",0.807,0.887,1.0,-4.311,0.0,0.0361,0.016,0.000503,0.0811,0.606,122.015,2019,New Zealand
+897,I'm So Tired...,"Lauv, Troye Sivan",Top Songs of 2019: New Zealand,"Lauv, Troye Sivan",0.548,0.735,11.0,-7.572,1.0,0.236,0.173,0.0,0.195,0.498,101.252,2019,New Zealand
+899,Better Now,Post Malone,Top Songs of 2019: New Zealand,Post Malone,0.68,0.578,10.0,-5.804,1.0,0.04,0.331,0.0,0.135,0.341,145.038,2019,New Zealand
+902,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,Top Songs of 2019: New Zealand,Ed Sheeran,0.746,0.787,4.0,-6.373,1.0,0.12,0.214,0.0,0.0669,0.607,95.005,2019,New Zealand
+904,Leave a Light On,Tom Walker,Top Songs of 2019: New Zealand,Tom Walker,0.586,0.624,5.0,-5.946,1.0,0.113,0.0153,1.78e-06,0.133,0.267,68.976,2019,New Zealand
+906,wish you were gay,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.853,0.351,7.0,-10.198,1.0,0.241,0.39,9.38e-06,0.752,0.282,118.028,2019,New Zealand
+907,ocean eyes,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.511,0.363,4.0,-7.65,0.0,0.041,0.816,0.0317,0.084,0.169,144.892,2019,New Zealand
+911,MIDDLE CHILD,J. Cole,Top Songs of 2019: New Zealand,J. Cole,0.837,0.364,8.0,-11.713,1.0,0.276,0.149,0.0,0.271,0.463,123.984,2019,New Zealand
+914,It's You,Ali Gatie,Top Songs of 2019: New Zealand,Ali Gatie,0.732,0.463,11.0,-6.972,0.0,0.0287,0.374,0.0,0.194,0.397,95.971,2019,New Zealand
+917,You Need To Calm Down,Taylor Swift,Top Songs of 2019: New Zealand,Taylor Swift,0.771,0.671,2.0,-5.617,1.0,0.0553,0.00929,0.0,0.0637,0.714,85.026,2019,New Zealand
+920,Love Someone,Lukas Graham,Top Songs of 2019: New Zealand,Lukas Graham,0.538,0.409,9.0,-6.581,0.0,0.0505,0.172,0.0,0.11,0.265,171.838,2019,New Zealand
+922,Bohemian Rhapsody,Queen,Top Songs of 2019: New Zealand,Queen,0.392,0.402,0.0,-9.961,0.0,0.0536,0.288,0.0,0.243,0.228,143.883,2019,New Zealand
+924,If I Can't Have You,Shawn Mendes,Top Songs of 2019: New Zealand,Shawn Mendes,0.69,0.809,2.0,-4.198,1.0,0.0603,0.524,0.0,0.147,0.864,123.912,2019,New Zealand
+926,Who Do You Love,"The Chainsmokers, 5 Seconds of Summer",Top Songs of 2019: New Zealand,"The Chainsmokers, 5 Seconds of Summer",0.51,0.846,3.0,-4.595,1.0,0.0461,0.0101,0.0,0.208,0.475,139.927,2019,New Zealand
+928,Taste (feat. Offset),Tyga,Top Songs of 2019: New Zealand,Tyga,0.884,0.559,0.0,-7.442,1.0,0.12,0.0236,0.0,0.101,0.342,97.994,2019,New Zealand
+931,Here With Me (feat. CHVRCHES),Marshmello,Top Songs of 2019: New Zealand,,,,,,,,,,,,,2019,New Zealand
+932,Don't Give It Up,SIX60,Top Songs of 2019: New Zealand,SIX60,0.85,0.478,7.0,-6.369,1.0,0.0384,0.0166,1.05e-05,0.245,0.584,109.979,2019,New Zealand
+935,How Do You Sleep?,Sam Smith,Top Songs of 2019: New Zealand,Sam Smith,0.477,0.682,1.0,-4.931,0.0,0.0925,0.153,0.0,0.0763,0.345,110.567,2019,New Zealand
+937,Walk Me Home,P!nk,Top Songs of 2019: New Zealand,P!nk,0.652,0.453,1.0,-6.119,1.0,0.0445,0.0507,0.0,0.179,0.432,88.039,2019,New Zealand
+939,The Greatest,SIX60,Top Songs of 2019: New Zealand,SIX60,0.616,0.621,2.0,-5.721,1.0,0.0456,0.323,1.48e-05,0.14,0.329,93.068,2019,New Zealand
+942,High Hopes,Panic! At the Disco,Top Songs of 2019: New Zealand,Panic! At the Disco,0.579,0.904,5.0,-2.729,1.0,0.0618,0.193,0.0,0.064,0.681,82.014,2019,New Zealand
+944,In My Mind,"Dynoro, Gigi D'Agostino",Top Songs of 2019: New Zealand,"Dynoro, Gigi D'Agostino",0.694,0.77,6.0,-5.335,1.0,0.149,0.176,1.1e-05,0.118,0.163,125.905,2019,New Zealand
+945,rockstar (feat. 21 Savage),Post Malone,Top Songs of 2019: New Zealand,Post Malone,0.585,0.52,5.0,-6.136,0.0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,2019,New Zealand
+948,Close to Me,"Ellie Goulding, Diplo, Swae Lee",Top Songs of 2019: New Zealand,"Ellie Goulding, Diplo, Swae Lee",0.575,0.758,1.0,-5.029,0.0,0.0618,0.0954,0.0,0.394,0.493,144.107,2019,New Zealand
+949,imagine,Ariana Grande,Top Songs of 2019: New Zealand,Ariana Grande,0.729,0.475,8.0,-4.985,1.0,0.0364,0.378,0.0,0.12,0.371,62.52,2019,New Zealand
+950,Please Me,"Cardi B, Bruno Mars",Top Songs of 2019: New Zealand,"Cardi B, Bruno Mars",0.747,0.57,1.0,-6.711,1.0,0.081,0.0642,0.0,0.0832,0.65,133.992,2019,New Zealand
+952,The Git Up,Blanco Brown,Top Songs of 2019: New Zealand,Blanco Brown,0.847,0.678,9.0,-8.635,1.0,0.109,0.0669,0.0,0.274,0.811,97.984,2019,New Zealand
+955,Money,Cardi B,Top Songs of 2019: New Zealand,Cardi B,0.95,0.59,8.0,-6.508,0.0,0.29,0.00534,0.0,0.11,0.219,130.003,2019,New Zealand
+957,Nevermind,Dennis Lloyd,Top Songs of 2019: New Zealand,Dennis Lloyd,0.6,0.688,5.0,-8.339,0.0,0.201,0.159,1.29e-05,0.409,0.0793,99.977,2019,New Zealand
+959,Whatchamacallit (feat. Chris Brown),Ella Mai,Top Songs of 2019: New Zealand,Ella Mai,0.656,0.616,5.0,-4.668,1.0,0.0392,0.17,0.0,0.219,0.269,98.871,2019,New Zealand
+960,Perfect,Ed Sheeran,Top Songs of 2019: New Zealand,Ed Sheeran,0.599,0.448,8.0,-6.312,1.0,0.0232,0.163,0.0,0.106,0.168,95.05,2019,New Zealand
+963,SOS (feat. Aloe Blacc),Avicii,Top Songs of 2019: New Zealand,Avicii,0.802,0.645,5.0,-6.181,0.0,0.0715,0.272,0.0,0.119,0.376,100.001,2019,New Zealand
+965,idontwannabeyouanymore,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.483,0.412,7.0,-8.461,1.0,0.0402,0.737,0.0,0.116,0.247,170.163,2019,New Zealand
+966,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Top Songs of 2019: New Zealand,Ed Sheeran,0.857,0.621,9.0,-6.376,0.0,0.0825,0.148,0.0,0.0865,0.668,97.989,2019,New Zealand
+970,breathin,Ariana Grande,Top Songs of 2019: New Zealand,Ariana Grande,0.568,0.656,8.0,-5.413,1.0,0.0433,0.0211,1.37e-05,0.213,0.364,100.049,2019,New Zealand
+971,Closer,SIX60,Top Songs of 2019: New Zealand,SIX60,0.527,0.734,0.0,-6.448,1.0,0.196,0.272,2.26e-05,0.154,0.653,91.451,2019,New Zealand
+972,I Don’t Belong in This Club,"Why Don't We, Macklemore",Top Songs of 2019: New Zealand,"Why Don't We, Macklemore",0.796,0.543,11.0,-5.744,1.0,0.0439,0.0202,0.0,0.0726,0.164,115.039,2019,New Zealand
+973,Dreams,Fleetwood Mac,Top Songs of 2019: New Zealand,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2019,New Zealand
+979,bellyache,Billie Eilish,Top Songs of 2019: New Zealand,Billie Eilish,0.695,0.573,4.0,-8.597,0.0,0.106,0.46,0.0734,0.482,0.408,99.939,2019,New Zealand
+980,So Close (feat. Georgia Ku),"NOTD, Felix Jaehn, Captain Cuts",Top Songs of 2019: New Zealand,"NOTD, Felix Jaehn, Captain Cuts",0.7,0.872,10.0,-5.896,1.0,0.0666,0.121,7.08e-06,0.103,0.761,125.03,2019,New Zealand
+981,I Fall Apart,Post Malone,Top Songs of 2019: New Zealand,Post Malone,0.556,0.538,8.0,-5.408,0.0,0.0382,0.0689,0.0,0.196,0.291,143.95,2019,New Zealand
+984,Drip Too Hard,"Lil Baby, Gunna",Top Songs of 2019: New Zealand,"Lil Baby, Gunna",0.897,0.662,1.0,-6.903,0.0,0.292,0.0852,0.0,0.534,0.389,112.511,2019,New Zealand
+988,Dance Monkey,Tones And I,Top Songs of 2020: New Zealand,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2020,New Zealand
+997,In the Air,L.A.B,Top Songs of 2020: New Zealand,L.A.B,0.974,0.643,9.0,-8.857,0.0,0.0452,0.105,0.00141,0.0833,0.967,117.985,2020,New Zealand
+1000,Circles,Post Malone,Top Songs of 2020: New Zealand,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2020,New Zealand
+1008,Glitter,BENEE,Top Songs of 2020: New Zealand,BENEE,0.801,0.589,7.0,-5.157,1.0,0.0485,0.0863,0.0,0.162,0.58,116.934,2020,New Zealand
+1010,Memories,Maroon 5,Top Songs of 2020: New Zealand,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2020,New Zealand
+1017,Watermelon Sugar,Harry Styles,Top Songs of 2020: New Zealand,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2020,New Zealand
+1024,Someone You Loved,Lewis Capaldi,Top Songs of 2020: New Zealand,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2020,New Zealand
+1034,Please Don't Go,SIX60,Top Songs of 2020: New Zealand,SIX60,0.706,0.52,11.0,-6.427,0.0,0.197,0.364,0.0,0.201,0.702,176.018,2020,New Zealand
+1036,ROXANNE,Arizona Zervas,Top Songs of 2020: New Zealand,Arizona Zervas,0.621,0.601,6.0,-5.616,0.0,0.148,0.0522,0.0,0.46,0.457,116.735,2020,New Zealand
+1039,Catching Feelings (feat. SIX60),Drax Project,Top Songs of 2020: New Zealand,Drax Project,0.396,0.521,3.0,-5.877,1.0,0.101,0.605,0.0,0.157,0.34,175.558,2020,New Zealand
+1041,Adore You,Harry Styles,Top Songs of 2020: New Zealand,Harry Styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,2020,New Zealand
+1046,Ride It,Regard,Top Songs of 2020: New Zealand,Regard,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,2020,New Zealand
+1050,The Greatest,SIX60,Top Songs of 2020: New Zealand,SIX60,0.616,0.621,2.0,-5.721,1.0,0.0456,0.323,1.48e-05,0.14,0.329,93.068,2020,New Zealand
+1053,Before You Go,Lewis Capaldi,Top Songs of 2020: New Zealand,Lewis Capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,2020,New Zealand
+1058,Say So,Doja Cat,Top Songs of 2020: New Zealand,Doja Cat,0.787,0.673,11.0,-4.583,0.0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,2020,New Zealand
+1061,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2020: New Zealand,"Jawsh 685, Jason Derulo",0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,2020,New Zealand
+1065,The Box,Roddy Ricch,Top Songs of 2020: New Zealand,Roddy Ricch,0.896,0.586,10.0,-6.687,0.0,0.0559,0.104,0.0,0.79,0.642,116.971,2020,New Zealand
+1069,everything i wanted,Billie Eilish,Top Songs of 2020: New Zealand,Billie Eilish,0.704,0.225,6.0,-14.454,0.0,0.0994,0.902,0.657,0.106,0.243,120.006,2020,New Zealand
+1072,Long Gone,SIX60,Top Songs of 2020: New Zealand,SIX60,0.655,0.416,2.0,-6.449,1.0,0.0723,0.504,0.0,0.0804,0.536,91.863,2020,New Zealand
+1074,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2020: New Zealand,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2020,New Zealand
+1080,Supalonely (feat. Gus Dapperton),BENEE,Top Songs of 2020: New Zealand,BENEE,0.862,0.631,7.0,-4.746,1.0,0.0515,0.291,0.000209,0.123,0.841,128.978,2020,New Zealand
+1083,Señorita,"Shawn Mendes, Camila Cabello",Top Songs of 2020: New Zealand,"Shawn Mendes, Camila Cabello",0.759,0.548,9.0,-6.049,0.0,0.029,0.0392,0.0,0.0828,0.749,116.967,2020,New Zealand
+1088,Yummy,Justin Bieber,Top Songs of 2020: New Zealand,Justin Bieber,0.677,0.506,9.0,-6.652,0.0,0.0964,0.345,0.0,0.118,0.497,145.843,2020,New Zealand
+1091,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2020: New Zealand,,,,,,,,,,,,,2020,New Zealand
+1092,HIGHEST IN THE ROOM,Travis Scott,Top Songs of 2020: New Zealand,Travis Scott,0.598,0.427,7.0,-8.764,0.0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,2020,New Zealand
+1095,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Top Songs of 2020: New Zealand,Ed Sheeran,0.857,0.621,9.0,-6.376,0.0,0.0825,0.148,0.0,0.0865,0.668,97.989,2020,New Zealand
+1099,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,Top Songs of 2020: New Zealand,Lizzo,0.668,0.892,5.0,-3.001,0.0,0.0645,0.298,0.0,0.735,0.478,95.927,2020,New Zealand
+1101,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2020: New Zealand,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2020,New Zealand
+1110,Physical,Dua Lipa,Top Songs of 2020: New Zealand,Dua Lipa,0.647,0.844,0.0,-3.756,1.0,0.0457,0.0137,0.000658,0.102,0.746,146.967,2020,New Zealand
+1112,Never Enough,SIX60,Top Songs of 2020: New Zealand,SIX60,0.761,0.65,8.0,-5.872,1.0,0.0322,0.121,5.3e-05,0.153,0.792,142.015,2020,New Zealand
+1114,Stuck with U,"Ariana Grande, Justin Bieber",Top Songs of 2020: New Zealand,"Ariana Grande, Justin Bieber",0.597,0.45,8.0,-6.658,1.0,0.0418,0.223,0.0,0.382,0.537,178.765,2020,New Zealand
+1116,"10,000 Hours","Dan + Shay, Justin Bieber",Top Songs of 2020: New Zealand,"Dan + Shay, Justin Bieber",0.654,0.63,10.0,-4.644,1.0,0.0259,0.153,0.0,0.111,0.43,89.991,2020,New Zealand
+1119,Lose You to Love Me,Selena Gomez,Top Songs of 2020: New Zealand,Selena Gomez,0.488,0.343,4.0,-8.985,1.0,0.0436,0.556,0.0,0.21,0.0978,102.819,2020,New Zealand
+1122,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2020: New Zealand,Ed Sheeran,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,2020,New Zealand
+1126,Know Your Worth,"Khalid, Disclosure",Top Songs of 2020: New Zealand,"Khalid, Disclosure",0.79,0.694,9.0,-7.726,0.0,0.0708,0.145,0.00252,0.281,0.508,103.007,2020,New Zealand
+1128,No Guidance (feat. Drake),Chris Brown,Top Songs of 2020: New Zealand,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2020,New Zealand
+1136,Post Malone (feat. RANI),Sam Feldt,Top Songs of 2020: New Zealand,Sam Feldt,0.59,0.642,7.0,-3.87,1.0,0.122,0.0771,0.0,0.105,0.651,107.356,2020,New Zealand
+1138,Ballin’,"Mustard, Roddy Ricch",Top Songs of 2020: New Zealand,"Mustard, Roddy Ricch",0.809,0.545,7.0,-6.678,1.0,0.0735,0.392,0.0,0.151,0.244,97.008,2020,New Zealand
+1141,Falling,Harry Styles,Top Songs of 2020: New Zealand,Trevor Daniel,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,2020,New Zealand
+1142,Falling,Harry Styles,Top Songs of 2020: New Zealand,Harry Styles,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,2020,New Zealand
+1146,Shotgun,George Ezra,Top Songs of 2020: New Zealand,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2020,New Zealand
+1152,Sunday Best,Surfaces,Top Songs of 2020: New Zealand,Surfaces,0.878,0.525,5.0,-6.832,1.0,0.0578,0.183,0.0,0.0714,0.694,112.022,2020,New Zealand
+1155,hot girl bummer,blackbear,Top Songs of 2020: New Zealand,blackbear,0.782,0.559,6.0,-7.106,0.0,0.0767,0.125,0.0,0.385,0.685,129.992,2020,New Zealand
+1158,You should be sad,Halsey,Top Songs of 2020: New Zealand,Halsey,0.591,0.585,2.0,-6.35,1.0,0.0277,0.143,0.0,0.109,0.324,110.94,2020,New Zealand
+1161,Raining,SIX60,Top Songs of 2020: New Zealand,SIX60,0.662,0.668,1.0,-4.851,1.0,0.0432,0.23,0.000427,0.1,0.578,119.932,2020,New Zealand
+1162,If the World Was Ending (feat. Julia Michaels),JP Saxe,Top Songs of 2020: New Zealand,JP Saxe,0.464,0.473,1.0,-10.086,1.0,0.129,0.866,0.0,0.109,0.604,75.801,2020,New Zealand
+1165,Toosie Slide,Drake,Top Songs of 2020: New Zealand,Drake,0.834,0.454,1.0,-9.75,0.0,0.201,0.321,6.15e-06,0.114,0.837,81.618,2020,New Zealand
+1168,Dreams,Fleetwood Mac,Top Songs of 2020: New Zealand,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2020,New Zealand
+1174,This City,Sam Fischer,Top Songs of 2020: New Zealand,Sam Fischer,0.605,0.377,11.0,-6.213,1.0,0.0443,0.733,0.0,0.0808,0.519,73.877,2020,New Zealand
+1176,Trampoline,"SHAED, ZAYN",Top Songs of 2020: New Zealand,"SHAED, ZAYN",0.619,0.459,7.0,-5.782,0.0,0.0334,0.56,0.0,0.137,0.498,126.803,2020,New Zealand
+1177,SUGAR,BROCKHAMPTON,Top Songs of 2020: New Zealand,BROCKHAMPTON,0.453,0.538,1.0,-8.212,1.0,0.0638,0.449,0.0,0.19,0.516,122.973,2020,New Zealand
+1178,Shape of You,Ed Sheeran,Top Songs of 2020: New Zealand,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2020,New Zealand
+1186,Bruises,Lewis Capaldi,Top Songs of 2020: New Zealand,Lewis Capaldi,0.736,0.308,4.0,-7.83,1.0,0.0677,0.946,0.0,0.186,0.361,111.202,2020,New Zealand
+1187,Engineers,Hp Boyz,Top Songs of 2020: New Zealand,Hp Boyz,0.934,0.402,7.0,-10.843,1.0,0.294,0.306,1.97e-05,0.0931,0.306,99.954,2020,New Zealand
+1188,ocean eyes,Billie Eilish,Top Songs of 2020: New Zealand,Billie Eilish,0.511,0.363,4.0,-7.65,0.0,0.041,0.816,0.0317,0.084,0.169,144.892,2020,New Zealand
+1192,Body (feat. brando),Loud Luxury,Top Songs of 2020: New Zealand,Loud Luxury,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,2020,New Zealand
+1196,Graveyard,Halsey,Top Songs of 2020: New Zealand,Halsey,0.667,0.583,11.0,-5.127,0.0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,2020,New Zealand
+1198,Rover (feat. DTG),S1mba,Top Songs of 2020: New Zealand,S1mba,0.613,0.624,11.0,-6.66,0.0,0.206,0.496,0.0,0.283,0.803,62.948,2020,New Zealand
+1199,Falling,Trevor Daniel,Top Songs of 2020: New Zealand,Trevor Daniel,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,2020,New Zealand
+1200,Falling,Trevor Daniel,Top Songs of 2020: New Zealand,Harry Styles,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,2020,New Zealand
+1204,Lights Up,Harry Styles,Top Songs of 2020: New Zealand,Harry Styles,0.575,0.621,10.0,-8.165,0.0,0.032,0.0392,0.0045,0.141,0.27,101.987,2020,New Zealand
+1205,when the party's over,Billie Eilish,Top Songs of 2020: New Zealand,Billie Eilish,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,2020,New Zealand
+1211,Controller,L.A.B,Top Songs of 2020: New Zealand,L.A.B,0.783,0.546,4.0,-10.531,1.0,0.0357,0.397,0.000398,0.0723,0.572,143.994,2020,New Zealand
+1214,Soaked,BENEE,Top Songs of 2020: New Zealand,BENEE,0.793,0.588,9.0,-5.248,0.0,0.0353,0.464,0.0,0.105,0.601,93.004,2020,New Zealand
+1216,Higher Love,"Kygo, Whitney Houston",Top Songs of 2020: New Zealand,"Kygo, Whitney Houston",0.693,0.678,8.0,-7.159,1.0,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,2020,New Zealand
+1218,Breaking Me,"Topic, A7S",Top Songs of 2020: New Zealand,"Topic, A7S",0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,2020,New Zealand
+1222,3 Nights,Dominic Fike,Top Songs of 2020: New Zealand,Dominic Fike,0.815,0.518,7.0,-6.594,0.0,0.0897,0.223,0.0,0.104,0.877,151.891,2020,New Zealand
+1226,Misunderstood,Youngn Lipz,Top Songs of 2020: New Zealand,Youngn Lipz,0.882,0.674,7.0,-5.251,0.0,0.108,0.114,0.0,0.348,0.435,129.98,2020,New Zealand
+1227,Vibes,SIX60,Top Songs of 2020: New Zealand,SIX60,0.825,0.44,5.0,-8.465,0.0,0.0349,0.0375,1.84e-05,0.0946,0.692,103.0,2020,New Zealand
+1230,Blueberry Faygo,Lil Mosey,Top Songs of 2020: New Zealand,Lil Mosey,0.774,0.554,0.0,-7.909,1.0,0.0383,0.207,0.0,0.132,0.349,99.034,2020,New Zealand
+1232,Find an Island,BENEE,Top Songs of 2020: New Zealand,BENEE,0.836,0.681,2.0,-3.793,0.0,0.0434,0.285,0.0,0.0729,0.854,81.554,2020,New Zealand
+1233,SICKO MODE,Travis Scott,Top Songs of 2020: New Zealand,Travis Scott,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,2020,New Zealand
+1239,Happier,"Marshmello, Bastille",Top Songs of 2020: New Zealand,"Marshmello, Bastille",0.687,0.792,5.0,-2.749,1.0,0.0452,0.191,0.0,0.167,0.671,100.015,2020,New Zealand
+1244,Sucker,Jonas Brothers,Top Songs of 2020: New Zealand,Jonas Brothers,0.842,0.734,1.0,-5.065,0.0,0.0588,0.0427,0.0,0.106,0.952,137.958,2020,New Zealand
+1248,Piece Of Your Heart,"Meduza, Goodboys",Top Songs of 2020: New Zealand,"Meduza, Goodboys",0.677,0.744,10.0,-6.806,0.0,0.0295,0.0404,0.00016,0.074,0.631,124.08,2020,New Zealand
+1251,What a Man Gotta Do,Jonas Brothers,Top Songs of 2020: New Zealand,Jonas Brothers,0.852,0.698,9.0,-7.206,1.0,0.0629,0.00839,1.03e-06,0.0773,0.324,113.039,2020,New Zealand
+1253,Don't Call Me Up,Mabel,Top Songs of 2020: New Zealand,Mabel,0.674,0.881,9.0,-2.853,1.0,0.147,0.296,3.01e-06,0.0793,0.234,98.994,2020,New Zealand
+1257,Dancing With A Stranger,"Sam Smith, Normani",Top Songs of 2020: New Zealand,"Sam Smith, Normani",0.741,0.52,8.0,-7.513,1.0,0.0656,0.45,1.97e-06,0.222,0.347,102.998,2020,New Zealand
+1261,Lover,Taylor Swift,Top Songs of 2020: New Zealand,Taylor Swift,0.359,0.543,7.0,-7.582,1.0,0.0919,0.492,1.58e-05,0.118,0.453,68.534,2020,New Zealand
+1262,Like That (feat. Gucci Mane),Doja Cat,Top Songs of 2020: New Zealand,Doja Cat,0.879,0.498,4.0,-6.027,0.0,0.18,0.239,0.0,0.0967,0.405,106.044,2020,New Zealand
+1263,Truth Hurts,Lizzo,Top Songs of 2020: New Zealand,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2020,New Zealand
+1269,Ghosts,SIX60,Top Songs of 2020: New Zealand,SIX60,0.579,0.708,0.0,-5.736,1.0,0.0545,0.318,0.0,0.109,0.376,95.009,2020,New Zealand
+1270,lovely,"Billie Eilish, Khalid",Top Songs of 2020: New Zealand,"Billie Eilish, Khalid",0.351,0.296,4.0,-10.109,0.0,0.0333,0.934,0.0,0.095,0.12,115.284,2020,New Zealand
+1274,Better,Khalid,Top Songs of 2020: New Zealand,Khalid,0.596,0.552,0.0,-10.278,0.0,0.097,0.0765,0.334,0.104,0.112,97.949,2020,New Zealand
+1278,Don't Give It Up,SIX60,Top Songs of 2020: New Zealand,SIX60,0.85,0.478,7.0,-6.369,1.0,0.0384,0.0166,1.05e-05,0.245,0.584,109.979,2020,New Zealand
+1281,Sundown,SIX60,Top Songs of 2020: New Zealand,SIX60,0.794,0.553,4.0,-7.304,0.0,0.0434,0.402,0.00162,0.206,0.485,104.975,2020,New Zealand
+1283,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2021: New Zealand,Dua Lipa,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,2021,New Zealand
+1288,Blinding Lights,The Weeknd,Top Songs of 2021: New Zealand,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2021,New Zealand
+1297,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2021: New Zealand,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2021,New Zealand
+1303,positions,Ariana Grande,Top Songs of 2021: New Zealand,Ariana Grande,0.737,0.802,0.0,-4.771,1.0,0.0878,0.468,0.0,0.0931,0.682,144.015,2021,New Zealand
+1306,In the Air,L.A.B,Top Songs of 2021: New Zealand,L.A.B,0.974,0.643,9.0,-8.857,0.0,0.0452,0.105,0.00141,0.0833,0.967,117.985,2021,New Zealand
+1309,Dreams,Fleetwood Mac,Top Songs of 2021: New Zealand,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2021,New Zealand
+1315,good 4 u,Olivia Rodrigo,Top Songs of 2021: New Zealand,Olivia Rodrigo,0.563,0.664,9.0,-5.044,1.0,0.154,0.335,0.0,0.0849,0.688,166.928,2021,New Zealand
+1321,Why Oh Why,L.A.B,Top Songs of 2021: New Zealand,L.A.B,0.772,0.535,9.0,-9.034,1.0,0.0675,0.0131,0.00147,0.142,0.775,81.986,2021,New Zealand
+1323,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2021: New Zealand,"Jawsh 685, Jason Derulo",0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,2021,New Zealand
+1327,Dynamite,BTS,Top Songs of 2021: New Zealand,BTS,0.746,0.765,6.0,-4.41,0.0,0.0993,0.0112,0.0,0.0936,0.737,114.044,2021,New Zealand
+1330,Watermelon Sugar,Harry Styles,Top Songs of 2021: New Zealand,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2021,New Zealand
+1337,HEARTBREAK ANNIVERSARY,GIVĒON,Top Songs of 2021: New Zealand,GIVĒON,0.449,0.465,0.0,-8.964,1.0,0.0791,0.524,1.02e-06,0.303,0.543,89.087,2021,New Zealand
+1339,Dance Monkey,Tones And I,Top Songs of 2021: New Zealand,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2021,New Zealand
+1348,Controller,L.A.B,Top Songs of 2021: New Zealand,L.A.B,0.783,0.546,4.0,-10.531,1.0,0.0357,0.397,0.000398,0.0723,0.572,143.994,2021,New Zealand
+1351,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2021: New Zealand,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2021,New Zealand
+1357,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",Top Songs of 2021: New Zealand,"Bruno Mars, Anderson .Paak, Silk Sonic",0.586,0.616,5.0,-7.964,1.0,0.0324,0.182,0.0,0.0927,0.719,148.088,2021,New Zealand
+1360,Sundown,SIX60,Top Songs of 2021: New Zealand,SIX60,0.794,0.553,4.0,-7.304,0.0,0.0434,0.402,0.00162,0.206,0.485,104.975,2021,New Zealand
+1362,Don't Start Now,Dua Lipa,Top Songs of 2021: New Zealand,,,,,,,,,,,,,2021,New Zealand
+1363,Bad Habits,Ed Sheeran,Top Songs of 2021: New Zealand,Ed Sheeran,0.807,0.893,11.0,-3.745,0.0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,2021,New Zealand
+1367,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2021: New Zealand,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2021,New Zealand
+1373,Someone You Loved,Lewis Capaldi,Top Songs of 2021: New Zealand,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2021,New Zealand
+1383,deja vu,Olivia Rodrigo,Top Songs of 2021: New Zealand,Olivia Rodrigo,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,2021,New Zealand
+1386,MONTERO (Call Me By Your Name),Lil Nas X,Top Songs of 2021: New Zealand,Lil Nas X,0.593,0.503,8.0,-6.725,0.0,0.22,0.293,0.0,0.405,0.71,178.781,2021,New Zealand
+1391,you broke me first,Tate McRae,Top Songs of 2021: New Zealand,Tate McRae,0.667,0.373,4.0,-9.389,1.0,0.05,0.785,0.0,0.0906,0.0823,124.148,2021,New Zealand
+1393,Astronaut In The Ocean,Masked Wolf,Top Songs of 2021: New Zealand,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,2021,New Zealand
+1395,All She Wrote,SIX60,Top Songs of 2021: New Zealand,SIX60,0.8,0.527,7.0,-7.694,1.0,0.0915,0.196,1.08e-05,0.114,0.368,124.969,2021,New Zealand
+1397,Fade Away,SIX60,Top Songs of 2021: New Zealand,SIX60,0.514,0.68,1.0,-5.743,0.0,0.0632,0.269,9.09e-05,0.135,0.328,78.013,2021,New Zealand
+1398,SO DONE,The Kid LAROI,Top Songs of 2021: New Zealand,The Kid LAROI,0.719,0.598,9.0,-6.254,1.0,0.077,0.232,0.0,0.115,0.303,142.592,2021,New Zealand
+1400,Good Days,SZA,Top Songs of 2021: New Zealand,SZA,0.436,0.655,1.0,-8.37,0.0,0.0583,0.499,8.1e-06,0.688,0.412,121.002,2021,New Zealand
+1402,Dancing in the Moonlight (feat. NEIMY),Jubël,Top Songs of 2021: New Zealand,Jubël,0.659,0.615,11.0,-5.865,0.0,0.0644,0.27,0.0,0.187,0.193,119.843,2021,New Zealand
+1403,WITHOUT YOU,The Kid LAROI,Top Songs of 2021: New Zealand,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,2021,New Zealand
+1407,Catching Feelings (feat. Six60),Drax Project,Top Songs of 2021: New Zealand,Drax Project,0.396,0.521,3.0,-5.877,1.0,0.101,0.605,0.0,0.157,0.34,175.558,2021,New Zealand
+1408,The Greatest,SIX60,Top Songs of 2021: New Zealand,SIX60,0.616,0.621,2.0,-5.721,1.0,0.0456,0.323,1.48e-05,0.14,0.329,93.068,2021,New Zealand
+1411,Take You Dancing,Jason Derulo,Top Songs of 2021: New Zealand,Jason Derulo,0.789,0.711,2.0,-4.248,1.0,0.041,0.0332,0.0,0.0876,0.753,112.985,2021,New Zealand
+1413,Help Me Out (feat. Sons Of Zion),Kings,Top Songs of 2021: New Zealand,,,,,,,,,,,,,2021,New Zealand
+1414,Memories,Maroon 5,Top Songs of 2021: New Zealand,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2021,New Zealand
+1421,Anyone,Justin Bieber,Top Songs of 2021: New Zealand,Justin Bieber,0.686,0.538,2.0,-8.026,1.0,0.0345,0.181,3.13e-06,0.113,0.584,115.884,2021,New Zealand
+1423,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2021: New Zealand,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2021,New Zealand
+1432,The Business,Tiësto,Top Songs of 2021: New Zealand,Tiësto,0.798,0.62,8.0,-7.079,0.0,0.232,0.414,0.0192,0.112,0.235,120.031,2021,New Zealand
+1435,Fly Away,Tones And I,Top Songs of 2021: New Zealand,Tones And I,0.806,0.513,4.0,-6.208,1.0,0.0685,0.217,0.0,0.217,0.503,124.988,2021,New Zealand
+1438,bad guy,Billie Eilish,Top Songs of 2021: New Zealand,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2021,New Zealand
+1448,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2021: New Zealand,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2021,New Zealand
+1457,Bang!,AJR,Top Songs of 2021: New Zealand,AJR,0.74,0.517,1.0,-6.233,0.0,0.0506,0.0183,0.0,0.0558,0.698,139.917,2021,New Zealand
+1458,willow,Taylor Swift,Top Songs of 2021: New Zealand,Taylor Swift,0.392,0.574,7.0,-9.195,1.0,0.17,0.833,0.00179,0.145,0.529,81.112,2021,New Zealand
+1460,Cover Me In Sunshine,"P!nk, Willow Sage Hart",Top Songs of 2021: New Zealand,"P!nk, Willow Sage Hart",0.476,0.594,5.0,-6.879,1.0,0.135,0.0599,0.0,0.0785,0.314,159.702,2021,New Zealand
+1464,What You Know Bout Love,Pop Smoke,Top Songs of 2021: New Zealand,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,2021,New Zealand
+1468,Hold On,Justin Bieber,Top Songs of 2021: New Zealand,Justin Bieber,0.658,0.634,1.0,-5.797,0.0,0.0413,0.0106,0.0,0.132,0.29,139.98,2021,New Zealand
+1470,Up,Cardi B,Top Songs of 2021: New Zealand,Cardi B,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,2021,New Zealand
+1473,Africa,Toto,Top Songs of 2021: New Zealand,Toto,0.671,0.373,9.0,-18.064,1.0,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,2021,New Zealand
+1476,Not My Neighbour,Niko Walters,Top Songs of 2021: New Zealand,Niko Walters,0.769,0.435,1.0,-9.867,1.0,0.478,0.251,6.7e-05,0.107,0.827,66.056,2021,New Zealand
+1477,Monster,"Shawn Mendes, Justin Bieber",Top Songs of 2021: New Zealand,"Shawn Mendes, Justin Bieber",0.652,0.383,2.0,-7.076,0.0,0.0516,0.0676,0.0,0.0828,0.549,145.765,2021,New Zealand
+1478,Breaking Me,"Topic, A7S",Top Songs of 2021: New Zealand,"Topic, A7S",0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,2021,New Zealand
+1482,Whoopty,CJ,Top Songs of 2021: New Zealand,CJ,0.719,0.648,3.0,-7.6,0.0,0.125,0.2,0.0,0.127,0.66,140.201,2021,New Zealand
+1485,Streets,Doja Cat,Top Songs of 2021: New Zealand,Doja Cat,0.749,0.463,11.0,-8.433,1.0,0.0842,0.21,0.0382,0.338,0.189,90.035,2021,New Zealand
+1488,Circles,Post Malone,Top Songs of 2021: New Zealand,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2021,New Zealand
+1496,Please Don't Go,SIX60,Top Songs of 2021: New Zealand,SIX60,0.706,0.52,11.0,-6.427,0.0,0.197,0.364,0.0,0.201,0.702,176.018,2021,New Zealand
+1498,traitor,Olivia Rodrigo,Top Songs of 2021: New Zealand,Olivia Rodrigo,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,2021,New Zealand
+1501,Afterglow,Ed Sheeran,Top Songs of 2021: New Zealand,Ed Sheeran,0.641,0.324,11.0,-5.851,1.0,0.0299,0.698,0.0,0.328,0.273,110.184,2021,New Zealand
+1502,Don't Give It Up,SIX60,Top Songs of 2021: New Zealand,SIX60,0.85,0.478,7.0,-6.369,1.0,0.0384,0.0166,1.05e-05,0.245,0.584,109.979,2021,New Zealand
+1505,Beautiful Mistakes,"Maroon 5, Megan Thee Stallion",Top Songs of 2021: New Zealand,"Maroon 5, Megan Thee Stallion",0.713,0.676,10.0,-5.483,1.0,0.027,0.0377,0.0,0.154,0.721,99.048,2021,New Zealand
+1506,Adore You,Harry Styles,Top Songs of 2021: New Zealand,Harry Styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,2021,New Zealand
+1511,Midnight Sky,Miley Cyrus,Top Songs of 2021: New Zealand,Miley Cyrus,0.699,0.805,4.0,-5.535,0.0,0.0345,0.00161,0.00177,0.249,0.232,109.976,2021,New Zealand
+1513,Riptide,Vance Joy,Top Songs of 2021: New Zealand,Vance Joy,0.484,0.731,1.0,-6.694,1.0,0.0379,0.431,0.0,0.151,0.51,101.654,2021,New Zealand
+1518,INDUSTRY BABY,"Lil Nas X, Jack Harlow",Top Songs of 2021: New Zealand,"Lil Nas X, Jack Harlow",0.736,0.704,3.0,-7.409,0.0,0.0615,0.0203,0.0,0.0501,0.894,149.995,2021,New Zealand
+1522,Rain On Me,"Lady Gaga, Ariana Grande",Top Songs of 2021: New Zealand,"Lady Gaga, Ariana Grande",0.672,0.855,9.0,-3.764,1.0,0.0397,0.021,0.0,0.323,0.646,123.056,2021,New Zealand
+1526,Vibes,SIX60,Top Songs of 2021: New Zealand,SIX60,0.825,0.44,5.0,-8.465,0.0,0.0349,0.0375,1.84e-05,0.0946,0.692,103.0,2021,New Zealand
+1529,Thinking Out Loud,Ed Sheeran,Top Songs of 2021: New Zealand,Ed Sheeran,0.781,0.445,2.0,-6.061,1.0,0.0296,0.474,0.0,0.184,0.591,78.997,2021,New Zealand
+1533,Long Gone,SIX60,Top Songs of 2021: New Zealand,SIX60,0.655,0.416,2.0,-6.449,1.0,0.0723,0.504,0.0,0.0804,0.536,91.863,2021,New Zealand
+1535,Feel It Still,Portugal. The Man,Top Songs of 2021: New Zealand,Portugal. The Man,0.801,0.795,1.0,-5.115,0.0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,2021,New Zealand
+1537,Ride It,Regard,Top Songs of 2021: New Zealand,Regard,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,2021,New Zealand
+1541,Youngblood,5 Seconds of Summer,Top Songs of 2021: New Zealand,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2021,New Zealand
+1548,Yes I Do,L.A.B,Top Songs of 2021: New Zealand,L.A.B,0.847,0.517,10.0,-7.786,1.0,0.029,0.0484,0.0165,0.072,0.848,96.009,2021,New Zealand
+1549,Save Your Tears,The Weeknd,Top Songs of 2021: New Zealand,The Weeknd,0.685,0.816,0.0,-5.496,1.0,0.0308,0.0216,2.05e-05,0.439,0.619,118.065,2021,New Zealand
+1552,Before You Go,Lewis Capaldi,Top Songs of 2021: New Zealand,Lewis Capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,2021,New Zealand
+1557,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: New Zealand,"Justin Bieber, benny blanco",0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,2021,New Zealand
+1559,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: New Zealand,"Diplo, Jonas Brothers",0.739,0.717,1.0,-5.123,1.0,0.0565,0.0611,0.0,0.206,0.529,98.047,2021,New Zealand
+1561,Never Enough,SIX60,Top Songs of 2021: New Zealand,SIX60,0.761,0.65,8.0,-5.872,1.0,0.0322,0.121,5.3e-05,0.153,0.792,142.015,2021,New Zealand
+1563,Shotgun,George Ezra,Top Songs of 2021: New Zealand,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2021,New Zealand
+1569,Supalonely (feat. Gus Dapperton),BENEE,Top Songs of 2021: New Zealand,BENEE,0.862,0.631,7.0,-4.746,1.0,0.0515,0.291,0.000209,0.123,0.841,128.978,2021,New Zealand
+1572,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2021: New Zealand,,,,,,,,,,,,,2021,New Zealand
+1573,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2022: New Zealand,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2022,New Zealand
+1579,Easy On Me,Adele,Top Songs of 2022: New Zealand,Adele,0.604,0.366,5.0,-7.519,1.0,0.0282,0.578,0.0,0.133,0.13,141.981,2022,New Zealand
+1582,As It Was,Harry Styles,Top Songs of 2022: New Zealand,Harry Styles,0.52,0.731,6.0,-5.338,0.0,0.0557,0.342,0.00101,0.311,0.662,173.93,2022,New Zealand
+1585,Bad Habits,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.807,0.893,11.0,-3.745,0.0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,2022,New Zealand
+1589,Shivers,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.788,0.859,2.0,-2.724,1.0,0.0856,0.281,0.0,0.0424,0.822,141.02,2022,New Zealand
+1591,Heat Waves,Glass Animals,Top Songs of 2022: New Zealand,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,2022,New Zealand
+1597,Where Are You Now,"Lost Frequencies, Calum Scott",Top Songs of 2022: New Zealand,"Lost Frequencies, Calum Scott",0.671,0.636,6.0,-8.117,0.0,0.103,0.515,0.000411,0.172,0.262,120.966,2022,New Zealand
+1599,abcdefu,GAYLE,Top Songs of 2022: New Zealand,GAYLE,0.695,0.54,4.0,-5.692,1.0,0.0493,0.299,0.0,0.367,0.415,121.932,2022,New Zealand
+1602,INDUSTRY BABY,"Lil Nas X, Jack Harlow",Top Songs of 2022: New Zealand,"Lil Nas X, Jack Harlow",0.736,0.704,3.0,-7.409,0.0,0.0615,0.0203,0.0,0.0501,0.894,149.995,2022,New Zealand
+1606,Blinding Lights,The Weeknd,Top Songs of 2022: New Zealand,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2022,New Zealand
+1615,Dreams,Fleetwood Mac,Top Songs of 2022: New Zealand,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2022,New Zealand
+1621,First Class,Jack Harlow,Top Songs of 2022: New Zealand,Jack Harlow,0.902,0.582,5.0,-5.902,0.0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2022,New Zealand
+1624,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2022: New Zealand,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2022,New Zealand
+1630,Go Your Own Way,Fleetwood Mac,Top Songs of 2022: New Zealand,Fleetwood Mac,0.583,0.947,5.0,-5.12,1.0,0.0378,0.0185,0.00109,0.0679,0.803,135.448,2022,New Zealand
+1632,Woman,Doja Cat,Top Songs of 2022: New Zealand,Doja Cat,0.824,0.764,5.0,-4.175,0.0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2022,New Zealand
+1634,In the Air,L.A.B,Top Songs of 2022: New Zealand,L.A.B,0.974,0.643,9.0,-8.857,0.0,0.0452,0.105,0.00141,0.0833,0.967,117.985,2022,New Zealand
+1637,Watermelon Sugar,Harry Styles,Top Songs of 2022: New Zealand,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2022,New Zealand
+1644,Pepeha,SIX60,Top Songs of 2022: New Zealand,SIX60,0.416,0.33,0.0,-9.836,1.0,0.0258,0.374,1.68e-05,0.09,0.13,61.515,2022,New Zealand
+1645,I Ain't Worried,OneRepublic,Top Songs of 2022: New Zealand,OneRepublic,0.704,0.797,0.0,-5.927,1.0,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2022,New Zealand
+1647,About Damn Time,Lizzo,Top Songs of 2022: New Zealand,Lizzo,0.836,0.743,10.0,-6.305,0.0,0.0656,0.0995,0.0,0.335,0.722,108.966,2022,New Zealand
+1649,Ghost,Justin Bieber,Top Songs of 2022: New Zealand,Justin Bieber,0.601,0.741,2.0,-5.569,1.0,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2022,New Zealand
+1652,good 4 u,Olivia Rodrigo,Top Songs of 2022: New Zealand,Olivia Rodrigo,0.563,0.664,9.0,-5.044,1.0,0.154,0.335,0.0,0.0849,0.688,166.928,2022,New Zealand
+1658,THATS WHAT I WANT,Lil Nas X,Top Songs of 2022: New Zealand,Lil Nas X,0.737,0.846,1.0,-4.51,0.0,0.22,0.00614,0.0,0.0486,0.546,87.981,2022,New Zealand
+1660,Under the Influence,Chris Brown,Top Songs of 2022: New Zealand,Chris Brown,0.733,0.69,9.0,-5.529,0.0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,2022,New Zealand
+1663,Dance Monkey,Tones And I,Top Songs of 2022: New Zealand,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2022,New Zealand
+1672,Mr Reggae,L.A.B,Top Songs of 2022: New Zealand,L.A.B,0.829,0.701,7.0,-8.587,0.0,0.078,0.082,0.274,0.135,0.886,164.035,2022,New Zealand
+1673,Thinking Out Loud,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.781,0.445,2.0,-6.061,1.0,0.0296,0.474,0.0,0.184,0.591,78.997,2022,New Zealand
+1677,Overpass Graffiti,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.52,0.849,9.0,-3.794,0.0,0.186,0.00253,0.0,0.119,0.774,175.908,2022,New Zealand
+1679,Oh My God,Adele,Top Songs of 2022: New Zealand,Adele,0.534,0.725,1.0,-3.906,1.0,0.046,0.091,0.0,0.0264,0.55,88.098,2022,New Zealand
+1681,New Rules,Dua Lipa,Top Songs of 2022: New Zealand,,,,,,,,,,,,,2022,New Zealand
+1682,The Motto,"Tiësto, Ava Max",Top Songs of 2022: New Zealand,"Tiësto, Ava Max",0.754,0.763,7.0,-4.627,0.0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2022,New Zealand
+1684,Happier Than Ever,Billie Eilish,Top Songs of 2022: New Zealand,Billie Eilish,0.332,0.225,0.0,-8.697,1.0,0.0348,0.767,0.00349,0.128,0.297,81.055,2022,New Zealand
+1686,Lost,Frank Ocean,Top Songs of 2022: New Zealand,Frank Ocean,0.913,0.603,8.0,-4.892,1.0,0.226,0.0272,0.000503,0.167,0.497,123.061,2022,New Zealand
+1689,Shape of You,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2022,New Zealand
+1697,Don't Start Now,Dua Lipa,Top Songs of 2022: New Zealand,,,,,,,,,,,,,2022,New Zealand
+1698,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2022: New Zealand,Dua Lipa,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,2022,New Zealand
+1703,Better Days,"NEIKED, Mae Muller, Polo G",Top Songs of 2022: New Zealand,"NEIKED, Mae Muller, Polo G",0.717,0.671,0.0,-5.077,0.0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,2022,New Zealand
+1705,Someone You Loved,Lewis Capaldi,Top Songs of 2022: New Zealand,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2022,New Zealand
+1715,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,Top Songs of 2022: New Zealand,Doja Cat,0.801,0.601,8.0,-7.574,0.0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,2022,New Zealand
+1717,Africa,Toto,Top Songs of 2022: New Zealand,Toto,0.671,0.373,9.0,-18.064,1.0,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,2022,New Zealand
+1720,WAIT FOR U (feat. Drake & Tems),Future,Top Songs of 2022: New Zealand,Future,0.463,0.642,1.0,-4.474,1.0,0.34,0.314,0.0,0.0686,0.339,83.389,2022,New Zealand
+1722,Glimpse of Us,Joji,Top Songs of 2022: New Zealand,Joji,0.44,0.317,8.0,-9.258,1.0,0.0531,0.891,4.78e-06,0.141,0.268,169.914,2022,New Zealand
+1723,Rocket Man (I Think It's Going to Be a Long Long Time),Elton John,Top Songs of 2022: New Zealand,Elton John,0.601,0.532,10.0,-9.119,1.0,0.0286,0.432,6.25e-06,0.0925,0.341,136.571,2022,New Zealand
+1724,Need To Know,Doja Cat,Top Songs of 2022: New Zealand,Doja Cat,0.664,0.609,1.0,-6.509,1.0,0.0707,0.304,0.0,0.0926,0.194,130.041,2022,New Zealand
+1728,Riptide,Vance Joy,Top Songs of 2022: New Zealand,Vance Joy,0.484,0.731,1.0,-6.694,1.0,0.0379,0.431,0.0,0.151,0.51,101.654,2022,New Zealand
+1733,bad guy,Billie Eilish,Top Songs of 2022: New Zealand,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2022,New Zealand
+1743,Last Last,Burna Boy,Top Songs of 2022: New Zealand,Burna Boy,0.795,0.565,3.0,-4.457,0.0,0.0948,0.131,0.0,0.0802,0.55,87.925,2022,New Zealand
+1744,Smokin Out The Window,"Bruno Mars, Anderson .Paak, Silk Sonic",Top Songs of 2022: New Zealand,"Bruno Mars, Anderson .Paak, Silk Sonic",0.627,0.618,2.0,-8.529,1.0,0.0437,0.0558,0.0,0.351,0.848,82.03,2022,New Zealand
+1746,Controller,L.A.B,Top Songs of 2022: New Zealand,L.A.B,0.783,0.546,4.0,-10.531,1.0,0.0357,0.397,0.000398,0.0723,0.572,143.994,2022,New Zealand
+1749,Friday Night,King George,Top Songs of 2022: New Zealand,King George,0.851,0.458,11.0,-7.945,1.0,0.0599,0.403,0.0,0.102,0.553,95.011,2022,New Zealand
+1750,Iris,The Goo Goo Dolls,Top Songs of 2022: New Zealand,The Goo Goo Dolls,0.315,0.715,11.0,-8.072,0.0,0.0362,0.00125,7.97e-06,0.0942,0.497,155.925,2022,New Zealand
+1752,Big Energy,Latto,Top Songs of 2022: New Zealand,Latto,0.935,0.807,11.0,-3.838,0.0,0.114,0.0514,0.0,0.349,0.813,106.017,2022,New Zealand
+1753,Perfect,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.599,0.448,8.0,-6.312,1.0,0.0232,0.163,0.0,0.106,0.168,95.05,2022,New Zealand
+1756,Running Up That Hill (A Deal with God),Kate Bush,Top Songs of 2022: New Zealand,Kate Bush,0.625,0.533,10.0,-11.903,0.0,0.0596,0.659,0.00266,0.0546,0.139,108.296,2022,New Zealand
+1759,Memories,Maroon 5,Top Songs of 2022: New Zealand,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2022,New Zealand
+1766,All She Wrote,SIX60,Top Songs of 2022: New Zealand,SIX60,0.8,0.527,7.0,-7.694,1.0,0.0915,0.196,1.08e-05,0.114,0.368,124.969,2022,New Zealand
+1768,Cover Me In Sunshine,"P!nk, Willow Sage Hart",Top Songs of 2022: New Zealand,"P!nk, Willow Sage Hart",0.476,0.594,5.0,-6.879,1.0,0.135,0.0599,0.0,0.0785,0.314,159.702,2022,New Zealand
+1772,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2022: New Zealand,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2022,New Zealand
+1781,The Chain,Fleetwood Mac,Top Songs of 2022: New Zealand,Fleetwood Mac,0.545,0.67,9.0,-8.81,1.0,0.0496,0.009,0.000822,0.0451,0.481,151.553,2022,New Zealand
+1782,Why Oh Why,L.A.B,Top Songs of 2022: New Zealand,L.A.B,0.772,0.535,9.0,-9.034,1.0,0.0675,0.0131,0.00147,0.142,0.775,81.986,2022,New Zealand
+1784,Fingers Crossed,Lauren Spencer Smith,Top Songs of 2022: New Zealand,Lauren Spencer Smith,0.56,0.473,5.0,-7.23,1.0,0.0533,0.618,0.0,0.31,0.441,109.414,2022,New Zealand
+1785,Late Night Talking,Harry Styles,Top Songs of 2022: New Zealand,Harry Styles,0.714,0.728,10.0,-4.595,1.0,0.0468,0.298,0.0,0.106,0.901,114.996,2022,New Zealand
+1787,Circles,Post Malone,Top Songs of 2022: New Zealand,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2022,New Zealand
+1795,Leave The Door Open,"Bruno Mars, Anderson .Paak, Silk Sonic",Top Songs of 2022: New Zealand,"Bruno Mars, Anderson .Paak, Silk Sonic",0.586,0.616,5.0,-7.964,1.0,0.0324,0.182,0.0,0.0927,0.719,148.088,2022,New Zealand
+1798,she's all i wanna be,Tate McRae,Top Songs of 2022: New Zealand,Tate McRae,0.614,0.644,2.0,-5.372,0.0,0.0426,0.0134,7.07e-06,0.117,0.651,160.036,2022,New Zealand
+1800,All Too Well (10 Minute Version) [Taylor's Version] [From The Vault],Taylor Swift,Top Songs of 2022: New Zealand,Taylor Swift,0.631,0.518,0.0,-8.771,1.0,0.0303,0.274,0.0,0.088,0.205,93.023,2022,New Zealand
+1801,Under the Sun,L.A.B,Top Songs of 2022: New Zealand,L.A.B,0.788,0.66,9.0,-9.186,1.0,0.0297,0.322,0.00018,0.0762,0.84,100.017,2022,New Zealand
+1802,Hrs & Hrs,Muni Long,Top Songs of 2022: New Zealand,Muni Long,0.52,0.546,8.0,-4.991,0.0,0.213,0.579,0.0,0.112,0.634,137.419,2022,New Zealand
+1804,when the party's over,Billie Eilish,Top Songs of 2022: New Zealand,Billie Eilish,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,2022,New Zealand
+1810,Dynamite,BTS,Top Songs of 2022: New Zealand,BTS,0.746,0.765,6.0,-4.41,0.0,0.0993,0.0112,0.0,0.0936,0.737,114.044,2022,New Zealand
+1813,I Hate U,SZA,Top Songs of 2022: New Zealand,SZA,0.533,0.417,7.0,-8.665,0.0,0.148,0.514,0.0,0.114,0.376,106.534,2022,New Zealand
+1815,Leave Before You Love Me,"Marshmello, Jonas Brothers",Top Songs of 2022: New Zealand,"Marshmello, Jonas Brothers",0.721,0.738,7.0,-4.77,1.0,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2022,New Zealand
+1817,Do It To It (feat. Cherish),Acraze,Top Songs of 2022: New Zealand,Acraze,0.636,0.892,2.0,-5.573,1.0,0.0386,0.000422,0.0954,0.156,0.456,125.003,2022,New Zealand
+1819,Don't Stop Believin',Journey,Top Songs of 2022: New Zealand,Journey,0.5,0.748,4.0,-9.072,1.0,0.0363,0.127,0.0,0.447,0.514,118.852,2022,New Zealand
+1820,Catching Feelings (feat. SIX60),Drax Project,Top Songs of 2022: New Zealand,Drax Project,0.396,0.521,3.0,-5.877,1.0,0.101,0.605,0.0,0.157,0.34,175.558,2022,New Zealand
+1822,Photograph,Ed Sheeran,Top Songs of 2022: New Zealand,Ed Sheeran,0.718,0.379,4.0,-10.48,1.0,0.0359,0.607,0.000472,0.0986,0.22,108.033,2022,New Zealand
+1823,Believer,Imagine Dragons,Top Songs of 2022: New Zealand,Imagine Dragons,0.776,0.78,10.0,-4.374,0.0,0.128,0.0622,0.0,0.081,0.666,124.949,2022,New Zealand
+1825,When We Were Young,Adele,Top Songs of 2022: New Zealand,Adele,0.376,0.595,3.0,-5.936,1.0,0.0496,0.303,0.0,0.095,0.265,144.361,2022,New Zealand
+1826,One Right Now,"Post Malone, The Weeknd",Top Songs of 2022: New Zealand,"Post Malone, The Weeknd",0.687,0.781,1.0,-4.806,1.0,0.053,0.0361,0.0,0.0755,0.688,97.014,2022,New Zealand
+1828,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2022: New Zealand,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2022,New Zealand
+1837,Youngblood,5 Seconds of Summer,Top Songs of 2022: New Zealand,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2022,New Zealand
+1844,I Feel It Coming (feat. Daft Punk),The Weeknd,Top Songs of 2022: New Zealand,,,,,,,,,,,,,2022,New Zealand
+1845,MONTERO (Call Me By Your Name),Lil Nas X,Top Songs of 2022: New Zealand,Lil Nas X,0.593,0.503,8.0,-6.725,0.0,0.22,0.293,0.0,0.405,0.71,178.781,2022,New Zealand
+1850,Rolling in the Deep,Adele,Top Songs of 2022: New Zealand,Adele,0.73,0.769,8.0,-5.114,1.0,0.0298,0.138,0.0,0.0473,0.507,104.948,2022,New Zealand
+1852,Meet Me At Our Spot,"THE ANXIETY, WILLOW, Tyler Cole",Top Songs of 2022: New Zealand,"THE ANXIETY, WILLOW, Tyler Cole",0.773,0.47,2.0,-7.93,1.0,0.0299,0.0153,0.000193,0.0851,0.399,94.995,2022,New Zealand
+1853,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2019: Australia,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2019,Australia
+1862,Without Me,Halsey,Top Songs of 2019: Australia,Halsey,0.752,0.488,6.0,-7.05,1.0,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,2019,Australia
+1865,Without Me,Halsey,Top Songs of 2019: Australia,Eminem,0.908,0.669,7.0,-2.827,1.0,0.0738,0.00286,0.0,0.237,0.662,112.238,2019,Australia
+1866,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2019: Australia,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2019,Australia
+1875,Dance Monkey,Tones And I,Top Songs of 2019: Australia,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2019,Australia
+1884,Sweet but Psycho,Ava Max,Top Songs of 2019: Australia,Ava Max,0.72,0.706,1.0,-4.719,1.0,0.0473,0.0684,0.0,0.166,0.62,133.002,2019,Australia
+1886,bad guy,Billie Eilish,Top Songs of 2019: Australia,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2019,Australia
+1896,Body (feat. brando),Loud Luxury,Top Songs of 2019: Australia,Loud Luxury,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,2019,Australia
+1900,Happier,"Marshmello, Bastille",Top Songs of 2019: Australia,"Marshmello, Bastille",0.687,0.792,5.0,-2.749,1.0,0.0452,0.191,0.0,0.167,0.671,100.015,2019,Australia
+1905,"thank u, next",Ariana Grande,Top Songs of 2019: Australia,Ariana Grande,0.717,0.653,1.0,-5.634,1.0,0.0658,0.229,0.0,0.101,0.412,106.966,2019,Australia
+1908,Shotgun,George Ezra,Top Songs of 2019: Australia,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2019,Australia
+1914,3 Nights,Dominic Fike,Top Songs of 2019: Australia,Dominic Fike,0.815,0.518,7.0,-6.594,0.0,0.0897,0.223,0.0,0.104,0.877,151.891,2019,Australia
+1918,7 rings,Ariana Grande,Top Songs of 2019: Australia,Ariana Grande,0.778,0.317,1.0,-10.732,0.0,0.334,0.592,0.0,0.0881,0.327,140.048,2019,Australia
+1921,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2019: Australia,,,,,,,,,,,,,2019,Australia
+1922,Wow.,Post Malone,Top Songs of 2019: Australia,Post Malone,0.829,0.539,11.0,-7.359,0.0,0.208,0.136,1.78e-06,0.103,0.388,99.96,2019,Australia
+1925,Be Alright,Dean Lewis,Top Songs of 2019: Australia,Dean Lewis,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,2019,Australia
+1930,Better,Khalid,Top Songs of 2019: Australia,Khalid,0.596,0.552,0.0,-10.278,0.0,0.097,0.0765,0.334,0.104,0.112,97.949,2019,Australia
+1934,Someone You Loved,Lewis Capaldi,Top Songs of 2019: Australia,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2019,Australia
+1944,Dancing With A Stranger,"Sam Smith, Normani",Top Songs of 2019: Australia,"Sam Smith, Normani",0.741,0.52,8.0,-7.513,1.0,0.0656,0.45,1.97e-06,0.222,0.347,102.998,2019,Australia
+1948,Youngblood,5 Seconds of Summer,Top Songs of 2019: Australia,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2019,Australia
+1955,Señorita,"Shawn Mendes, Camila Cabello",Top Songs of 2019: Australia,"Shawn Mendes, Camila Cabello",0.759,0.548,9.0,-6.049,0.0,0.029,0.0392,0.0,0.0828,0.749,116.967,2019,Australia
+1960,Sucker,Jonas Brothers,Top Songs of 2019: Australia,Jonas Brothers,0.842,0.734,1.0,-5.065,0.0,0.0588,0.0427,0.0,0.106,0.952,137.958,2019,Australia
+1964,Woke Up Late (feat. Hailee Steinfeld),Drax Project,Top Songs of 2019: Australia,Drax Project,0.698,0.66,2.0,-5.429,0.0,0.083,0.043,0.0,0.186,0.351,119.214,2019,Australia
+1966,Waiting,KIAN,Top Songs of 2019: Australia,KIAN,0.786,0.467,4.0,-7.694,0.0,0.0446,0.291,0.0,0.0636,0.46,138.041,2019,Australia
+1967,when the party's over,Billie Eilish,Top Songs of 2019: Australia,Billie Eilish,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,2019,Australia
+1973,Piece Of Your Heart,"Meduza, Goodboys",Top Songs of 2019: Australia,"Meduza, Goodboys",0.677,0.744,10.0,-6.806,0.0,0.0295,0.0404,0.00016,0.074,0.631,124.08,2019,Australia
+1976,Let You Love Me,Rita Ora,Top Songs of 2019: Australia,Rita Ora,0.474,0.846,10.0,-3.344,1.0,0.287,0.277,0.0,0.0824,0.452,96.335,2019,Australia
+1978,Don't Call Me Up,Mabel,Top Songs of 2019: Australia,Mabel,0.674,0.881,9.0,-2.853,1.0,0.147,0.296,3.01e-06,0.0793,0.234,98.994,2019,Australia
+1982,Talk,Khalid,Top Songs of 2019: Australia,Khalid,0.9,0.4,0.0,-8.575,1.0,0.127,0.0516,0.0,0.0599,0.346,135.984,2019,Australia
+1985,bury a friend,Billie Eilish,Top Songs of 2019: Australia,Billie Eilish,0.905,0.389,8.0,-14.505,1.0,0.332,0.74,0.162,0.106,0.196,120.046,2019,Australia
+1988,Leave a Light On,Tom Walker,Top Songs of 2019: Australia,Tom Walker,0.586,0.624,5.0,-5.946,1.0,0.113,0.0153,1.78e-06,0.133,0.267,68.976,2019,Australia
+1990,Here With Me (feat. CHVRCHES),Marshmello,Top Songs of 2019: Australia,,,,,,,,,,,,,2019,Australia
+1991,Exit Sign (feat. Illy & Ecca Vandal),Hilltop Hoods,Top Songs of 2019: Australia,,,,,,,,,,,,,2019,Australia
+1992,Promises,"Calvin Harris, Sam Smith",Top Songs of 2019: Australia,"Calvin Harris, Sam Smith",0.781,0.768,11.0,-5.991,1.0,0.0394,0.0119,4.91e-06,0.325,0.486,123.07,2019,Australia
+1994,Bad Liar,Imagine Dragons,Top Songs of 2019: Australia,Imagine Dragons,0.383,0.637,3.0,-6.993,1.0,0.0703,0.0722,0.0,0.368,0.0827,177.913,2019,Australia
+1996,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2019: Australia,Ed Sheeran,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,2019,Australia
+2000,7 Minutes,Dean Lewis,Top Songs of 2019: Australia,Dean Lewis,0.614,0.739,10.0,-6.478,1.0,0.0314,0.526,0.0,0.149,0.711,104.955,2019,Australia
+2001,One Thing Right,"Marshmello, Kane Brown",Top Songs of 2019: Australia,"Marshmello, Kane Brown",0.659,0.625,4.0,-2.253,1.0,0.045,0.0644,0.0,0.582,0.442,88.042,2019,Australia
+2003,Johnny Run Away,Tones And I,Top Songs of 2019: Australia,Tones And I,0.8,0.538,2.0,-4.775,1.0,0.0617,0.642,1.23e-06,0.107,0.581,92.451,2019,Australia
+2004,Mess Her Up (Single Edit),Amy Shark,Top Songs of 2019: Australia,Amy Shark,0.605,0.816,7.0,-4.475,1.0,0.0432,0.0363,0.000744,0.125,0.285,160.05,2019,Australia
+2005,The Git Up,Blanco Brown,Top Songs of 2019: Australia,Blanco Brown,0.847,0.678,9.0,-8.635,1.0,0.109,0.0669,0.0,0.274,0.811,97.984,2019,Australia
+2008,I Said Hi,Amy Shark,Top Songs of 2019: Australia,Amy Shark,0.393,0.855,6.0,-4.329,1.0,0.122,0.00469,0.0,0.0735,0.328,74.304,2019,Australia
+2009,1999,"Charli XCX, Troye Sivan",Top Songs of 2019: Australia,"Charli XCX, Troye Sivan",0.741,0.743,7.0,-4.586,1.0,0.0328,0.0224,1.23e-06,0.229,0.658,124.014,2019,Australia
+2010,Better Now,Post Malone,Top Songs of 2019: Australia,Post Malone,0.68,0.578,10.0,-5.804,1.0,0.04,0.331,0.0,0.135,0.341,145.038,2019,Australia
+2013,Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,Top Songs of 2019: Australia,Ed Sheeran,0.746,0.787,4.0,-6.373,1.0,0.12,0.214,0.0,0.0669,0.607,95.005,2019,Australia
+2015,Choir,Guy Sebastian,Top Songs of 2019: Australia,Guy Sebastian,0.643,0.687,5.0,-3.65,1.0,0.0634,0.0703,0.0,0.0846,0.612,86.992,2019,Australia
+2017,Who Do You Love,"The Chainsmokers, 5 Seconds of Summer",Top Songs of 2019: Australia,"The Chainsmokers, 5 Seconds of Summer",0.51,0.846,3.0,-4.595,1.0,0.0461,0.0101,0.0,0.208,0.475,139.927,2019,Australia
+2019,Love Someone,Lukas Graham,Top Songs of 2019: Australia,Lukas Graham,0.538,0.409,9.0,-6.581,0.0,0.0505,0.172,0.0,0.11,0.265,171.838,2019,Australia
+2021,High Hopes,Panic! At the Disco,Top Songs of 2019: Australia,Panic! At the Disco,0.579,0.904,5.0,-2.729,1.0,0.0618,0.193,0.0,0.064,0.681,82.014,2019,Australia
+2023,Good Lord,Birds of Tokyo,Top Songs of 2019: Australia,Birds of Tokyo,0.533,0.695,0.0,-4.819,1.0,0.0492,0.00539,0.0,0.236,0.216,155.964,2019,Australia
+2024,You Need To Calm Down,Taylor Swift,Top Songs of 2019: Australia,Taylor Swift,0.771,0.671,2.0,-5.617,1.0,0.0553,0.00929,0.0,0.0637,0.714,85.026,2019,Australia
+2027,lovely,"Billie Eilish, Khalid",Top Songs of 2019: Australia,"Billie Eilish, Khalid",0.351,0.296,4.0,-10.109,0.0,0.0333,0.934,0.0,0.095,0.12,115.284,2019,Australia
+2031,"break up with your girlfriend, i'm bored",Ariana Grande,Top Songs of 2019: Australia,Ariana Grande,0.726,0.554,5.0,-5.29,0.0,0.0917,0.0421,0.0,0.106,0.335,169.999,2019,Australia
+2034,Leave Me Lonely,Hilltop Hoods,Top Songs of 2019: Australia,Hilltop Hoods,0.763,0.874,0.0,-5.792,0.0,0.0564,0.27,0.0,0.159,0.755,131.038,2019,Australia
+2035,If I Can't Have You,Shawn Mendes,Top Songs of 2019: Australia,Shawn Mendes,0.69,0.809,2.0,-4.198,1.0,0.0603,0.524,0.0,0.147,0.864,123.912,2019,Australia
+2037,No Guidance (feat. Drake),Chris Brown,Top Songs of 2019: Australia,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2019,Australia
+2045,Saturday Nights,Khalid,Top Songs of 2019: Australia,Khalid,0.551,0.44,10.0,-8.559,1.0,0.0985,0.606,3.02e-05,0.11,0.341,167.923,2019,Australia
+2047,Shape of You,Ed Sheeran,Top Songs of 2019: Australia,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2019,Australia
+2055,It's You,Ali Gatie,Top Songs of 2019: Australia,Ali Gatie,0.732,0.463,11.0,-6.972,0.0,0.0287,0.374,0.0,0.194,0.397,95.971,2019,Australia
+2058,I'm So Tired...,"Lauv, Troye Sivan",Top Songs of 2019: Australia,"Lauv, Troye Sivan",0.548,0.735,11.0,-7.572,1.0,0.236,0.173,0.0,0.195,0.498,101.252,2019,Australia
+2060,Always Remember Us This Way,Lady Gaga,Top Songs of 2019: Australia,Lady Gaga,0.553,0.502,0.0,-5.972,1.0,0.0409,0.299,0.0,0.764,0.296,129.976,2019,Australia
+2062,Walk Me Home,P!nk,Top Songs of 2019: Australia,P!nk,0.652,0.453,1.0,-6.119,1.0,0.0445,0.0507,0.0,0.179,0.432,88.039,2019,Australia
+2064,SOS (feat. Aloe Blacc),Avicii,Top Songs of 2019: Australia,Avicii,0.802,0.645,5.0,-6.181,0.0,0.0715,0.272,0.0,0.119,0.376,100.001,2019,Australia
+2066,Giant,"Calvin Harris, Rag'n'Bone Man",Top Songs of 2019: Australia,"Calvin Harris, Rag'n'Bone Man",0.807,0.887,1.0,-4.311,0.0,0.0361,0.016,0.000503,0.0811,0.606,122.015,2019,Australia
+2068,Day Drunk,Morgan Evans,Top Songs of 2019: Australia,Morgan Evans,0.647,0.754,10.0,-5.446,1.0,0.0378,0.015,0.0,0.0684,0.755,97.005,2019,Australia
+2069,Nevermind,Dennis Lloyd,Top Songs of 2019: Australia,Dennis Lloyd,0.6,0.688,5.0,-8.339,0.0,0.201,0.159,1.29e-05,0.409,0.0793,99.977,2019,Australia
+2071,Stay Awake,Dean Lewis,Top Songs of 2019: Australia,Dean Lewis,0.723,0.829,11.0,-7.123,0.0,0.0453,0.337,3.47e-05,0.0931,0.582,106.023,2019,Australia
+2072,Never Seen the Rain,Tones And I,Top Songs of 2019: Australia,Tones And I,0.742,0.464,6.0,-5.624,0.0,0.0318,0.425,0.0,0.284,0.281,92.107,2019,Australia
+2074,I Like It,"Cardi B, Bad Bunny, J Balvin",Top Songs of 2019: Australia,"Cardi B, Bad Bunny, J Balvin",0.816,0.726,5.0,-3.998,0.0,0.129,0.099,0.0,0.372,0.65,136.048,2019,Australia
+2077,ocean eyes,Billie Eilish,Top Songs of 2019: Australia,Billie Eilish,0.511,0.363,4.0,-7.65,0.0,0.041,0.816,0.0317,0.084,0.169,144.892,2019,Australia
+2081,Taste (feat. Offset),Tyga,Top Songs of 2019: Australia,Tyga,0.884,0.559,0.0,-7.442,1.0,0.12,0.0236,0.0,0.101,0.342,97.994,2019,Australia
+2084,Truth Hurts,Lizzo,Top Songs of 2019: Australia,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2019,Australia
+2090,Better Together (feat. Running Touch),Hayden James,Top Songs of 2019: Australia,,,,,,,,,,,,,2019,Australia
+2091,Never Really Over,Katy Perry,Top Songs of 2019: Australia,Katy Perry,0.77,0.882,8.0,-4.792,1.0,0.0605,0.194,0.0,0.316,0.385,99.991,2019,Australia
+2092,Fire,Peking Duk,Top Songs of 2019: Australia,Peking Duk,0.679,0.69,1.0,-2.744,0.0,0.054,0.0256,8.92e-06,0.07,0.648,99.949,2019,Australia
+2093,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Top Songs of 2019: Australia,Ed Sheeran,0.857,0.621,9.0,-6.376,0.0,0.0825,0.148,0.0,0.0865,0.668,97.989,2019,Australia
+2097,rockstar (feat. 21 Savage),Post Malone,Top Songs of 2019: Australia,Post Malone,0.585,0.52,5.0,-6.136,0.0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,2019,Australia
+2100,I Fall Apart,Post Malone,Top Songs of 2019: Australia,Post Malone,0.556,0.538,8.0,-5.408,0.0,0.0382,0.0689,0.0,0.196,0.291,143.95,2019,Australia
+2103,MIDDLE CHILD,J. Cole,Top Songs of 2019: Australia,J. Cole,0.837,0.364,8.0,-11.713,1.0,0.276,0.149,0.0,0.271,0.463,123.984,2019,Australia
+2106,Rewrite the Stars,"James Arthur, Anne-Marie",Top Songs of 2019: Australia,"James Arthur, Anne-Marie",0.67,0.743,10.0,-4.993,1.0,0.0393,0.237,0.0,0.465,0.571,125.944,2019,Australia
+2107,Thunder,Imagine Dragons,Top Songs of 2019: Australia,Imagine Dragons,0.605,0.822,0.0,-4.833,1.0,0.0438,0.00671,0.134,0.147,0.288,167.997,2019,Australia
+2112,Rescue Me,OneRepublic,Top Songs of 2019: Australia,OneRepublic,0.759,0.603,11.0,-7.754,0.0,0.0418,0.142,0.0,0.593,0.697,121.054,2019,Australia
+2113,I Wanna Know (feat. Bea Miller),NOTD,Top Songs of 2019: Australia,NOTD,0.661,0.725,6.0,-4.859,1.0,0.0563,0.0253,0.0,0.123,0.605,119.927,2019,Australia
+2114,Money In The Grave (feat. Rick Ross),Drake,Top Songs of 2019: Australia,,,,,,,,,,,,,2019,Australia
+2115,How Do You Sleep?,Sam Smith,Top Songs of 2019: Australia,Sam Smith,0.477,0.682,1.0,-4.931,0.0,0.0925,0.153,0.0,0.0763,0.345,110.567,2019,Australia
+2117,Tequila,Dan + Shay,Top Songs of 2019: Australia,Dan + Shay,0.489,0.581,11.0,-5.731,1.0,0.0281,0.0312,0.0,0.132,0.494,86.016,2019,Australia
+2118,Dance Monkey,Tones And I,Top Songs of 2020: Australia,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2020,Australia
+2127,Blinding Lights,The Weeknd,Top Songs of 2020: Australia,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2020,Australia
+2136,Don't Start Now,Dua Lipa,Top Songs of 2020: Australia,,,,,,,,,,,,,2020,Australia
+2137,Circles,Post Malone,Top Songs of 2020: Australia,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2020,Australia
+2145,Ride It,Regard,Top Songs of 2020: Australia,Regard,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,2020,Australia
+2149,Memories,Maroon 5,Top Songs of 2020: Australia,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2020,Australia
+2156,Before You Go,Lewis Capaldi,Top Songs of 2020: Australia,Lewis Capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,2020,Australia
+2161,Never Seen the Rain,Tones And I,Top Songs of 2020: Australia,Tones And I,0.742,0.464,6.0,-5.624,0.0,0.0318,0.425,0.0,0.284,0.281,92.107,2020,Australia
+2163,Someone You Loved,Lewis Capaldi,Top Songs of 2020: Australia,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2020,Australia
+2173,Rushing Back (feat. Vera Blue),Flume,Top Songs of 2020: Australia,,,,,,,,,,,,,2020,Australia
+2174,You should be sad,Halsey,Top Songs of 2020: Australia,Halsey,0.591,0.585,2.0,-6.35,1.0,0.0277,0.143,0.0,0.109,0.324,110.94,2020,Australia
+2177,Adore You,Harry Styles,Top Songs of 2020: Australia,Harry Styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,2020,Australia
+2182,Watermelon Sugar,Harry Styles,Top Songs of 2020: Australia,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2020,Australia
+2189,bad guy,Billie Eilish,Top Songs of 2020: Australia,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2020,Australia
+2199,ROXANNE,Arizona Zervas,Top Songs of 2020: Australia,Arizona Zervas,0.621,0.601,6.0,-5.616,0.0,0.148,0.0522,0.0,0.46,0.457,116.735,2020,Australia
+2202,One Thing Right,"Marshmello, Kane Brown",Top Songs of 2020: Australia,"Marshmello, Kane Brown",0.659,0.625,4.0,-2.253,1.0,0.045,0.0644,0.0,0.582,0.442,88.042,2020,Australia
+2204,Castles,Freya Ridings,Top Songs of 2020: Australia,Freya Ridings,0.672,0.752,4.0,-4.866,1.0,0.0843,0.0046,0.00047,0.056,0.429,116.945,2020,Australia
+2205,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Top Songs of 2020: Australia,Ed Sheeran,0.857,0.621,9.0,-6.376,0.0,0.0825,0.148,0.0,0.0865,0.668,97.989,2020,Australia
+2209,Post Malone (feat. RANI),Sam Feldt,Top Songs of 2020: Australia,Sam Feldt,0.59,0.642,7.0,-3.87,1.0,0.122,0.0771,0.0,0.105,0.651,107.356,2020,Australia
+2211,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,Top Songs of 2020: Australia,Lizzo,0.668,0.892,5.0,-3.001,0.0,0.0645,0.298,0.0,0.735,0.478,95.927,2020,Australia
+2213,The Box,Roddy Ricch,Top Songs of 2020: Australia,Roddy Ricch,0.896,0.586,10.0,-6.687,0.0,0.0559,0.104,0.0,0.79,0.642,116.971,2020,Australia
+2217,"10,000 Hours","Dan + Shay, Justin Bieber",Top Songs of 2020: Australia,"Dan + Shay, Justin Bieber",0.654,0.63,10.0,-4.644,1.0,0.0259,0.153,0.0,0.111,0.43,89.991,2020,Australia
+2220,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2020: Australia,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2020,Australia
+2229,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2020: Australia,"Jawsh 685, Jason Derulo",0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,2020,Australia
+2233,I Don't Care,"Ed Sheeran, Justin Bieber",Top Songs of 2020: Australia,,,,,,,,,,,,,2020,Australia
+2234,Lose You to Love Me,Selena Gomez,Top Songs of 2020: Australia,Selena Gomez,0.488,0.343,4.0,-8.985,1.0,0.0436,0.556,0.0,0.21,0.0978,102.819,2020,Australia
+2237,Señorita,"Shawn Mendes, Camila Cabello",Top Songs of 2020: Australia,"Shawn Mendes, Camila Cabello",0.759,0.548,9.0,-6.049,0.0,0.029,0.0392,0.0,0.0828,0.749,116.967,2020,Australia
+2242,Piece Of Your Heart,"Meduza, Goodboys",Top Songs of 2020: Australia,"Meduza, Goodboys",0.677,0.744,10.0,-6.806,0.0,0.0295,0.0404,0.00016,0.074,0.631,124.08,2020,Australia
+2245,Say So,Doja Cat,Top Songs of 2020: Australia,Doja Cat,0.787,0.673,11.0,-4.583,0.0,0.159,0.264,3.35e-06,0.0904,0.779,110.962,2020,Australia
+2248,Physical,Dua Lipa,Top Songs of 2020: Australia,Dua Lipa,0.647,0.844,0.0,-3.756,1.0,0.0457,0.0137,0.000658,0.102,0.746,146.967,2020,Australia
+2250,Graveyard,Halsey,Top Songs of 2020: Australia,Halsey,0.667,0.583,11.0,-5.127,0.0,0.0747,0.231,4.48e-05,0.181,0.187,92.043,2020,Australia
+2252,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2020: Australia,Ed Sheeran,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,2020,Australia
+2256,Woke Up Late (feat. Hailee Steinfeld),Drax Project,Top Songs of 2020: Australia,Drax Project,0.698,0.66,2.0,-5.429,0.0,0.083,0.043,0.0,0.186,0.351,119.214,2020,Australia
+2258,Glitter,BENEE,Top Songs of 2020: Australia,BENEE,0.801,0.589,7.0,-5.157,1.0,0.0485,0.0863,0.0,0.162,0.58,116.934,2020,Australia
+2260,Supalonely (feat. Gus Dapperton),BENEE,Top Songs of 2020: Australia,BENEE,0.862,0.631,7.0,-4.746,1.0,0.0515,0.291,0.000209,0.123,0.841,128.978,2020,Australia
+2263,Breaking Me,"Topic, A7S",Top Songs of 2020: Australia,"Topic, A7S",0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,2020,Australia
+2267,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2020: Australia,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2020,Australia
+2276,HIGHEST IN THE ROOM,Travis Scott,Top Songs of 2020: Australia,Travis Scott,0.598,0.427,7.0,-8.764,0.0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,2020,Australia
+2279,Choir,Guy Sebastian,Top Songs of 2020: Australia,Guy Sebastian,0.643,0.687,5.0,-3.65,1.0,0.0634,0.0703,0.0,0.0846,0.612,86.992,2020,Australia
+2281,Know Your Worth,"Khalid, Disclosure",Top Songs of 2020: Australia,"Khalid, Disclosure",0.79,0.694,9.0,-7.726,0.0,0.0708,0.145,0.00252,0.281,0.508,103.007,2020,Australia
+2283,This City,Sam Fischer,Top Songs of 2020: Australia,Sam Fischer,0.605,0.377,11.0,-6.213,1.0,0.0443,0.733,0.0,0.0808,0.519,73.877,2020,Australia
+2285,Falling,Trevor Daniel,Top Songs of 2020: Australia,Trevor Daniel,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,2020,Australia
+2286,Falling,Trevor Daniel,Top Songs of 2020: Australia,Harry Styles,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,2020,Australia
+2290,Lose Control,"Meduza, Becky Hill, Goodboys",Top Songs of 2020: Australia,"Meduza, Becky Hill, Goodboys",0.598,0.526,10.0,-8.659,0.0,0.0415,0.129,0.0,0.14,0.529,123.935,2020,Australia
+2291,Break My Heart,Dua Lipa,Top Songs of 2020: Australia,Dua Lipa,0.772,0.637,4.0,-7.846,0.0,0.0494,0.022,0.0353,0.0898,0.409,113.022,2020,Australia
+2293,Rain On Me,"Lady Gaga, Ariana Grande",Top Songs of 2020: Australia,"Lady Gaga, Ariana Grande",0.672,0.855,9.0,-3.764,1.0,0.0397,0.021,0.0,0.323,0.646,123.056,2020,Australia
+2297,Shotgun,George Ezra,Top Songs of 2020: Australia,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2020,Australia
+2303,Body (feat. brando),Loud Luxury,Top Songs of 2020: Australia,Loud Luxury,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,2020,Australia
+2307,Youngblood,5 Seconds of Summer,Top Songs of 2020: Australia,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2020,Australia
+2314,July,"Noah Cyrus, Leon Bridges",Top Songs of 2020: Australia,"Noah Cyrus, Leon Bridges",0.708,0.211,9.0,-9.603,0.0,0.0424,0.853,0.0,0.131,0.362,72.5,2020,Australia
+2315,Maniac,Conan Gray,Top Songs of 2020: Australia,Conan Gray,0.628,0.639,8.0,-5.46,1.0,0.0435,0.00162,0.0,0.354,0.493,108.045,2020,Australia
+2316,Toosie Slide,Drake,Top Songs of 2020: Australia,Drake,0.834,0.454,1.0,-9.75,0.0,0.201,0.321,6.15e-06,0.114,0.837,81.618,2020,Australia
+2319,The Reaper (feat. Amy Shark),The Chainsmokers,Top Songs of 2020: Australia,,,,,,,,,,,,,2020,Australia
+2320,Purple Hat,Sofi Tukker,Top Songs of 2020: Australia,Sofi Tukker,0.777,0.744,9.0,-7.42,1.0,0.204,0.331,0.0073,0.088,0.654,94.019,2020,Australia
+2321,Be Alright,Dean Lewis,Top Songs of 2020: Australia,Dean Lewis,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,2020,Australia
+2326,No Guidance (feat. Drake),Chris Brown,Top Songs of 2020: Australia,Chris Brown,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,2020,Australia
+2334,Exit Sign (feat. Illy & Ecca Vandal),Hilltop Hoods,Top Songs of 2020: Australia,,,,,,,,,,,,,2020,Australia
+2335,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2020: Australia,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2020,Australia
+2341,Don't Call Me Up,Mabel,Top Songs of 2020: Australia,Mabel,0.674,0.881,9.0,-2.853,1.0,0.147,0.296,3.01e-06,0.0793,0.234,98.994,2020,Australia
+2345,What a Man Gotta Do,Jonas Brothers,Top Songs of 2020: Australia,Jonas Brothers,0.852,0.698,9.0,-7.206,1.0,0.0629,0.00839,1.03e-06,0.0773,0.324,113.039,2020,Australia
+2347,Sunday Best,Surfaces,Top Songs of 2020: Australia,Surfaces,0.878,0.525,5.0,-6.832,1.0,0.0578,0.183,0.0,0.0714,0.694,112.022,2020,Australia
+2350,The Git Up,Blanco Brown,Top Songs of 2020: Australia,Blanco Brown,0.847,0.678,9.0,-8.635,1.0,0.109,0.0669,0.0,0.274,0.811,97.984,2020,Australia
+2353,Bad Child,Tones And I,Top Songs of 2020: Australia,Tones And I,0.756,0.554,6.0,-4.24,0.0,0.0342,0.402,0.0,0.158,0.596,117.992,2020,Australia
+2354,3 Nights,Dominic Fike,Top Songs of 2020: Australia,Dominic Fike,0.815,0.518,7.0,-6.594,0.0,0.0897,0.223,0.0,0.104,0.877,151.891,2020,Australia
+2358,Shape of You,Ed Sheeran,Top Songs of 2020: Australia,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2020,Australia
+2366,Riptide,Vance Joy,Top Songs of 2020: Australia,Vance Joy,0.484,0.731,1.0,-6.694,1.0,0.0379,0.431,0.0,0.151,0.51,101.654,2020,Australia
+2371,Lonely,"Diplo, Jonas Brothers",Top Songs of 2020: Australia,"Justin Bieber, benny blanco",0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,2020,Australia
+2373,Lonely,"Diplo, Jonas Brothers",Top Songs of 2020: Australia,"Diplo, Jonas Brothers",0.739,0.717,1.0,-5.123,1.0,0.0565,0.0611,0.0,0.206,0.529,98.047,2020,Australia
+2375,Yummy,Justin Bieber,Top Songs of 2020: Australia,Justin Bieber,0.677,0.506,9.0,-6.652,0.0,0.0964,0.345,0.0,0.118,0.497,145.843,2020,Australia
+2378,SICKO MODE,Travis Scott,Top Songs of 2020: Australia,Travis Scott,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,2020,Australia
+2384,Higher Love,"Kygo, Whitney Houston",Top Songs of 2020: Australia,"Kygo, Whitney Houston",0.693,0.678,8.0,-7.159,1.0,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,2020,Australia
+2386,Falling,Harry Styles,Top Songs of 2020: Australia,Trevor Daniel,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,2020,Australia
+2387,Falling,Harry Styles,Top Songs of 2020: Australia,Harry Styles,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,2020,Australia
+2391,Pump It Up,Endor,Top Songs of 2020: Australia,Endor,0.898,0.893,1.0,-7.255,1.0,0.225,0.207,9.33e-05,0.061,0.653,129.047,2020,Australia
+2392,You Need To Calm Down,Taylor Swift,Top Songs of 2020: Australia,Taylor Swift,0.771,0.671,2.0,-5.617,1.0,0.0553,0.00929,0.0,0.0637,0.714,85.026,2020,Australia
+2395,Truth Hurts,Lizzo,Top Songs of 2020: Australia,Lizzo,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,2020,Australia
+2401,Another Place,"Bastille, Alessia Cara",Top Songs of 2020: Australia,"Bastille, Alessia Cara",0.685,0.742,8.0,-5.409,1.0,0.0471,0.22,0.0,0.185,0.618,115.008,2020,Australia
+2402,Be Kind,"Marshmello, Halsey",Top Songs of 2020: Australia,"Marshmello, Halsey",0.63,0.633,4.0,-7.088,1.0,0.0457,0.00776,0.0,0.0541,0.452,93.995,2020,Australia
+2403,hot girl bummer,blackbear,Top Songs of 2020: Australia,blackbear,0.782,0.559,6.0,-7.106,0.0,0.0767,0.125,0.0,0.385,0.685,129.992,2020,Australia
+2406,No Judgement,Niall Horan,Top Songs of 2020: Australia,Niall Horan,0.723,0.726,1.0,-3.835,0.0,0.0472,0.0564,0.000126,0.057,0.962,100.051,2020,Australia
+2407,If the World Was Ending (feat. Julia Michaels),JP Saxe,Top Songs of 2020: Australia,JP Saxe,0.464,0.473,1.0,-10.086,1.0,0.129,0.866,0.0,0.109,0.604,75.801,2020,Australia
+2410,when the party's over,Billie Eilish,Top Songs of 2020: Australia,Billie Eilish,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,2020,Australia
+2416,The Man,Taylor Swift,Top Songs of 2020: Australia,Taylor Swift,0.777,0.658,0.0,-5.191,1.0,0.054,0.0767,0.0,0.0901,0.633,110.048,2020,Australia
+2417,Stuck with U,"Ariana Grande, Justin Bieber",Top Songs of 2020: Australia,"Ariana Grande, Justin Bieber",0.597,0.45,8.0,-6.658,1.0,0.0418,0.223,0.0,0.382,0.537,178.765,2020,Australia
+2419,Heartless (feat. Morgan Wallen),Diplo,Top Songs of 2020: Australia,Diplo,0.765,0.556,11.0,-6.417,1.0,0.0512,0.275,0.0,0.0824,0.274,111.033,2020,Australia
+2421,Thunder,Imagine Dragons,Top Songs of 2020: Australia,Imagine Dragons,0.605,0.822,0.0,-4.833,1.0,0.0438,0.00671,0.134,0.147,0.288,167.997,2020,Australia
+2426,It's You,Ali Gatie,Top Songs of 2020: Australia,Ali Gatie,0.732,0.463,11.0,-6.972,0.0,0.0287,0.374,0.0,0.194,0.397,95.971,2020,Australia
+2429,Used To Love,"Martin Garrix, Dean Lewis",Top Songs of 2020: Australia,"Martin Garrix, Dean Lewis",0.651,0.693,4.0,-4.722,1.0,0.0375,0.458,0.0,0.335,0.392,118.97,2020,Australia
+2430,Heat Waves,Glass Animals,Top Songs of 2021: Australia,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,2021,Australia
+2436,Blinding Lights,The Weeknd,Top Songs of 2021: Australia,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2021,Australia
+2445,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2021: Australia,Dua Lipa,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,2021,Australia
+2450,WITHOUT YOU,The Kid LAROI,Top Songs of 2021: Australia,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,2021,Australia
+2454,SO DONE,The Kid LAROI,Top Songs of 2021: Australia,The Kid LAROI,0.719,0.598,9.0,-6.254,1.0,0.077,0.232,0.0,0.115,0.303,142.592,2021,Australia
+2456,The Business,Tiësto,Top Songs of 2021: Australia,Tiësto,0.798,0.62,8.0,-7.079,0.0,0.232,0.414,0.0192,0.112,0.235,120.031,2021,Australia
+2459,good 4 u,Olivia Rodrigo,Top Songs of 2021: Australia,Olivia Rodrigo,0.563,0.664,9.0,-5.044,1.0,0.154,0.335,0.0,0.0849,0.688,166.928,2021,Australia
+2465,Fly Away,Tones And I,Top Songs of 2021: Australia,Tones And I,0.806,0.513,4.0,-6.208,1.0,0.0685,0.217,0.0,0.217,0.503,124.988,2021,Australia
+2468,Dance Monkey,Tones And I,Top Songs of 2021: Australia,Tones And I,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,2021,Australia
+2477,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2021: Australia,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2021,Australia
+2483,Watermelon Sugar,Harry Styles,Top Songs of 2021: Australia,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2021,Australia
+2490,Dreams,Fleetwood Mac,Top Songs of 2021: Australia,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2021,Australia
+2496,you broke me first,Tate McRae,Top Songs of 2021: Australia,Tate McRae,0.667,0.373,4.0,-9.389,1.0,0.05,0.785,0.0,0.0906,0.0823,124.148,2021,Australia
+2498,Astronaut in the Ocean,Masked Wolf,Top Songs of 2021: Australia,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,2021,Australia
+2500,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2021: Australia,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2021,Australia
+2506,Bad Habits,Ed Sheeran,Top Songs of 2021: Australia,Ed Sheeran,0.807,0.893,11.0,-3.745,0.0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,2021,Australia
+2510,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2021: Australia,"Jawsh 685, Jason Derulo",0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,2021,Australia
+2514,Cover Me In Sunshine,"P!nk, Willow Sage Hart",Top Songs of 2021: Australia,"P!nk, Willow Sage Hart",0.476,0.594,5.0,-6.879,1.0,0.135,0.0599,0.0,0.0785,0.314,159.702,2021,Australia
+2518,MONTERO (Call Me By Your Name),Lil Nas X,Top Songs of 2021: Australia,Lil Nas X,0.593,0.503,8.0,-6.725,0.0,0.22,0.293,0.0,0.405,0.71,178.781,2021,Australia
+2523,Riptide,Vance Joy,Top Songs of 2021: Australia,Vance Joy,0.484,0.731,1.0,-6.694,1.0,0.0379,0.431,0.0,0.151,0.51,101.654,2021,Australia
+2528,Don't Start Now,Dua Lipa,Top Songs of 2021: Australia,,,,,,,,,,,,,2021,Australia
+2529,Therefore I Am,Billie Eilish,Top Songs of 2021: Australia,Billie Eilish,0.889,0.34,11.0,-7.773,0.0,0.0697,0.218,0.13,0.055,0.716,94.009,2021,Australia
+2531,One Too Many,"Keith Urban, P!nk",Top Songs of 2021: Australia,"Keith Urban, P!nk",0.697,0.535,4.0,-6.504,1.0,0.068,0.247,0.0,0.569,0.594,82.959,2021,Australia
+2532,Take You Dancing,Jason Derulo,Top Songs of 2021: Australia,Jason Derulo,0.789,0.711,2.0,-4.248,1.0,0.041,0.0332,0.0,0.0876,0.753,112.985,2021,Australia
+2534,Breaking Me,"Topic, A7S",Top Songs of 2021: Australia,"Topic, A7S",0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,2021,Australia
+2538,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2021: Australia,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2021,Australia
+2547,deja vu,Olivia Rodrigo,Top Songs of 2021: Australia,Olivia Rodrigo,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,2021,Australia
+2550,Dancing In The Moonlight (feat. NEIMY),Jubël,Top Songs of 2021: Australia,Jubël,0.659,0.615,11.0,-5.865,0.0,0.0644,0.27,0.0,0.187,0.193,119.843,2021,Australia
+2551,Youngblood,5 Seconds of Summer,Top Songs of 2021: Australia,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2021,Australia
+2558,my ex's best friend,"Machine Gun Kelly, blackbear",Top Songs of 2021: Australia,"Machine Gun Kelly, blackbear",0.731,0.675,5.0,-5.134,0.0,0.0434,0.00473,0.0,0.141,0.298,124.939,2021,Australia
+2560,Midnight Sky,Miley Cyrus,Top Songs of 2021: Australia,Miley Cyrus,0.699,0.805,4.0,-5.535,0.0,0.0345,0.00161,0.00177,0.249,0.232,109.976,2021,Australia
+2562,Ride It,Regard,Top Songs of 2021: Australia,Regard,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,2021,Australia
+2566,Looking For Me,"Paul Woolford, Diplo, Kareen Lomax",Top Songs of 2021: Australia,"Paul Woolford, Diplo, Kareen Lomax",0.641,0.529,6.0,-11.536,1.0,0.0288,0.00441,0.000862,0.0809,0.449,121.027,2021,Australia
+2567,Anyone,Justin Bieber,Top Songs of 2021: Australia,Justin Bieber,0.686,0.538,2.0,-8.026,1.0,0.0345,0.181,3.13e-06,0.113,0.584,115.884,2021,Australia
+2569,Shape of You,Ed Sheeran,Top Songs of 2021: Australia,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2021,Australia
+2577,willow,Taylor Swift,Top Songs of 2021: Australia,Taylor Swift,0.392,0.574,7.0,-9.195,1.0,0.17,0.833,0.00179,0.145,0.529,81.112,2021,Australia
+2579,Be Like That,"Kane Brown, Swae Lee, Khalid",Top Songs of 2021: Australia,"Kane Brown, Swae Lee, Khalid",0.727,0.626,7.0,-8.415,1.0,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,2021,Australia
+2580,Paradise (feat. Dermot Kennedy),Meduza,Top Songs of 2021: Australia,Meduza,0.632,0.595,8.0,-7.644,0.0,0.0401,0.0689,0.0,0.209,0.435,124.114,2021,Australia
+2581,bad guy,Billie Eilish,Top Songs of 2021: Australia,Billie Eilish,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,2021,Australia
+2591,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2021: Australia,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2021,Australia
+2600,What You Know Bout Love,Pop Smoke,Top Songs of 2021: Australia,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,2021,Australia
+2604,Circles,Post Malone,Top Songs of 2021: Australia,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2021,Australia
+2612,Memories,Maroon 5,Top Songs of 2021: Australia,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2021,Australia
+2619,Forever After All,Luke Combs,Top Songs of 2021: Australia,Luke Combs,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,2021,Australia
+2621,Save Your Tears,The Weeknd,Top Songs of 2021: Australia,The Weeknd,0.685,0.816,0.0,-5.496,1.0,0.0308,0.0216,2.05e-05,0.439,0.619,118.065,2021,Australia
+2624,Mr. Brightside,The Killers,Top Songs of 2021: Australia,The Killers,0.352,0.911,1.0,-5.23,1.0,0.0747,0.00121,0.0,0.0995,0.236,148.033,2021,Australia
+2627,Your Love (9PM),"ATB, Topic, A7S",Top Songs of 2021: Australia,"ATB, Topic, A7S",0.669,0.784,7.0,-5.603,1.0,0.112,0.194,6.28e-06,0.115,0.517,125.993,2021,Australia
+2628,Hold On,Justin Bieber,Top Songs of 2021: Australia,Justin Bieber,0.658,0.634,1.0,-5.797,0.0,0.0413,0.0106,0.0,0.132,0.29,139.98,2021,Australia
+2630,My Head & My Heart,Ava Max,Top Songs of 2021: Australia,Ava Max,0.614,0.934,9.0,-3.709,0.0,0.07,0.0697,0.0,0.121,0.436,116.001,2021,Australia
+2631,Rain On Me,"Lady Gaga, Ariana Grande",Top Songs of 2021: Australia,"Lady Gaga, Ariana Grande",0.672,0.855,9.0,-3.764,1.0,0.0397,0.021,0.0,0.323,0.646,123.056,2021,Australia
+2635,Be Alright,Dean Lewis,Top Songs of 2021: Australia,Dean Lewis,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,2021,Australia
+2640,The Nosebleed Section,Hilltop Hoods,Top Songs of 2021: Australia,Hilltop Hoods,0.845,0.828,1.0,-5.447,1.0,0.164,0.513,1.35e-06,0.0906,0.909,97.45,2021,Australia
+2642,You should be sad,Halsey,Top Songs of 2021: Australia,Halsey,0.591,0.585,2.0,-6.35,1.0,0.0277,0.143,0.0,0.109,0.324,110.94,2021,Australia
+2645,Up,Cardi B,Top Songs of 2021: Australia,Cardi B,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,2021,Australia
+2648,Calling My Phone,"Lil Tjay, 6LACK",Top Songs of 2021: Australia,"Lil Tjay, 6LACK",0.907,0.393,4.0,-7.636,0.0,0.0539,0.451,1.35e-06,0.135,0.202,104.949,2021,Australia
+2650,Before You Go,Lewis Capaldi,Top Songs of 2021: Australia,Lewis Capaldi,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,2021,Australia
+2655,Thunder,Imagine Dragons,Top Songs of 2021: Australia,Imagine Dragons,0.605,0.822,0.0,-4.833,1.0,0.0438,0.00671,0.134,0.147,0.288,167.997,2021,Australia
+2660,Beggin',Måneskin,Top Songs of 2021: Australia,Måneskin,0.714,0.8,11.0,-4.808,0.0,0.0504,0.127,0.0,0.359,0.589,134.002,2021,Australia
+2662,Lovefool,twocolors,Top Songs of 2021: Australia,twocolors,0.677,0.766,6.0,-6.896,1.0,0.0568,0.0219,6.81e-06,0.129,0.198,123.062,2021,Australia
+2663,Bed,"Joel Corry, RAYE, Pierre David Guetta",Top Songs of 2021: Australia,,,,,,,,,,,,,2021,Australia
+2664,Love Not War (The Tampa Beat),"Jason Derulo, Nuka",Top Songs of 2021: Australia,"Jason Derulo, Nuka",0.738,0.85,8.0,-3.049,1.0,0.0642,0.105,0.0,0.23,0.865,98.013,2021,Australia
+2665,Go Crazy,"Chris Brown, Young Thug",Top Songs of 2021: Australia,"Chris Brown, Young Thug",0.755,0.578,0.0,-8.932,0.0,0.145,0.316,0.0,0.25,0.581,94.148,2021,Australia
+2671,Lasting Lover,"Sigala, James Arthur",Top Songs of 2021: Australia,"Sigala, James Arthur",0.676,0.786,1.0,-4.529,1.0,0.0478,0.197,0.0,0.0943,0.483,125.983,2021,Australia
+2672,Thinking Out Loud,Ed Sheeran,Top Songs of 2021: Australia,Ed Sheeran,0.781,0.445,2.0,-6.061,1.0,0.0296,0.474,0.0,0.184,0.591,78.997,2021,Australia
+2676,RAPSTAR,Polo G,Top Songs of 2021: Australia,Polo G,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,2021,Australia
+2679,Prisoner (feat. Dua Lipa),Miley Cyrus,Top Songs of 2021: Australia,Miley Cyrus,0.781,0.67,3.0,-3.912,0.0,0.0452,0.0103,0.0,0.0761,0.595,127.99,2021,Australia
+2680,Feel It Still,Portugal. The Man,Top Songs of 2021: Australia,Portugal. The Man,0.801,0.795,1.0,-5.115,0.0,0.0504,0.0417,0.000113,0.0717,0.754,79.028,2021,Australia
+2682,Body (feat. brando),Loud Luxury,Top Songs of 2021: Australia,Loud Luxury,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,2021,Australia
+2686,Adore You,Harry Styles,Top Songs of 2021: Australia,Harry Styles,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,2021,Australia
+2691,Streets,Doja Cat,Top Songs of 2021: Australia,Doja Cat,0.749,0.463,11.0,-8.433,1.0,0.0842,0.21,0.0382,0.338,0.189,90.035,2021,Australia
+2694,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: Australia,"Justin Bieber, benny blanco",0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,2021,Australia
+2696,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: Australia,"Diplo, Jonas Brothers",0.739,0.717,1.0,-5.123,1.0,0.0565,0.0611,0.0,0.206,0.529,98.047,2021,Australia
+2698,Shotgun,George Ezra,Top Songs of 2021: Australia,George Ezra,0.673,0.735,5.0,-4.733,1.0,0.0457,0.286,0.0,0.242,0.754,115.744,2021,Australia
+2704,Africa,Toto,Top Songs of 2021: Australia,Toto,0.671,0.373,9.0,-18.064,1.0,0.0323,0.257,8.01e-05,0.0481,0.732,92.718,2021,Australia
+2707,New Rules,Dua Lipa,Top Songs of 2021: Australia,,,,,,,,,,,,,2021,Australia
+2708,Everybody Rise,Amy Shark,Top Songs of 2021: Australia,Amy Shark,0.702,0.676,0.0,-6.679,1.0,0.0526,0.0335,0.0,0.102,0.65,103.057,2021,Australia
+2709,Wonder,Shawn Mendes,Top Songs of 2021: Australia,Shawn Mendes,0.333,0.637,1.0,-4.904,0.0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,2021,Australia
+2710,Counting Stars,OneRepublic,Top Songs of 2021: Australia,OneRepublic,0.664,0.705,1.0,-4.972,0.0,0.0382,0.0654,0.0,0.115,0.477,122.017,2021,Australia
+2712,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2022: Australia,"The Kid LAROI, Justin Bieber",0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,2022,Australia
+2718,Bad Habits,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.807,0.893,11.0,-3.745,0.0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,2022,Australia
+2722,Heat Waves,Glass Animals,Top Songs of 2022: Australia,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,2022,Australia
+2728,Shivers,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.788,0.859,2.0,-2.724,1.0,0.0856,0.281,0.0,0.0424,0.822,141.02,2022,Australia
+2730,As It Was,Harry Styles,Top Songs of 2022: Australia,Harry Styles,0.52,0.731,6.0,-5.338,0.0,0.0557,0.342,0.00101,0.311,0.662,173.93,2022,Australia
+2733,Easy On Me,Adele,Top Songs of 2022: Australia,Adele,0.604,0.366,5.0,-7.519,1.0,0.0282,0.578,0.0,0.133,0.13,141.981,2022,Australia
+2736,Where Are You Now,"Lost Frequencies, Calum Scott",Top Songs of 2022: Australia,"Lost Frequencies, Calum Scott",0.671,0.636,6.0,-8.117,0.0,0.103,0.515,0.000411,0.172,0.262,120.966,2022,Australia
+2738,abcdefu,GAYLE,Top Songs of 2022: Australia,GAYLE,0.695,0.54,4.0,-5.692,1.0,0.0493,0.299,0.0,0.367,0.415,121.932,2022,Australia
+2741,Blinding Lights,The Weeknd,Top Songs of 2022: Australia,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,2022,Australia
+2750,First Class,Jack Harlow,Top Songs of 2022: Australia,Jack Harlow,0.902,0.582,5.0,-5.902,0.0,0.109,0.111,3.18e-06,0.111,0.332,107.005,2022,Australia
+2753,INDUSTRY BABY,"Lil Nas X, Jack Harlow",Top Songs of 2022: Australia,"Lil Nas X, Jack Harlow",0.736,0.704,3.0,-7.409,0.0,0.0615,0.0203,0.0,0.0501,0.894,149.995,2022,Australia
+2757,Riptide,Vance Joy,Top Songs of 2022: Australia,Vance Joy,0.484,0.731,1.0,-6.694,1.0,0.0379,0.431,0.0,0.151,0.51,101.654,2022,Australia
+2762,THATS WHAT I WANT,Lil Nas X,Top Songs of 2022: Australia,Lil Nas X,0.737,0.846,1.0,-4.51,0.0,0.22,0.00614,0.0,0.0486,0.546,87.981,2022,Australia
+2764,Missing Piece,Vance Joy,Top Songs of 2022: Australia,Vance Joy,0.628,0.877,0.0,-4.205,1.0,0.046,0.0155,5.97e-06,0.113,0.721,101.992,2022,Australia
+2765,About Damn Time,Lizzo,Top Songs of 2022: Australia,Lizzo,0.836,0.743,10.0,-6.305,0.0,0.0656,0.0995,0.0,0.335,0.722,108.966,2022,Australia
+2767,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2022: Australia,Doja Cat,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,2022,Australia
+2773,Ghost,Justin Bieber,Top Songs of 2022: Australia,Justin Bieber,0.601,0.741,2.0,-5.569,1.0,0.0478,0.185,2.91e-05,0.415,0.441,153.96,2022,Australia
+2776,Dreams,Fleetwood Mac,Top Songs of 2022: Australia,Fleetwood Mac,0.828,0.492,0.0,-9.744,1.0,0.0276,0.0644,0.00428,0.128,0.789,120.151,2022,Australia
+2782,Watermelon Sugar,Harry Styles,Top Songs of 2022: Australia,Harry Styles,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,2022,Australia
+2789,Go Your Own Way,Fleetwood Mac,Top Songs of 2022: Australia,Fleetwood Mac,0.583,0.947,5.0,-5.12,1.0,0.0378,0.0185,0.00109,0.0679,0.803,135.448,2022,Australia
+2791,Overpass Graffiti,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.52,0.849,9.0,-3.794,0.0,0.186,0.00253,0.0,0.119,0.774,175.908,2022,Australia
+2793,Thinking Out Loud,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.781,0.445,2.0,-6.061,1.0,0.0296,0.474,0.0,0.184,0.591,78.997,2022,Australia
+2797,Thousand Miles,The Kid LAROI,Top Songs of 2022: Australia,The Kid LAROI,0.376,0.657,7.0,-4.658,1.0,0.0768,0.0858,0.0,0.0884,0.203,80.565,2022,Australia
+2798,The Motto,"Tiësto, Ava Max",Top Songs of 2022: Australia,"Tiësto, Ava Max",0.754,0.763,7.0,-4.627,0.0,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,2022,Australia
+2800,Mr. Brightside,The Killers,Top Songs of 2022: Australia,The Killers,0.352,0.911,1.0,-5.23,1.0,0.0747,0.00121,0.0,0.0995,0.236,148.033,2022,Australia
+2803,I Ain't Worried,OneRepublic,Top Songs of 2022: Australia,OneRepublic,0.704,0.797,0.0,-5.927,1.0,0.0475,0.0826,0.000745,0.0546,0.825,139.994,2022,Australia
+2805,Shape of You,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.825,0.652,1.0,-3.183,0.0,0.0802,0.581,0.0,0.0931,0.931,95.977,2022,Australia
+2813,Do It To It (feat. Cherish),Acraze,Top Songs of 2022: Australia,Acraze,0.636,0.892,2.0,-5.573,1.0,0.0386,0.000422,0.0954,0.156,0.456,125.003,2022,Australia
+2815,Running Up That Hill (A Deal with God),Kate Bush,Top Songs of 2022: Australia,Kate Bush,0.625,0.533,10.0,-11.903,0.0,0.0596,0.659,0.00266,0.0546,0.139,108.296,2022,Australia
+2818,Youngblood,5 Seconds of Summer,Top Songs of 2022: Australia,5 Seconds of Summer,0.596,0.854,7.0,-5.114,0.0,0.463,0.0169,0.0,0.124,0.152,120.274,2022,Australia
+2825,she's all i wanna be,Tate McRae,Top Songs of 2022: Australia,Tate McRae,0.614,0.644,2.0,-5.372,0.0,0.0426,0.0134,7.07e-06,0.117,0.651,160.036,2022,Australia
+2827,New Rules,Dua Lipa,Top Songs of 2022: Australia,,,,,,,,,,,,,2022,Australia
+2828,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2022: Australia,Dua Lipa,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,2022,Australia
+2833,Someone You Loved,Lewis Capaldi,Top Songs of 2022: Australia,Lewis Capaldi,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,2022,Australia
+2843,Woman,Doja Cat,Top Songs of 2022: Australia,Doja Cat,0.824,0.764,5.0,-4.175,0.0,0.0854,0.0888,0.00294,0.117,0.881,107.998,2022,Australia
+2845,Don't Start Now,Dua Lipa,Top Songs of 2022: Australia,,,,,,,,,,,,,2022,Australia
+2846,Better Days,"NEIKED, Mae Muller, Polo G",Top Songs of 2022: Australia,"NEIKED, Mae Muller, Polo G",0.717,0.671,0.0,-5.077,0.0,0.0337,0.0018,2.54e-06,0.0921,0.699,110.054,2022,Australia
+2848,Oh My God,Adele,Top Songs of 2022: Australia,Adele,0.534,0.725,1.0,-3.906,1.0,0.046,0.091,0.0,0.0264,0.55,88.098,2022,Australia
+2850,Perfect,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.599,0.448,8.0,-6.312,1.0,0.0232,0.163,0.0,0.106,0.168,95.05,2022,Australia
+2853,Looks Like Me,Dean Lewis,Top Songs of 2022: Australia,Dean Lewis,0.769,0.724,11.0,-5.12,1.0,0.0864,0.548,0.0,0.161,0.464,110.659,2022,Australia
+2854,Astronaut in the Ocean,Masked Wolf,Top Songs of 2022: Australia,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,2022,Australia
+2856,Lost,Frank Ocean,Top Songs of 2022: Australia,Frank Ocean,0.913,0.603,8.0,-4.892,1.0,0.226,0.0272,0.000503,0.167,0.497,123.061,2022,Australia
+2859,Under the Influence,Chris Brown,Top Songs of 2022: Australia,Chris Brown,0.733,0.69,9.0,-5.529,0.0,0.0427,0.0635,1.18e-06,0.105,0.31,116.992,2022,Australia
+2862,Acapulco,Jason Derulo,Top Songs of 2022: Australia,Jason Derulo,0.774,0.792,10.0,-4.021,1.0,0.0523,0.051,0.0,0.155,0.507,122.062,2022,Australia
+2863,Happier Than Ever,Billie Eilish,Top Songs of 2022: Australia,Billie Eilish,0.332,0.225,0.0,-8.697,1.0,0.0348,0.767,0.00349,0.128,0.297,81.055,2022,Australia
+2865,Beggin',Måneskin,Top Songs of 2022: Australia,Måneskin,0.714,0.8,11.0,-4.808,0.0,0.0504,0.127,0.0,0.359,0.589,134.002,2022,Australia
+2867,One Right Now,"Post Malone, The Weeknd",Top Songs of 2022: Australia,"Post Malone, The Weeknd",0.687,0.781,1.0,-4.806,1.0,0.053,0.0361,0.0,0.0755,0.688,97.014,2022,Australia
+2869,Walking On a Dream,Empire of the Sun,Top Songs of 2022: Australia,Empire of the Sun,0.871,0.701,5.0,-5.594,0.0,0.0458,0.257,7.52e-06,0.0589,0.716,126.975,2022,Australia
+2870,When It Rains It Pours,Luke Combs,Top Songs of 2022: Australia,Luke Combs,0.551,0.801,6.0,-5.069,1.0,0.0303,0.013,6.03e-06,0.265,0.625,128.027,2022,Australia
+2871,The Business,Tiësto,Top Songs of 2022: Australia,Tiësto,0.798,0.62,8.0,-7.079,0.0,0.232,0.414,0.0192,0.112,0.235,120.031,2022,Australia
+2874,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2022: Australia,"benny blanco, Halsey, Khalid",0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,2022,Australia
+2883,The Nosebleed Section,Hilltop Hoods,Top Songs of 2022: Australia,Hilltop Hoods,0.845,0.828,1.0,-5.447,1.0,0.164,0.513,1.35e-06,0.0906,0.909,97.45,2022,Australia
+2885,WITHOUT YOU,The Kid LAROI,Top Songs of 2022: Australia,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,2022,Australia
+2889,Fancy Like,Walker Hayes,Top Songs of 2022: Australia,Walker Hayes,0.647,0.765,1.0,-6.459,1.0,0.06,0.111,0.0,0.315,0.855,79.994,2022,Australia
+2890,Believer,Imagine Dragons,Top Songs of 2022: Australia,Imagine Dragons,0.776,0.78,10.0,-4.374,0.0,0.128,0.0622,0.0,0.081,0.666,124.949,2022,Australia
+2892,Say Nothing (feat. MAY-A),Flume,Top Songs of 2022: Australia,Flume,0.477,0.824,2.0,-1.953,0.0,0.0623,0.0966,5.55e-05,0.12,0.3,129.942,2022,Australia
+2893,MONTERO (Call Me By Your Name),Lil Nas X,Top Songs of 2022: Australia,Lil Nas X,0.593,0.503,8.0,-6.725,0.0,0.22,0.293,0.0,0.405,0.71,178.781,2022,Australia
+2898,Cover Me In Sunshine,"P!nk, Willow Sage Hart",Top Songs of 2022: Australia,"P!nk, Willow Sage Hart",0.476,0.594,5.0,-6.879,1.0,0.135,0.0599,0.0,0.0785,0.314,159.702,2022,Australia
+2902,Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,Top Songs of 2022: Australia,Doja Cat,0.801,0.601,8.0,-7.574,0.0,0.255,0.0777,3.23e-05,0.145,0.74,159.969,2022,Australia
+2904,Need To Know,Doja Cat,Top Songs of 2022: Australia,Doja Cat,0.664,0.609,1.0,-6.509,1.0,0.0707,0.304,0.0,0.0926,0.194,130.041,2022,Australia
+2908,Counting Stars,OneRepublic,Top Songs of 2022: Australia,OneRepublic,0.664,0.705,1.0,-4.972,0.0,0.0382,0.0654,0.0,0.115,0.477,122.017,2022,Australia
+2910,Circles,Post Malone,Top Songs of 2022: Australia,Post Malone,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,2022,Australia
+2918,Sunroof,"Nicky Youre, Dazy",Top Songs of 2022: Australia,"Nicky Youre, Dazy",0.768,0.714,10.0,-5.11,1.0,0.0401,0.352,0.0,0.15,0.842,131.443,2022,Australia
+2919,Be Alright,Dean Lewis,Top Songs of 2022: Australia,Dean Lewis,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,2022,Australia
+2924,Wake Me Up,Avicii,Top Songs of 2022: Australia,Avicii,0.532,0.783,2.0,-5.697,1.0,0.0523,0.0038,0.0012,0.161,0.643,124.08,2022,Australia
+2925,Beautiful Crazy,Luke Combs,Top Songs of 2022: Australia,Luke Combs,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,2022,Australia
+2929,On My Knees,RÜFÜS DU SOL,Top Songs of 2022: Australia,RÜFÜS DU SOL,0.683,0.571,1.0,-7.721,1.0,0.0286,0.0335,0.0616,0.0957,0.29,120.044,2022,Australia
+2930,Without Me,Eminem,Top Songs of 2022: Australia,Halsey,0.752,0.488,6.0,-7.05,1.0,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,2022,Australia
+2933,Without Me,Eminem,Top Songs of 2022: Australia,Eminem,0.908,0.669,7.0,-2.827,1.0,0.0738,0.00286,0.0,0.237,0.662,112.238,2022,Australia
+2934,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2022: Australia,"Lady Gaga, Bradley Cooper",0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,2022,Australia
+2943,Take My Breath,The Weeknd,Top Songs of 2022: Australia,The Weeknd,0.698,0.769,8.0,-7.154,1.0,0.0368,0.0128,0.00166,0.238,0.354,121.02,2022,Australia
+2944,Surface Pressure,Jessica Darrow,Top Songs of 2022: Australia,Jessica Darrow,0.65,0.584,2.0,-8.286,1.0,0.307,0.0174,1.54e-06,0.042,0.37,180.088,2022,Australia
+2945,The A Team,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.642,0.289,9.0,-9.918,1.0,0.0367,0.669,0.0,0.18,0.407,84.996,2022,Australia
+2946,Fly Away,Tones And I,Top Songs of 2022: Australia,Tones And I,0.806,0.513,4.0,-6.208,1.0,0.0685,0.217,0.0,0.217,0.503,124.988,2022,Australia
+2949,Rolling in the Deep,Adele,Top Songs of 2022: Australia,Adele,0.73,0.769,8.0,-5.114,1.0,0.0298,0.138,0.0,0.0473,0.507,104.948,2022,Australia
+2951,Leave Before You Love Me,"Marshmello, Jonas Brothers",Top Songs of 2022: Australia,"Marshmello, Jonas Brothers",0.721,0.738,7.0,-4.77,1.0,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,2022,Australia
+2953,Hurtless,Dean Lewis,Top Songs of 2022: Australia,Dean Lewis,0.37,0.559,0.0,-5.589,1.0,0.0526,0.186,0.0,0.121,0.316,162.816,2022,Australia
+2954,Moth To A Flame,"Swedish House Mafia, The Weeknd",Top Songs of 2022: Australia,"Swedish House Mafia, The Weeknd",0.553,0.659,8.0,-7.295,1.0,0.0391,0.0027,0.0,0.105,0.105,120.146,2022,Australia
+2955,Thunder,Imagine Dragons,Top Songs of 2022: Australia,Imagine Dragons,0.605,0.822,0.0,-4.833,1.0,0.0438,0.00671,0.134,0.147,0.288,167.997,2022,Australia
+2960,Late Night Talking,Harry Styles,Top Songs of 2022: Australia,Harry Styles,0.714,0.728,10.0,-4.595,1.0,0.0468,0.298,0.0,0.106,0.901,114.996,2022,Australia
+2962,Memories,Maroon 5,Top Songs of 2022: Australia,Maroon 5,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,2022,Australia
+2969,Sex On Fire,Kings of Leon,Top Songs of 2022: Australia,Kings of Leon,0.542,0.905,9.0,-5.653,1.0,0.054,0.00172,0.0104,0.136,0.374,153.398,2022,Australia
+2971,Castle on the Hill,Ed Sheeran,Top Songs of 2022: Australia,Ed Sheeran,0.461,0.834,2.0,-4.868,1.0,0.0989,0.0232,1.14e-05,0.14,0.471,135.007,2022,Australia
