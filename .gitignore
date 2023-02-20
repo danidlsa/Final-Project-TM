@@ -2,3 +2,5 @@
 /__pycache__
 /geckodriver.log
 /Scraping spotify.ipynb
+.Rproj.user
+Final Project.Rproj
