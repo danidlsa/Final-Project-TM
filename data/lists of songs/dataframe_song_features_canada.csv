@@ -1,0 +1,189 @@
+,songs,artist,title,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,popularity
+0,Wow.,Post Malone,Top Songs of 2019: Canada,0.829,0.539,11.0,-7.359,0.0,0.208,0.136,1.78e-06,0.103,0.388,99.96,149547.0,78.0
+1,7 rings,Ariana Grande,Top Songs of 2019: Canada,0.778,0.317,1.0,-10.732,0.0,0.334,0.592,0.0,0.0881,0.327,140.048,178627.0,82.0
+2,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2019: Canada,0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,215733.0,81.0
+3,Without Me,Halsey,Top Songs of 2019: Canada,0.752,0.488,6.0,-7.05,1.0,0.0705,0.297,9.11e-06,0.0936,0.533,136.041,201661.0,78.0
+4,SICKO MODE,Travis Scott,Top Songs of 2019: Canada,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,312820.0,79.0
+6,Eastside,"benny blanco, Halsey, Khalid",Top Songs of 2019: Canada,0.632,0.686,6.0,-7.665,0.0,0.243,0.549,0.0,0.2,0.329,89.949,170770.0,76.0
+7,Drip Too Hard,"Lil Baby, Gunna",Top Songs of 2019: Canada,0.897,0.662,1.0,-6.903,0.0,0.292,0.0852,0.0,0.534,0.389,112.511,145543.0,81.0
+8,Someone You Loved,Lewis Capaldi,Top Songs of 2019: Canada,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,182161.0,85.0
+10,Look Back at It,A Boogie wit da Hoodie,Top Songs of 2019: Canada,0.791,0.587,3.0,-5.075,0.0,0.0413,0.407,0.0,0.148,0.536,96.057,179449.0,71.0
+11,MIDDLE CHILD,J. Cole,Top Songs of 2019: Canada,0.837,0.364,8.0,-11.713,1.0,0.276,0.149,0.0,0.271,0.463,123.984,213594.0,79.0
+12,Better,Khalid,Top Songs of 2019: Canada,0.596,0.552,0.0,-10.278,0.0,0.097,0.0765,0.334,0.104,0.112,97.949,229320.0,75.0
+13,Truth Hurts,Lizzo,Top Songs of 2019: Canada,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,173325.0,72.0
+14,Pure Water,"Mustard, Migos",Top Songs of 2019: Canada,0.682,0.559,0.0,-5.545,1.0,0.127,0.174,0.0,0.344,0.137,202.015,192471.0,73.0
+15,"break up with your girlfriend, i'm bored",Ariana Grande,Top Songs of 2019: Canada,0.726,0.554,5.0,-5.29,0.0,0.0917,0.0421,0.0,0.106,0.335,169.999,190440.0,74.0
+16,Murder on My Mind,YNW Melly,Top Songs of 2019: Canada,0.759,0.73,0.0,-7.985,0.0,0.0516,0.145,3.06e-06,0.11,0.74,115.007,268434.0,75.0
+17,No Guidance (feat. Drake),Chris Brown,Top Songs of 2019: Canada,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,260640.0,76.0
+18,Body (feat. brando),Loud Luxury,Top Songs of 2019: Canada,0.751,0.763,1.0,-4.393,1.0,0.0397,0.051,2.23e-05,0.0593,0.593,121.99,162947.0,16.0
+19,Taste (feat. Offset),Tyga,Top Songs of 2019: Canada,0.884,0.559,0.0,-7.442,1.0,0.12,0.0236,0.0,0.101,0.342,97.994,232959.0,69.0
+20,Nonstop,Drake,Top Songs of 2019: Canada,0.912,0.412,7.0,-8.074,1.0,0.123,0.0165,0.0126,0.104,0.423,154.983,238614.0,75.0
+21,Be Alright,Dean Lewis,Top Songs of 2019: Canada,0.553,0.586,11.0,-6.319,1.0,0.0362,0.697,0.0,0.0813,0.443,126.684,196373.0,76.0
+22,I Like It,"Cardi B, Bad Bunny, J Balvin",Top Songs of 2019: Canada,0.816,0.726,5.0,-3.998,0.0,0.129,0.099,0.0,0.372,0.65,136.048,253390.0,75.0
+23,One Thing Right,"Marshmello, Kane Brown",Top Songs of 2019: Canada,0.659,0.625,4.0,-2.253,1.0,0.045,0.0644,0.0,0.582,0.442,88.042,181824.0,69.0
+24,Saturday Nights,Khalid,Top Songs of 2019: Canada,0.551,0.44,10.0,-8.559,1.0,0.0985,0.606,3.02e-05,0.11,0.341,167.923,210667.0,67.0
+25,Tequila,Dan + Shay,Top Songs of 2019: Canada,0.489,0.581,11.0,-5.731,1.0,0.0281,0.0312,0.0,0.132,0.494,86.016,196747.0,67.0
+26,If I Can't Have You,Shawn Mendes,Top Songs of 2019: Canada,0.69,0.809,2.0,-4.198,1.0,0.0603,0.524,0.0,0.147,0.864,123.912,190800.0,0.0
+27,Money,Cardi B,Top Songs of 2019: Canada,0.95,0.59,8.0,-6.508,0.0,0.29,0.00534,0.0,0.11,0.219,130.003,183527.0,69.0
+28,Whiskey Glasses,Morgan Wallen,Top Songs of 2019: Canada,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,234347.0,77.0
+29,Beautiful Crazy,Luke Combs,Top Songs of 2019: Canada,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,193200.0,77.0
+32,Leave Me Alone,Flipp Dinero,Top Songs of 2019: Canada,0.792,0.743,7.0,-2.806,1.0,0.0851,0.107,0.0,0.183,0.742,150.024,195637.0,67.0
+33,SOS (feat. Aloe Blacc),Avicii,Top Songs of 2019: Canada,0.802,0.645,5.0,-6.181,0.0,0.0715,0.272,0.0,0.119,0.376,100.001,157202.0,69.0
+34,Knockin' Boots,Luke Bryan,Top Songs of 2019: Canada,0.728,0.682,2.0,-3.749,1.0,0.218,0.127,0.0,0.337,0.643,131.901,200067.0,62.0
+35,Suge,DaBaby,Top Songs of 2019: Canada,0.876,0.662,2.0,-6.482,0.0,0.426,0.0608,0.0,0.127,0.844,75.445,163320.0,68.0
+37,Thotiana,Blueface,Top Songs of 2019: Canada,0.906,0.382,10.0,-12.89,0.0,0.269,0.18,0.0,0.113,0.391,104.025,129264.0,63.0
+38,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2019: Canada,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,197867.0,71.0
+39,lovely,"Billie Eilish, Khalid",Top Songs of 2019: Canada,0.351,0.296,4.0,-10.109,0.0,0.0333,0.934,0.0,0.095,0.12,115.284,200186.0,85.0
+40,Pure Cocaine,Lil Baby,Top Songs of 2019: Canada,0.964,0.487,10.0,-6.071,0.0,0.421,0.00127,6.57e-06,0.115,0.107,127.05,154024.0,79.0
+41,Noticed,Lil Mosey,Top Songs of 2019: Canada,0.699,0.558,11.0,-7.622,1.0,0.0603,0.462,0.0,0.116,0.493,79.992,165000.0,71.0
+42,rockstar (feat. 21 Savage),Post Malone,Top Songs of 2019: Canada,0.585,0.52,5.0,-6.136,0.0,0.0712,0.124,7.01e-05,0.131,0.129,159.801,218147.0,81.0
+43,You Need To Calm Down,Taylor Swift,Top Songs of 2019: Canada,0.771,0.671,2.0,-5.617,1.0,0.0553,0.00929,0.0,0.0637,0.714,85.026,171360.0,73.0
+44,Beer Never Broke My Heart,Luke Combs,Top Songs of 2019: Canada,0.538,0.863,1.0,-4.483,1.0,0.0481,0.0139,0.0,0.0874,0.637,77.001,186733.0,74.0
+45,Tap (feat. Meek Mill),NAV,Top Songs of 2019: Canada,0.901,0.676,2.0,-7.033,1.0,0.251,0.0646,0.0,0.0863,0.452,85.018,148278.0,61.0
+46,Lalala,"Y2K, bbno$",Top Songs of 2019: Canada,0.843,0.39,2.0,-7.899,1.0,0.0846,0.178,0.0,0.137,0.495,129.972,160627.0,71.0
+47,Armed and Dangerous,Juice WRLD,Top Songs of 2019: Canada,0.736,0.67,10.0,-6.702,1.0,0.311,0.186,0.0,0.114,0.845,130.032,169999.0,75.0
+48,Speechless,Dan + Shay,Top Songs of 2019: Canada,0.616,0.438,1.0,-5.968,1.0,0.0298,0.356,0.0,0.24,0.386,135.929,213387.0,68.0
+49,Faucet Failure,Ski Mask the Slump God,Top Songs of 2019: Canada,0.935,0.552,10.0,-9.373,0.0,0.335,0.111,0.0,0.0952,0.615,99.993,145627.0,71.0
+50,The Git Up,Blanco Brown,Top Songs of 2019: Canada,0.847,0.678,9.0,-8.635,1.0,0.109,0.0669,0.0,0.274,0.811,97.984,200594.0,65.0
+51,Circles,Post Malone,Top Songs of 2019: Canada,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280.0,83.0
+52,Love No More,"Loud Luxury, anders",Top Songs of 2019: Canada,0.766,0.674,0.0,-6.245,1.0,0.0538,0.0217,5.87e-05,0.258,0.214,121.012,168636.0,57.0
+53,Look What God Gave Her,Thomas Rhett,Top Songs of 2019: Canada,0.739,0.85,2.0,-3.966,1.0,0.0308,0.0272,0.0,0.181,0.883,113.0,168960.0,67.0
+54,Panini,Lil Nas X,Top Songs of 2019: Canada,0.703,0.594,5.0,-6.146,0.0,0.0752,0.342,0.0,0.123,0.475,153.848,114893.0,67.0
+55,Freaky,Tory Lanez,Top Songs of 2019: Canada,0.966,0.563,8.0,-5.764,1.0,0.0618,0.00202,0.0,0.105,0.363,104.991,173926.0,52.0
+56,Nice For What,Drake,Top Songs of 2019: Canada,0.585,0.909,8.0,-6.474,1.0,0.0707,0.0891,9.7e-05,0.119,0.758,93.372,210747.0,75.0
+57,Robbery,Juice WRLD,Top Songs of 2019: Canada,0.623,0.692,2.0,-5.122,1.0,0.0504,0.328,0.0,0.153,0.566,79.899,240051.0,78.0
+58,Dance Monkey,Tones And I,Top Songs of 2020: Canada,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,209438.0,74.0
+59,Circles,Post Malone,Top Songs of 2020: Canada,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280.0,83.0
+60,ROXANNE,Arizona Zervas,Top Songs of 2020: Canada,0.621,0.601,6.0,-5.616,0.0,0.148,0.0522,0.0,0.46,0.457,116.735,163636.0,74.0
+61,Someone You Loved,Lewis Capaldi,Top Songs of 2020: Canada,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,182161.0,85.0
+62,Watermelon Sugar,Harry Styles,Top Songs of 2020: Canada,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,174000.0,85.0
+63,Ride It,Regard,Top Songs of 2020: Canada,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,157606.0,76.0
+64,HIGHEST IN THE ROOM,Travis Scott,Top Songs of 2020: Canada,0.598,0.427,7.0,-8.764,0.0,0.0317,0.0546,5.83e-06,0.21,0.0605,76.469,175721.0,79.0
+65,Before You Go,Lewis Capaldi,Top Songs of 2020: Canada,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,215107.0,81.0
+66,Adore You,Harry Styles,Top Songs of 2020: Canada,0.676,0.771,8.0,-3.675,1.0,0.0483,0.0237,7e-06,0.102,0.569,99.048,207133.0,82.0
+67,everything i wanted,Billie Eilish,Top Songs of 2020: Canada,0.704,0.225,6.0,-14.454,0.0,0.0994,0.902,0.657,0.106,0.243,120.006,245426.0,81.0
+68,Falling,Trevor Daniel,Top Songs of 2020: Canada,0.785,0.431,10.0,-8.756,0.0,0.0364,0.123,0.0,0.0887,0.236,127.085,159382.0,75.0
+69,If the World Was Ending (feat. Julia Michaels),JP Saxe,Top Songs of 2020: Canada,0.464,0.473,1.0,-10.086,1.0,0.129,0.866,0.0,0.109,0.604,75.801,208687.0,74.0
+70,Memories,Maroon 5,Top Songs of 2020: Canada,0.775,0.327,11.0,-7.241,1.0,0.0557,0.841,0.0,0.0821,0.595,91.05,189486.0,82.0
+71,Toosie Slide,Drake,Top Songs of 2020: Canada,0.834,0.454,1.0,-9.75,0.0,0.201,0.321,6.15e-06,0.114,0.837,81.618,247059.0,70.0
+72,Bandit,"Juice WRLD, YoungBoy Never Broke Again",Top Songs of 2020: Canada,0.474,0.631,5.0,-5.884,0.0,0.343,0.0687,0.0,0.132,0.425,180.051,189323.0,71.0
+73,"10,000 Hours","Dan + Shay, Justin Bieber",Top Songs of 2020: Canada,0.654,0.63,10.0,-4.644,1.0,0.0259,0.153,0.0,0.111,0.43,89.991,167693.0,74.0
+74,Heartless (feat. Morgan Wallen),Diplo,Top Songs of 2020: Canada,0.765,0.556,11.0,-6.417,1.0,0.0512,0.275,0.0,0.0824,0.274,111.033,169227.0,74.0
+75,Lose You to Love Me,Selena Gomez,Top Songs of 2020: Canada,0.488,0.343,4.0,-8.985,1.0,0.0436,0.556,0.0,0.21,0.0978,102.819,206459.0,78.0
+76,Sunday Best,Surfaces,Top Songs of 2020: Canada,0.878,0.525,5.0,-6.832,1.0,0.0578,0.183,0.0,0.0714,0.694,112.022,158571.0,72.0
+77,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2020: Canada,0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,171375.0,72.0
+78,You should be sad,Halsey,Top Songs of 2020: Canada,0.591,0.585,2.0,-6.35,1.0,0.0277,0.143,0.0,0.109,0.324,110.94,205473.0,69.0
+79,One Thing Right,"Marshmello, Kane Brown",Top Songs of 2020: Canada,0.659,0.625,4.0,-2.253,1.0,0.045,0.0644,0.0,0.582,0.442,88.042,181824.0,69.0
+80,Blueberry Faygo,Lil Mosey,Top Songs of 2020: Canada,0.774,0.554,0.0,-7.909,1.0,0.0383,0.207,0.0,0.132,0.349,99.034,162547.0,72.0
+81,hot girl bummer,blackbear,Top Songs of 2020: Canada,0.782,0.559,6.0,-7.106,0.0,0.0767,0.125,0.0,0.385,0.685,129.992,188344.0,75.0
+82,Ballin’,"Mustard, Roddy Ricch",Top Songs of 2020: Canada,0.809,0.545,7.0,-6.678,1.0,0.0735,0.392,0.0,0.151,0.244,97.008,180435.0,76.0
+83,bad guy,Billie Eilish,Top Songs of 2020: Canada,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,194088.0,80.0
+84,I Hope,Gabby Barrett,Top Songs of 2020: Canada,0.466,0.536,6.0,-6.227,1.0,0.0429,0.0951,0.0,0.114,0.377,75.998,210773.0,70.0
+85,Breaking Me,"Topic, A7S",Top Songs of 2020: Canada,0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,166794.0,73.0
+88,Señorita,"Shawn Mendes, Camila Cabello",Top Songs of 2020: Canada,0.759,0.548,9.0,-6.049,0.0,0.029,0.0392,0.0,0.0828,0.749,116.967,190800.0,78.0
+89,July,Noah Cyrus,Top Songs of 2020: Canada,0.708,0.186,9.0,-8.953,0.0,0.042,0.868,0.0,0.0779,0.322,72.541,156106.0,77.0
+90,Woah,Lil Baby,Top Songs of 2020: Canada,0.882,0.602,11.0,-5.554,1.0,0.245,0.0177,0.0,0.178,0.43,142.959,183011.0,64.0
+91,Whiskey Glasses,Morgan Wallen,Top Songs of 2020: Canada,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,234347.0,77.0
+92,Beer Never Broke My Heart,Luke Combs,Top Songs of 2020: Canada,0.538,0.863,1.0,-4.483,1.0,0.0481,0.0139,0.0,0.0874,0.637,77.001,186733.0,74.0
+93,South of the Border (feat. Camila Cabello & Cardi B),Ed Sheeran,Top Songs of 2020: Canada,0.857,0.621,9.0,-6.376,0.0,0.0825,0.148,0.0,0.0865,0.668,97.989,204467.0,72.0
+94,Wow.,Post Malone,Top Songs of 2020: Canada,0.829,0.539,11.0,-7.359,0.0,0.208,0.136,1.78e-06,0.103,0.388,99.96,149547.0,78.0
+95,Party Girl,StaySolidRocky,Top Songs of 2020: Canada,0.728,0.431,6.0,-9.966,0.0,0.0622,0.749,0.0,0.0996,0.629,130.022,147800.0,68.0
+96,OUT WEST (feat. Young Thug),"JACKBOYS, Travis Scott",Top Songs of 2020: Canada,0.802,0.591,8.0,-4.895,1.0,0.225,0.0104,0.0,0.196,0.309,139.864,157712.0,74.0
+97,Shallow,"Lady Gaga, Bradley Cooper",Top Songs of 2020: Canada,0.572,0.385,7.0,-6.362,1.0,0.0308,0.371,0.0,0.231,0.323,95.799,215733.0,81.0
+98,SICKO MODE,Travis Scott,Top Songs of 2020: Canada,0.834,0.73,8.0,-3.714,1.0,0.222,0.00513,0.0,0.124,0.446,155.008,312820.0,79.0
+99,Truth Hurts,Lizzo,Top Songs of 2020: Canada,0.715,0.624,4.0,-3.046,0.0,0.114,0.11,0.0,0.123,0.412,158.087,173325.0,72.0
+100,Kissing Other People,Lennon Stella,Top Songs of 2020: Canada,0.71,0.662,2.0,-5.941,1.0,0.0717,0.548,2.23e-06,0.119,0.3,94.007,161760.0,55.0
+101,Lalala,"Y2K, bbno$",Top Songs of 2020: Canada,0.843,0.39,2.0,-7.899,1.0,0.0846,0.178,0.0,0.137,0.495,129.972,160627.0,71.0
+102,Chasin' You,Morgan Wallen,Top Songs of 2020: Canada,0.631,0.591,7.0,-5.785,1.0,0.0277,0.657,0.0,0.11,0.489,97.074,205453.0,77.0
+103,THE SCOTTS,"THE SCOTTS, Travis Scott, Kid Cudi",Top Songs of 2020: Canada,0.716,0.537,0.0,-7.648,0.0,0.0514,0.233,0.0,0.157,0.28,129.979,165978.0,72.0
+104,The Bones,"Maren Morris, Hozier",Top Songs of 2020: Canada,0.561,0.597,11.0,-6.0,0.0,0.0405,0.286,0.0,0.0979,0.355,76.826,197299.0,66.0
+105,Higher Love,"Kygo, Whitney Houston",Top Songs of 2020: Canada,0.693,0.678,8.0,-7.159,1.0,0.0324,0.0151,5.71e-06,0.101,0.404,103.952,228267.0,72.0
+106,One Man Band,Old Dominion,Top Songs of 2020: Canada,0.706,0.358,6.0,-8.331,1.0,0.0347,0.677,0.0,0.107,0.478,75.991,186240.0,71.0
+107,Lucid Dreams,Juice WRLD,Top Songs of 2020: Canada,0.511,0.566,6.0,-7.23,0.0,0.2,0.349,0.0,0.34,0.218,83.903,239836.0,82.0
+108,More Than My Hometown,Morgan Wallen,Top Songs of 2020: Canada,0.62,0.869,6.0,-5.479,1.0,0.0462,0.615,0.0,0.131,0.597,126.019,216573.0,75.0
+109,Know Your Worth,"Khalid, Disclosure",Top Songs of 2020: Canada,0.79,0.694,9.0,-7.726,0.0,0.0708,0.145,0.00252,0.281,0.508,103.007,181436.0,66.0
+111,RITMO (Bad Boys For Life),"Black Eyed Peas, J Balvin",Top Songs of 2020: Canada,0.721,0.716,10.0,-7.037,0.0,0.0657,0.0334,0.00084,0.237,0.667,104.994,221714.0,69.0
+112,Good as Hell (feat. Ariana Grande) [Remix],Lizzo,Top Songs of 2020: Canada,0.668,0.892,5.0,-3.001,0.0,0.0645,0.298,0.0,0.735,0.478,95.927,159011.0,61.0
+113,No Guidance (feat. Drake),Chris Brown,Top Songs of 2020: Canada,0.696,0.454,1.0,-6.756,0.0,0.153,0.123,0.0,0.155,0.136,92.928,260640.0,76.0
+114,Robbery,Juice WRLD,Top Songs of 2020: Canada,0.623,0.692,2.0,-5.122,1.0,0.0504,0.328,0.0,0.153,0.566,79.899,240051.0,78.0
+115,Ransom,Lil Tecca,Top Songs of 2020: Canada,0.745,0.642,7.0,-6.257,0.0,0.287,0.0204,0.0,0.0658,0.226,179.974,131240.0,77.0
+116,Suicidal,YNW Melly,Top Songs of 2020: Canada,0.735,0.369,9.0,-9.682,0.0,0.0688,0.334,0.0,0.126,0.235,140.004,222997.0,71.0
+117,F.N,Lil Tjay,Top Songs of 2020: Canada,0.567,0.515,6.0,-10.265,0.0,0.247,0.354,0.0,0.078,0.321,120.1,224000.0,74.0
+118,It's You,Ali Gatie,Top Songs of 2020: Canada,0.732,0.463,11.0,-6.972,0.0,0.0287,0.374,0.0,0.194,0.397,95.971,212607.0,76.0
+119,Beautiful Crazy,Luke Combs,Top Songs of 2020: Canada,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,193200.0,77.0
+120,when the party's over,Billie Eilish,Top Songs of 2020: Canada,0.367,0.111,4.0,-14.084,1.0,0.0972,0.978,3.97e-05,0.0897,0.198,82.642,196077.0,80.0
+121,No Idea,Don Toliver,Top Songs of 2020: Canada,0.652,0.631,6.0,-5.718,0.0,0.0893,0.524,0.000579,0.165,0.35,127.998,154424.0,76.0
+122,Falling,Harry Styles,Top Songs of 2020: Canada,0.567,0.267,4.0,-6.502,1.0,0.0299,0.839,1.46e-06,0.089,0.0592,110.011,240133.0,81.0
+123,VIBEZ,DaBaby,Top Songs of 2020: Canada,0.768,0.652,1.0,-2.708,0.0,0.307,0.113,0.0,0.107,0.777,154.187,144935.0,66.0
+124,Hard to Forget,Sam Hunt,Top Songs of 2020: Canada,0.689,0.689,4.0,-5.517,1.0,0.045,0.23,0.0,0.57,0.664,130.069,204760.0,60.0
+125,Beautiful People (feat. Khalid),Ed Sheeran,Top Songs of 2020: Canada,0.64,0.648,5.0,-8.113,0.0,0.187,0.124,0.0,0.0802,0.548,92.977,197867.0,71.0
+126,Suge,DaBaby,Top Songs of 2020: Canada,0.876,0.662,2.0,-6.482,0.0,0.426,0.0608,0.0,0.127,0.844,75.445,163320.0,68.0
+127,drivers license,Olivia Rodrigo,Top Songs of 2021: Canada,0.561,0.431,10.0,-8.81,1.0,0.0578,0.768,1.42e-05,0.106,0.137,143.875,242013.0,83.0
+128,Levitating (feat. DaBaby),Dua Lipa,Top Songs of 2021: Canada,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,203064.0,81.0
+129,STAY,"The Kid LAROI, Justin Bieber",Top Songs of 2021: Canada,0.591,0.764,1.0,-5.484,1.0,0.0483,0.0383,0.0,0.103,0.478,169.928,141806.0,84.0
+130,WITHOUT YOU,The Kid LAROI,Top Songs of 2021: Canada,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,161385.0,75.0
+131,Forever After All,Luke Combs,Top Songs of 2021: Canada,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,232533.0,75.0
+132,Blinding Lights,The Weeknd,Top Songs of 2021: Canada,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,200040.0,88.0
+133,Kiss Me More (feat. SZA),Doja Cat,Top Songs of 2021: Canada,0.764,0.705,8.0,-3.463,1.0,0.0284,0.259,8.92e-05,0.12,0.781,110.97,208667.0,78.0
+134,Whoopty,CJ,Top Songs of 2021: Canada,0.719,0.648,3.0,-7.6,0.0,0.125,0.2,0.0,0.127,0.66,140.201,123263.0,70.0
+135,RAPSTAR,Polo G,Top Songs of 2021: Canada,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,165926.0,78.0
+136,Save Your Tears,The Weeknd,Top Songs of 2021: Canada,0.684,0.82,0.0,-5.495,1.0,0.0307,0.0216,2.33e-05,0.44,0.62,118.062,215627.0,0.0
+137,my ex's best friend,"Machine Gun Kelly, blackbear",Top Songs of 2021: Canada,0.731,0.675,5.0,-5.134,0.0,0.0434,0.00473,0.0,0.141,0.298,124.939,139461.0,74.0
+138,SO DONE,The Kid LAROI,Top Songs of 2021: Canada,0.719,0.598,9.0,-6.254,1.0,0.077,0.232,0.0,0.115,0.303,142.592,126521.0,70.0
+139,What You Know Bout Love,Pop Smoke,Top Songs of 2021: Canada,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,160000.0,77.0
+140,Wants and Needs (feat. Lil Baby),Drake,Top Songs of 2021: Canada,0.578,0.449,1.0,-6.349,1.0,0.286,0.0618,2.17e-06,0.119,0.1,136.006,192956.0,79.0
+141,Lonely,"Justin Bieber, benny blanco",Top Songs of 2021: Canada,0.619,0.241,11.0,-7.102,0.0,0.046,0.9,0.0,0.116,0.0719,79.461,149190.0,70.0
+142,Bad Habits,Ed Sheeran,Top Songs of 2021: Canada,0.807,0.893,11.0,-3.745,0.0,0.0347,0.0451,2.79e-05,0.366,0.537,126.011,230747.0,83.0
+143,Martin & Gina,Polo G,Top Songs of 2021: Canada,0.832,0.534,1.0,-7.813,0.0,0.253,0.345,0.0,0.165,0.116,93.924,132833.0,79.0
+144,deja vu,Olivia Rodrigo,Top Songs of 2021: Canada,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,215507.0,82.0
+145,you broke me first,Tate McRae,Top Songs of 2021: Canada,0.667,0.373,4.0,-9.389,1.0,0.05,0.785,0.0,0.0906,0.0823,124.148,169266.0,80.0
+146,Dance Monkey,Tones And I,Top Songs of 2021: Canada,0.824,0.588,6.0,-6.4,0.0,0.0924,0.692,0.000104,0.149,0.513,98.027,209438.0,74.0
+147,Watermelon Sugar,Harry Styles,Top Songs of 2021: Canada,0.548,0.816,0.0,-4.209,1.0,0.0465,0.122,0.0,0.335,0.557,95.39,174000.0,85.0
+148,Be Like That,"Kane Brown, Swae Lee, Khalid",Top Songs of 2021: Canada,0.727,0.626,7.0,-8.415,1.0,0.0726,0.0469,2.58e-05,0.126,0.322,86.97,191406.0,70.0
+149,Savage Love (Laxed - Siren Beat),"Jawsh 685, Jason Derulo",Top Songs of 2021: Canada,0.767,0.481,0.0,-8.52,0.0,0.0803,0.234,0.0,0.269,0.761,150.076,171375.0,72.0
+150,Monster,"Shawn Mendes, Justin Bieber",Top Songs of 2021: Canada,0.652,0.383,2.0,-7.076,0.0,0.0516,0.0676,0.0,0.0828,0.549,145.765,178994.0,69.0
+151,Hold On,Justin Bieber,Top Songs of 2021: Canada,0.658,0.634,1.0,-6.068,0.0,0.0431,0.0104,0.0,0.12,0.302,140.002,170813.0,72.0
+152,Calling My Phone,"Lil Tjay, 6LACK",Top Songs of 2021: Canada,0.907,0.393,4.0,-7.636,0.0,0.0539,0.451,1.35e-06,0.135,0.202,104.949,205458.0,76.0
+153,Beautiful Mistakes,"Maroon 5, Megan Thee Stallion",Top Songs of 2021: Canada,0.713,0.676,10.0,-5.483,1.0,0.027,0.0377,0.0,0.154,0.721,99.048,227395.0,77.0
+154,More Than My Hometown,Morgan Wallen,Top Songs of 2021: Canada,0.62,0.869,6.0,-5.479,1.0,0.0462,0.615,0.0,0.131,0.597,126.019,216573.0,75.0
+155,Anyone,Justin Bieber,Top Songs of 2021: Canada,0.686,0.538,2.0,-8.026,1.0,0.0345,0.181,3.13e-06,0.113,0.584,115.884,190779.0,71.0
+156,West Coast (feat. Quinn XCII),DVBBS,Top Songs of 2021: Canada,0.714,0.798,5.0,-4.239,0.0,0.0612,0.00248,0.000678,0.103,0.659,119.017,150819.0,57.0
+157,The Business,Tiësto,Top Songs of 2021: Canada,0.798,0.62,8.0,-7.079,0.0,0.232,0.414,0.0192,0.112,0.235,120.031,164000.0,78.0
+158,Wasted On You,Morgan Wallen,Top Songs of 2021: Canada,0.505,0.657,11.0,-5.24,0.0,0.0318,0.373,0.00107,0.126,0.252,196.0,178520.0,80.0
+159,Someone You Loved,Lewis Capaldi,Top Songs of 2021: Canada,0.501,0.405,1.0,-5.679,1.0,0.0319,0.751,0.0,0.105,0.446,109.891,182161.0,85.0
+160,Breaking Me,"Topic, A7S",Top Songs of 2021: Canada,0.789,0.72,8.0,-5.652,0.0,0.218,0.223,0.0,0.129,0.664,122.031,166794.0,73.0
+161,Somebody’s Problem,Morgan Wallen,Top Songs of 2021: Canada,0.658,0.538,5.0,-7.676,1.0,0.0289,0.657,0.0,0.123,0.62,136.967,161773.0,68.0
+162,Up,Cardi B,Top Songs of 2021: Canada,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,156945.0,69.0
+163,Good Days,SZA,Top Songs of 2021: Canada,0.436,0.655,1.0,-8.37,0.0,0.0583,0.499,8.1e-06,0.688,0.412,121.002,279204.0,78.0
+164,Starting Over,Chris Stapleton,Top Songs of 2021: Canada,0.638,0.538,10.0,-8.445,1.0,0.0315,0.452,0.000415,0.0695,0.318,89.124,240413.0,70.0
+165,Cover Me Up,Morgan Wallen,Top Songs of 2021: Canada,0.549,0.44,7.0,-8.192,1.0,0.0264,0.232,7.37e-06,0.107,0.214,128.01,293707.0,74.0
+166,Circles,Post Malone,Top Songs of 2021: Canada,0.695,0.762,0.0,-3.497,1.0,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280.0,83.0
+167,Wonder,Shawn Mendes,Top Songs of 2021: Canada,0.333,0.637,1.0,-4.904,0.0,0.0581,0.131,1.8e-05,0.149,0.132,139.898,172693.0,1.0
+168,7 Summers,Morgan Wallen,Top Songs of 2021: Canada,0.466,0.786,0.0,-5.13,1.0,0.0328,0.417,6.1e-05,0.125,0.571,203.903,210507.0,72.0
+169,Tyler Herro,Jack Harlow,Top Songs of 2021: Canada,0.792,0.793,5.0,-6.185,0.0,0.0841,0.0872,0.0,0.22,0.775,123.031,156578.0,71.0
+170,Dancing In The Moonlight (feat. NEIMY),Jubël,Top Songs of 2021: Canada,0.659,0.615,11.0,-5.865,0.0,0.0644,0.27,0.0,0.187,0.193,119.843,164010.0,71.0
+171,traitor,Olivia Rodrigo,Top Songs of 2021: Canada,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,229227.0,83.0
+172,What’s Next,Drake,Top Songs of 2021: Canada,0.781,0.594,0.0,-6.959,0.0,0.0485,0.0136,0.0,0.162,0.0628,129.895,178154.0,71.0
+173,Whiskey Glasses,Morgan Wallen,Top Songs of 2021: Canada,0.614,0.68,6.0,-4.58,1.0,0.0289,0.369,1.84e-06,0.115,0.707,149.959,234347.0,77.0
+174,willow,Taylor Swift,Top Songs of 2021: Canada,0.392,0.574,7.0,-9.195,1.0,0.17,0.833,0.00179,0.145,0.529,81.112,214707.0,74.0
+175,Dior,Pop Smoke,Top Songs of 2021: Canada,0.548,0.805,7.0,-5.732,1.0,0.351,0.212,0.000389,0.408,0.648,142.094,216387.0,79.0
+176,One of Them Girls,Lee Brice,Top Songs of 2021: Canada,0.643,0.79,4.0,-6.079,1.0,0.0461,0.29,0.0,0.107,0.808,95.981,188893.0,69.0
+177,Before You Go,Lewis Capaldi,Top Songs of 2021: Canada,0.459,0.575,3.0,-4.858,1.0,0.0573,0.604,0.0,0.0885,0.183,111.881,215107.0,81.0
+179,Beautiful Crazy,Luke Combs,Top Songs of 2021: Canada,0.551,0.402,11.0,-7.431,1.0,0.0262,0.676,0.0,0.0928,0.382,103.313,193200.0,77.0
+180,Come & Go,"Juice WRLD, Marshmello",Top Songs of 2021: Canada,0.625,0.814,0.0,-5.181,1.0,0.0657,0.0172,0.0,0.158,0.535,144.991,205485.0,75.0
+181,Ride It,Regard,Top Songs of 2021: Canada,0.88,0.751,7.0,-4.258,0.0,0.0874,0.177,6.43e-05,0.106,0.884,117.948,157606.0,76.0
+182,Don't Start Now,Dua Lipa,Top Songs of 2021: Canada,0.726,0.588,4.0,-12.406,0.0,0.0569,0.00168,0.00814,0.0809,0.673,114.988,267253.0,34.0
+183,Still Goin' Down,Morgan Wallen,Top Songs of 2021: Canada,0.58,0.752,7.0,-5.078,1.0,0.0267,0.49,0.0,0.277,0.72,148.108,186293.0,64.0
+184,The Box,Roddy Ricch,Top Songs of 2021: Canada,0.896,0.586,10.0,-6.687,0.0,0.0559,0.104,0.0,0.79,0.642,116.971,196653.0,78.0
+185,goosebumps,Travis Scott,Top Songs of 2021: Canada,0.841,0.728,7.0,-3.37,1.0,0.0484,0.0847,0.0,0.149,0.43,130.049,243837.0,81.0
+186,HEARTBREAK ANNIVERSARY,GIVĒON,Top Songs of 2021: Canada,0.449,0.465,0.0,-8.964,1.0,0.0791,0.524,1.02e-06,0.303,0.543,89.087,198371.0,77.0
+187,Sand In My Boots,Morgan Wallen,Top Songs of 2021: Canada,0.403,0.537,3.0,-6.628,1.0,0.031,0.59,0.0,0.112,0.414,69.877,202133.0,74.0
+188,Back In Blood (feat. Lil Durk),Pooh Shiesty,Top Songs of 2021: Canada,0.759,0.538,8.0,-8.256,0.0,0.384,0.151,0.0,0.126,0.831,146.933,184490.0,68.0
+189,Hell of a View,Eric Church,Top Songs of 2021: Canada,0.689,0.592,5.0,-6.758,1.0,0.0235,0.101,0.00867,0.11,0.919,98.997,175027.0,64.0
+191,Spicy (feat. Post Malone),Ty Dolla $ign,Top Songs of 2021: Canada,0.782,0.51,4.0,-5.724,0.0,0.0419,0.143,0.0,0.115,0.118,99.993,143375.0,68.0
+192,Take You Dancing,Jason Derulo,Top Songs of 2021: Canada,0.789,0.711,2.0,-4.248,1.0,0.041,0.0332,0.0,0.0876,0.753,112.985,190306.0,73.0
+193,Lil Bit,"Nelly, Florida Georgia Line",Top Songs of 2021: Canada,0.707,0.689,4.0,-7.097,0.0,0.0387,0.0255,0.0,0.383,0.41,119.987,195962.0,65.0
+194,Element,Pop Smoke,Top Songs of 2021: Canada,0.772,0.878,2.0,-4.22,1.0,0.324,0.0301,2.18e-06,0.251,0.305,61.311,135747.0,76.0
+195,You're Mines Still,Yung Bleu,Top Songs of 2021: Canada,0.615,0.594,5.0,-5.168,0.0,0.113,0.331,0.0,0.117,0.357,85.81,226220.0,43.0
+196,bad guy,Billie Eilish,Top Songs of 2021: Canada,0.701,0.425,7.0,-10.965,1.0,0.375,0.328,0.13,0.1,0.562,135.128,194088.0,80.0
+197,I Hope,Gabby Barrett,Top Songs of 2021: Canada,0.466,0.536,6.0,-6.227,1.0,0.0429,0.0951,0.0,0.114,0.377,75.998,210773.0,70.0
